@@ -1,0 +1,42 @@
+{
+    "config" : {
+      "activate_button" : 200,
+      "admob_appid" : "ca-app-pub-7796159137377981~6311453790",
+      "admob_bn" : "ca-app-pub-7796159137377981/4385140367",
+      "admob_n" : "ca-app-pub-7796159137377981/2880487003",
+      "admob_pub" : "pub-7796159137377981",
+      "admob_r" : "ca-app-pub-7796159137377981/4193568674",
+      "admobe_it" : "ca-app-pub-7796159137377981/3072058699",
+      "ads" : [  "unity", "fb", "admob" ],
+     
+        "banned" : 0,
+        "link" : "https://play.google.com/store/apps/details?id=video.downloader.videodownloader"
+    ,
+      "banner_ads" : [ "admob", "fb", "admob", "unity" ],
+      "delay" : 30000,
+      "developer" : "LETSBETHEBESTHERE",
+      "email" : "marioschreiner2021@gmail.com",
+      "fb_banner" : "435323850860694_435323894194023",
+      "fb_inter_id" : "435323850860694_435323887527357",
+      "fb_native" : "435323850860694_435323890860690",
+      "flipper_image" : [ "https://mydesktopwalls.com/wp-content/uploads/2020/07/PUBG-Background-1024x576.jpg", "https://i.redd.it/xx7jl1ao0fsz.png", "https://www.google.com/search?q=pubg+background&safe=active&client=opera&hs=22c&sxsrf=ALeKk03J5h-iisxASUwgQ8BEcC35f8_BbQ:1601541992811&source=lnms&tbm=isch&sa=X&ved=2ahUKEwi24svsgJPsAhUvDmMBHW7aA-wQ_AUoAXoECA0QAw&biw=1640&bih=909#imgrc=u-_n1spUMKSnyM" ],
+      "getusersdata" : 1,
+      "index" : "https://i.ibb.co/CHLGLZW/spin.png",
+      "instagram" : "https://www.instagram.com/android_pubg/",
+    
+      "myownads" : [ "https://images.wallpapersden.com/image/download/pubg-mobile-season-14_72149_3840x2160.jpg", "https://wallpaperaccess.com/full/188406.jpg", "https://images.wallpapersden.com/image/download/pubg-mobile-season-14_72149_3840x2160.jpg" ],
+      "native_ads" : [  "admob", "fb" ],
+      "ownads" : 0,
+      "ownads_link" : "http://pubggiveaway.com/pubggiveaway/index.html?img=season14.jpg",
+      "package" : "com.spin_skin2021.wiyha2021",
+      "privacy" : "https://privqcyformyapps2021.blogspot.com/2021/01/privacy.html",
+      "rewaard_link" : [ "http://pubggiveaway.com/pubggiveaway/index.html?img=01_v2.png", "http://pubggiveaway.com/pubggiveaway/index.html?img=02_v2.jpg", "http://pubggiveaway.com/pubggiveaway/index.html?img=03_v2.jpg", "http://pubggiveaway.com/pubggiveaway/index.html?img=04_v2.png", "http://pubggiveaway.com/pubggiveaway/index.html?img=05_v2.jpg", "http://pubggiveaway.com/pubggiveaway/index.html?img=06_v2.jpg", "http://pubggiveaway.com/pubggiveaway/index.html?img=07_v2.jpg", "http://pubggiveaway.com/pubggiveaway/index.html?img=08_v2.jpg" ],
+      "store" : 0,
+      "template" : "https://i.ibb.co/fDGm5Zx/template.png",
+      "test" : 1,
+      "unity_app_id" : "3845151",
+      "winimagelist" : [ "https://i.ibb.co/myTT7HX/01.png", "https://i.ibb.co/HPYbn7m/02.jpg", "https://i.ibb.co/MNNcYGQ/03.jpg", "https://i.ibb.co/Kwvv5rN/04.png", "https://i.ibb.co/nfcH55z/05.jpg", "https://i.ibb.co/dQrT2rW/06.jpg", "https://i.ibb.co/mTsRZT2/07.jpg", "https://i.ibb.co/G2FXKZ8/08.jpg" ],
+      "youtube" : "https://www.youtube.com/channel/UCnD5SfKyMhJ6Rekhcd6wX9g/featured?view_as=subscriber"
+    }
+  }
+  
