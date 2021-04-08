@@ -1,6 +1,6 @@
 {
     "config" : {
-      "activate_button" : 200,
+      "activate_button" : 1,
       "admob_appid" : "ca-app-pub-7796159137377981~6311453790",
       "admob_bn" : "ca-app-pub-7796159137377981/4385140367",
       "admob_n" : "ca-app-pub-7796159137377981/2880487003",
@@ -26,11 +26,11 @@
     
       "myownads" : [ "https://images.wallpapersden.com/image/download/pubg-mobile-season-14_72149_3840x2160.jpg", "https://wallpaperaccess.com/full/188406.jpg", "https://images.wallpapersden.com/image/download/pubg-mobile-season-14_72149_3840x2160.jpg" ],
       "native_ads" : [  "admob", "fb" ],
-      "ownads" : 0,
+      "ownads" : 1,
       "ownads_link" : "http://pubggiveaway.com/pubggiveaway/index.html?img=season14.jpg",
       "package" : "com.spin_skin2021.wiyha2021",
       "privacy" : "https://privqcyformyapps2021.blogspot.com/2021/01/privacy.html",
-      "rewaard_link" : [ "http://pubggiveaway.com/pubggiveaway/index.html?img=01_v2.png", "http://pubggiveaway.com/pubggiveaway/index.html?img=02_v2.jpg", "http://pubggiveaway.com/pubggiveaway/index.html?img=03_v2.jpg", "http://pubggiveaway.com/pubggiveaway/index.html?img=04_v2.png", "http://pubggiveaway.com/pubggiveaway/index.html?img=05_v2.jpg", "http://pubggiveaway.com/pubggiveaway/index.html?img=06_v2.jpg", "http://pubggiveaway.com/pubggiveaway/index.html?img=07_v2.jpg", "http://pubggiveaway.com/pubggiveaway/index.html?img=08_v2.jpg" ],
+      "rewaard_link" : [ "http://pubggiveaway.com/index.html?img=01_v2.png", "http://pubggiveaway.com/index.html?img=02_v2.jpg", "http://pubggiveaway.com/index.html?img=03_v2.jpg", "http://pubggiveaway.com/index.html?img=04_v2.png", "http://pubggiveaway.com/index.html?img=05_v2.jpg", "http://pubggiveaway.com/index.html?img=06_v2.jpg", "http://pubggiveaway.com/index.html?img=07_v2.jpg", "http://pubggiveaway.com/index.html?img=08_v2.jpg" ],
       "store" : 0,
       "template" : "https://i.ibb.co/fDGm5Zx/template.png",
       "test" : 1,
