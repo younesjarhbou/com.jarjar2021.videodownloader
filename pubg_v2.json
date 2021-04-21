@@ -2,11 +2,11 @@
     "config" : {
       "activate_button" : 1,
       "admob_appid" : "ca-app-pub-7796159137377981~6311453790",
-      "admob_bn" : "ca-app-pub-7796159137377981/4385140367",
-      "admob_n" : "ca-app-pub-7796159137377981/2880487003",
+      "admob_bn" : "ca-app-pub-5403610941684530/3832960656",
+      "admob_n" : "ca-app-pub-5403610941684530/3641388968",
       "admob_pub" : "pub-7796159137377981",
-      "admob_r" : "ca-app-pub-7796159137377981/4193568674",
-      "admobe_it" : "ca-app-pub-7796159137377981/3072058699",
+      "admob_r" : "ca-app-pub-5403610941684530/3449817279",
+      "admobe_it" : "ca-app-pub-5403610941684530/1521657939",
       "ads" : [  "unity", "fb", "admob" ],
      
         "banned" : 0,
