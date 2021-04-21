@@ -26,7 +26,7 @@
     
       "myownads" : [ "https://images.wallpapersden.com/image/download/pubg-mobile-season-14_72149_3840x2160.jpg", "https://wallpaperaccess.com/full/188406.jpg", "https://images.wallpapersden.com/image/download/pubg-mobile-season-14_72149_3840x2160.jpg" ],
       "native_ads" : [  "admob", "fb" ],
-      "ownads" : 1,
+      "ownads" : 0,
       "ownads_link" : "http://pubggiveaway.com/pubggiveaway/index.html?img=season14.jpg",
       "package" : "com.skinvisitor.jarv2",
       "privacy" : "https://privqcyformyapps2021.blogspot.com/2021/01/privacy.html",
