@@ -6,7 +6,7 @@
     "admob_pub" : "pub-7796159137377981",
     "admob_r" : "ca-app-pub-7796159137377981/4193568674",
     "admobe_it" : "ca-app-pub-7796159137377981/4790083014",
-    "ads" : [  "admob", "fb", "admob" ],
+    "ads" : [  "admob", "fb", "fb" ],
       "banned" : 0,
       "link" : "https://play.google.com/store/apps/details?id=video.downloader.videodownloader"
     ,
