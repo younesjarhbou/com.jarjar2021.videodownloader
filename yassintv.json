@@ -1,11 +1,11 @@
 {
     "config" : {
       "admob_appid" : "ca-app-pub-7796159137377981~8373286567",
-      "admob_bn" : "ca-app-pub-7796159137377981/1634464309",
-      "admob_n" : "ca-app-pub-7796159137377981/2755974280",
-      "admob_pub" : "pub-7796159137377981",
+      "admob_bn" : "ca-app-pub-9997591827752650/3584235563",
+      "admob_n" : "ca-app-pub-9997591827752650/1764737497",
+      "admob_pub" : "pub-9997591827752650",
       "admob_r" : "ca-app-pub-7796159137377981/4193568674",
-      "admobe_it" : "ca-app-pub-7796159137377981/4790083014",
+      "admobe_it" : "ca-app-pub-9997591827752650/4390900832",
       "ads" : [  "admob", "fb", "admob" ],
         "banned" : 0,
         "link" : "https://play.google.com/store/apps/details?id=video.downloader.videodownloader"
