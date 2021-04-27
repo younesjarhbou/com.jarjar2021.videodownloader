@@ -10,7 +10,7 @@
       "banned" : 0,
       "link" : "https://play.google.com/store/apps/details?id=video.downloader.videodownloader"
     ,
-    "banner_ads" : ["admob", "fb", "fb", "admob" ],
+    "banner_ads" : ["fb", "fb", "fb", "fb" ],
     "delay_native_banner" : 15000,
     "developer" : "tikchbilaachmikira",
     "email" : "marioschreiner2021@gmail.com",
