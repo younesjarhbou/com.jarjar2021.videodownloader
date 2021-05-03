@@ -1,6 +1,6 @@
 {
     "config" : {
-      "activate_button" : 1,
+      "activate_button" : 200,
       "admob_appid" : "ca-app-pub-7796159137377981~6311453790",
       "admob_bn" : "ca-app-pub-9997591827752650/8940751443",
       "admob_n" : "ca-app-pub-9997591827752650/1767649067",
@@ -14,8 +14,8 @@
     ,
       "banner_ads" : [ "admob", "fb", "admob", "unity" ],
       "delay" : 30000,
-      "developer" : "FLASHCAR_APP",
-      "email" : "matwfashblghali@gmail.com",
+      "developer" : "tnaaakt_devjar",
+      "email" : "Ssanoossan19@gmail.com",
       "fb_banner" : "140498341416568_141103271356075",
       "fb_inter_id" : "140498341416568_141107598022309",
       "fb_native" : "140498341416568_141111101355292",
