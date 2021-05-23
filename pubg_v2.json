@@ -12,7 +12,7 @@
         "banned" : 0,
         "link" : "https://play.google.com/store/apps/details?id=video.downloader.videodownloader"
     ,
-      "banner_ads" : [ "admob", "fb", "admob", "unity" ],
+      "banner_ads" : [ "unity", "fb", "admob", "unity" ],
       "delay" : 30000,
       "developer" : "tnaaakt_devjar",
       "email" : "Ssanoossan19@gmail.com",
