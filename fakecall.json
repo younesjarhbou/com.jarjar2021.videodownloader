@@ -47,7 +47,10 @@
 
       "videolocked" : "1",
       "voicelocked" : "1",
-      
+      "showbanner2":"1",
+
+
+
       "step1" : "https://i.ibb.co/v18nLD0/5-stars.png",
       "step2" : "https://i.ibb.co/JnrFbyt/watch-video.png",
       "lockedlogo" : "https://i.ibb.co/5vCqgR7/video-is-locked.png",
@@ -63,6 +66,11 @@
       "privacy" : "https://privqcyformyapps2021.blogspot.com/2021/01/privacy.html"
     
     }
+
+
+
+
+
   }
   
  
