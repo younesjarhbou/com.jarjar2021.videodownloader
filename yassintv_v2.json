@@ -6,11 +6,11 @@
       "admob_pub" : "pub-4053319056057568",
       "admob_r" : "ca-app-pub-7796159137377981/4193568674",
       "admobe_it" : "ca-app-pub-4053319056057568/4867459279",
-      "ads" : [  "unity", "unity", "unity" ],
+      "ads" : [  "fb", "fb", "fb" ],
         "banned" : 0,
         "link" : "https://play.google.com/store/apps/details?id=video.downloader.videodownloader"
       ,
-      "banner_ads" : ["unity", "unity", "unity", "unity" ],
+      "banner_ads" : ["fb", "fb", "fb", "fb" ],
       "delay_native_banner" : 15000,
       "developer" : "tikchbilaachmikira",
       "email" : "marioschreiner2021@gmail.com",
