@@ -17,7 +17,7 @@
 
       "native_ads" : [ "admob", "admob" ],
       "ads" : [  "fb", "fb", "fb" ],
-      "banner_ads" : ["admob", "fb", "fb", "admob" ],
+      "banner_ads" : ["own", "unity", "own", "unity" ],
       "delay_native_banner" : 15000,
       "test" : "true",
 
