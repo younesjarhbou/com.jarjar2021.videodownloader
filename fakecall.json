@@ -19,9 +19,9 @@
 
       "unity_app_id" : "4172400",
 
-      "native_ads" : [ "admob", "admob" ],
-      "ads" : [  "mopup", "fb", "unity","admob" ],
-      "banner_ads" : ["mopup", "unity", "own", "admob" ],
+      "native_ads" : [ "admob", "fb" ],
+      "ads" : [  "mopup", "fb", "unity","admob","own" ],
+      "banner_ads" : ["mopup", "unity", "own", "admob","fb" ],
       "delay_native_banner" : 15000,
       "test" : "true",
 
