@@ -1,7 +1,7 @@
 {
     "config" : {
 
-      
+
       "mopup_banner" : "ff601169b7dd4af7bc1346daa098c99a",
       "mopup_inter" : "2eafbadcab654f4faabd3ff0d62ec959",
        
@@ -20,8 +20,8 @@
       "unity_app_id" : "4172400",
 
       "native_ads" : [ "admob", "admob" ],
-      "ads" : [  "own", "fb", "unity","admob" ],
-      "banner_ads" : ["own", "unity", "own", "admob" ],
+      "ads" : [  "mopup", "fb", "unity","admob" ],
+      "banner_ads" : ["mopup", "unity", "own", "admob" ],
       "delay_native_banner" : 15000,
       "test" : "true",
 
