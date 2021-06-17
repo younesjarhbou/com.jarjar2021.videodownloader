@@ -1,8 +1,11 @@
 {
     "config" : {
 
+      
 
-        "fb_banner" : "714799922733036_715927359286959",
+      "mopup_banner" : "ff601169b7dd4af7bc1346daa098c99a",
+      "mopup_inter" : "2eafbadcab654f4faabd3ff0d62ec959",
+       
         "fb_inter_id" : "714799922733036_718080879071607",
         "fb_native" : "714799922733036_718078162405212",
         
