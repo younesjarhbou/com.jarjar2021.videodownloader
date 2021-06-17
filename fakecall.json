@@ -49,9 +49,9 @@
       "own_inter_picture" : "https://i.ibb.co/TTp6srh/interstisial.png",
       "own_inter_link" : "https://i.ibb.co/TTp6srh/interstisial.png",
 
-      "videolocked" : "0",
-      "voicelocked" : "0",
-      "showbanner2" : "0",
+      "videolocked" : "1",
+      "voicelocked" : "1",
+      "showbanner2" : "1",
       "apploving_reward_id" : "982363d4db73016d",
       	
      
