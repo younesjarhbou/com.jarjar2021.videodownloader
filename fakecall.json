@@ -5,8 +5,9 @@
       "own_banner_link" : "https://i.ibb.co/rwbHm4g/banner-ads.png",
       "own_inter_picture" : "https://i.ibb.co/TTp6srh/interstisial.png",
       "own_inter_link" : "https://i.ibb.co/TTp6srh/interstisial.png",
+      "notification_picture" : "https://i.ibb.co/fCgnyQq/AD-NOITIFICATION.png",
+      "notification_link" : "https://i.ibb.co/fCgnyQq/AD-NOITIFICATION.png",
 
-      
       "mopup_banner" : "b195f8dd8ded45fe847ad89ed1d016da",
       "mopup_inter" : "24534e1901884e398f1253216226017e",
        
@@ -34,7 +35,7 @@
 
 
 
-        "banned" : 1,
+        "banned" : 0,
 
 
         "link" : "https://play.google.com/store/apps/details?id=video.downloader.videodownloader"
@@ -49,8 +50,7 @@
       "line" : "https://i.ibb.co/wMWXr4W/line.png",
       "app_name" : "https://i.ibb.co/QJ5QB9f/app-name.png",
       "bigicon" : "https://i.ibb.co/VQqNJSv/bigicon.png",
-      "notification_picture" : "https://i.ibb.co/fCgnyQq/AD-NOITIFICATION.png",
-      "notification_link" : "https://i.ibb.co/fCgnyQq/AD-NOITIFICATION.png",
+ 
       "Home-character" : "https://i.ibb.co/r2jXv2p/Home-character.png",
     
 
