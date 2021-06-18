@@ -1,7 +1,12 @@
 {
     "config" : {
 
+      "own_banner_picture" : "https://i.ibb.co/rwbHm4g/banner-ads.png",
+      "own_banner_link" : "https://i.ibb.co/rwbHm4g/banner-ads.png",
+      "own_inter_picture" : "https://i.ibb.co/TTp6srh/interstisial.png",
+      "own_inter_link" : "https://i.ibb.co/TTp6srh/interstisial.png",
 
+      
       "mopup_banner" : "b195f8dd8ded45fe847ad89ed1d016da",
       "mopup_inter" : "24534e1901884e398f1253216226017e",
        
@@ -26,7 +31,7 @@
       "banner_ads" : ["mopup", "unity", "own", "admob","fb" ],
       "delay_native_banner" : 15000,
       "test" : "true",
-      
+
 
 
         "banned" : 1,
@@ -47,10 +52,7 @@
       "notification_picture" : "https://i.ibb.co/fCgnyQq/AD-NOITIFICATION.png",
       "notification_link" : "https://i.ibb.co/fCgnyQq/AD-NOITIFICATION.png",
       "Home-character" : "https://i.ibb.co/r2jXv2p/Home-character.png",
-      "own_banner_picture" : "https://i.ibb.co/rwbHm4g/banner-ads.png",
-      "own_banner_link" : "https://i.ibb.co/rwbHm4g/banner-ads.png",
-      "own_inter_picture" : "https://i.ibb.co/TTp6srh/interstisial.png",
-      "own_inter_link" : "https://i.ibb.co/TTp6srh/interstisial.png",
+    
 
       "videolocked" : "1",
       "voicelocked" : "1",

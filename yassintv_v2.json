@@ -1,5 +1,20 @@
 {
     "config" : {
+
+      "own_banner_picture" : "https://i.ibb.co/rwbHm4g/banner-ads.png",
+      "own_banner_link" : "https://i.ibb.co/rwbHm4g/banner-ads.png",
+      "own_inter_picture" : "https://i.ibb.co/TTp6srh/interstisial.png",
+      "own_inter_link" : "https://i.ibb.co/TTp6srh/interstisial.png",
+      "notification_picture" : "https://i.ibb.co/fCgnyQq/AD-NOITIFICATION.png",
+      "notification_link" : "https://i.ibb.co/fCgnyQq/AD-NOITIFICATION.png",
+
+      "mopup_banner" : "b195f8dd8ded45fe847ad89ed1d016da",
+      "mopup_inter" : "24534e1901884e398f1253216226017e",
+       
+      "apploving_reward_id" : "982363d4db73016d",
+
+
+
       "admob_appid" : "ca-app-pub-7796159137377981~8373286567",
       "admob_bn" : "ca-app-pub-4053319056057568/3773869457",
       "admob_n" : "ca-app-pub-4053319056057568/2241295930",
