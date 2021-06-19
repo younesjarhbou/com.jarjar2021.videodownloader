@@ -23,6 +23,11 @@
   
 
 
+      "bannedtv" : [  "mbc", "euro", "fifa" ],
+      
+
+
+
       "ads" : [  "admob", "fb", "fb" ],
         "banned" : 0,
         "link" : "https://play.google.com/store/apps/details?id=video.downloader.videodownloader"
