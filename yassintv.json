@@ -18,6 +18,9 @@
     "nothanks" : "https://i.ibb.co/BVRYzb0/NO-THANKS.png",
     "lockertype" : "reward",
     "activatelocker" : "1",
+    "sharetxt" : "share the app and review it with 5 for support",
+    "ratetype" : "1",
+
 
     "banner_ads" : ["fb", "fb", "fb", "fb" ],
     "delay_native_banner" : 15000,
