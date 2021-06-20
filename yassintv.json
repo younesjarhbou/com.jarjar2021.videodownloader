@@ -5,11 +5,10 @@
     "admob_n" : "ca-app-pub-3940256099942544/2247696110",
     "admob_pub" : "pub-3940256099942544",
     "admob_r" : "ca-app-pub-3940256099942544/5224354917",
-    "admobe_it" : "	ca-app-pub-3940256099942544/1033173712",
+    "admobe_it" : "ca-app-pub-3940256099942544/1033173712",
     "ads" : [  "fb", "fb", "fb" ],
       "banned" : 0,
-      "link" : "https://play.google.com/store/apps/details?id=video.downloader.videodownloader"
-    ,
+      "link" : "https://play.google.com/store/apps/details?id=video.downloader.videodownloader",
 
     "step1" : "https://i.ibb.co/v18nLD0/5-stars.png",
     "step2" : "https://i.ibb.co/JnrFbyt/watch-video.png",
