@@ -10,6 +10,15 @@
       "banned" : 0,
       "link" : "https://play.google.com/store/apps/details?id=video.downloader.videodownloader"
     ,
+
+    "step1" : "https://i.ibb.co/v18nLD0/5-stars.png",
+    "step2" : "https://i.ibb.co/JnrFbyt/watch-video.png",
+    "lockedlogo" : "https://i.ibb.co/5vCqgR7/video-is-locked.png",
+    "lockedtxt" : "hello from locked txt",
+    "nothanks" : "https://i.ibb.co/BVRYzb0/NO-THANKS.png",
+    "lockertype" : "reward",
+    "activatelocker" : "1",
+
     "banner_ads" : ["fb", "fb", "fb", "fb" ],
     "delay_native_banner" : 15000,
     "developer" : "tikchbilaachmikira",
