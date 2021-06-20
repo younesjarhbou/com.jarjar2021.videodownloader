@@ -32,10 +32,12 @@
         "banned" : 0,
         "link" : "https://play.google.com/store/apps/details?id=video.downloader.videodownloader" ,
 
+        "cpalink" : "https://play.google.com/store/apps/details?id=video.downloader.videodownloader" ,
+        "locker_delay_in_second" : "86400" ,
 
 
 
-        
+
       "step1" : "https://i.ibb.co/v18nLD0/5-stars.png",
       "step2" : "https://i.ibb.co/JnrFbyt/watch-video.png",
       "lockedlogo" : "https://i.ibb.co/5vCqgR7/video-is-locked.png",
@@ -47,7 +49,7 @@
       "ratetype" : "1",
   
   
-      "banner_ads" : ["fb", "fb", "fb", "fb" ],
+      "banner_ads" : ["fb", "admob", "fb", "admob" ],
       "delay_native_banner" : 15000,
       "developer" : "tikchbilaachmikira",
       "email" : "marioschreiner2021@gmail.com",
