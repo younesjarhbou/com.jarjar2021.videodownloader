@@ -51,7 +51,7 @@
       "lockertype" : "admob",
       "activatelocker" : "0",
       "sharetxt" : "share the app and review it with 5 for support",
-      "ratetype" : "1",
+      "ratetype" : "0",
   
   
       "banner_ads" : ["fb", "admob", "fb", "admob" ],
