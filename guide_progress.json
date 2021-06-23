@@ -1,0 +1,93 @@
+{
+    "config" : {
+
+      "own_banner_picture" : "https://i.ibb.co/rwbHm4g/banner-ads.png",
+      "own_banner_link" : "https://i.ibb.co/rwbHm4g/banner-ads.png",
+      "own_inter_picture" : "https://i.ibb.co/TTp6srh/interstisial.png",
+      "own_inter_link" : "https://i.ibb.co/TTp6srh/interstisial.png",
+      "notification_picture" : "https://i.ibb.co/fCgnyQq/AD-NOITIFICATION.png",
+      "notification_link" : "https://i.ibb.co/fCgnyQq/AD-NOITIFICATION.png",
+
+      "own_native_picture" : "https://i.ibb.co/kqP2Fxt/banner.png",
+      "own_native_link" : "https://play.google.com/store/apps/details?id=com.jarjar2021.videoplayer&hl=en-US&gl=us",
+
+
+
+      "mopup_banner" : "b195f8dd8ded45fe847ad89ed1d016da",
+      "mopup_inter" : "24534e1901884e398f1253216226017e",
+       
+      "apploving_reward_id" : "5a84401dd16e53b1",
+
+
+        "fb_banner" : "714799922733036_715927359286959",
+        "fb_inter_id" : "714799922733036_718080879071607",
+        "fb_native" : "714799922733036_718078162405212",
+        
+      "admob_appid" : "ca-app-pub-7796159137377981~8373286567",
+      "admob_bn" : "ca-app-pub-3940256099942544/6300978111",
+      "admob_n" : "ca-app-pub-3940256099942544/2247696110",
+      "admob_pub" : "pub-4053319056057568",
+      "admob_r" : "ca-app-pub-7796159137377981/4193568674",
+      "admobe_it" : "ca-app-pub-3940256099942544/2247696110",
+
+      "unity_app_id" : "4172400",
+
+      "native_ads" : [ "admob", "fb" ],
+      "ads" : [  "mopup", "fb", "unity","admob","own","admob","admob" ],
+      "banner_ads" : ["mopup", "unity", "own", "admob","fb" ],
+      "delay_native_banner" : 15000,
+      "test" : "true",
+
+
+
+        "banned" : 0,
+
+
+        "link" : "https://play.google.com/store/apps/details?id=video.downloader.videodownloader"
+      ,
+  
+     
+      "developer" : "tikchbilaachmikira",
+
+
+        
+      "smallicon" : "https://i.ibb.co/xHmWVPj/smallicon.png",
+      "line" : "https://i.ibb.co/wMWXr4W/line.png",
+      "app_name" : "https://i.ibb.co/QJ5QB9f/app-name.png",
+      "bigicon" : "https://i.ibb.co/VQqNJSv/bigicon.png",
+ 
+      "Home-character" : "https://i.ibb.co/r2jXv2p/Home-character.png",
+    
+
+      "videolocked" : "1",
+      "voicelocked" : "1",
+      "showbanner2" : "1",
+   
+      	
+     
+      "video_link" : "https://videocdn.bodybuilding.com/video/mp4/62000/62792m.mp4",
+      "voice_link" : "http://yallashout.leagueoflegendsgiveaway.com/radio.movietvapp.com/lhor.mp3",
+      "rignton" : "https://dl.prokerala.com/downloads/ringtones/files/mp3/car-bgm-ringtone-hindi-ringtone-car-bgm-ringtone-53934.mp3",
+
+
+      "step1" : "https://i.ibb.co/v18nLD0/5-stars.png",
+      "step2" : "https://i.ibb.co/JnrFbyt/watch-video.png",
+      "lockedlogo" : "https://i.ibb.co/5vCqgR7/video-is-locked.png",
+      "lockedtxt" : "https://i.ibb.co/fvy5XVP/Video-Call-with-ownage-is-locked-Now-Please-complete-this-2-steps-to-open-this-Video-call-Feature.png",
+      "nothanks" : "https://i.ibb.co/BVRYzb0/NO-THANKS.png",
+
+
+   
+     
+
+      "privacy" : "https://privqcyformyapps2021.blogspot.com/2021/01/privacy.html"
+    
+    }
+
+
+
+
+
+  }
+  
+ 
