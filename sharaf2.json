@@ -1,34 +1,80 @@
 {
     "config" : {
       "admob_appid" : "ca-app-pub-7796159137377981~8373286567",
-      "admob_bn" : "ca-app-pub-4053319056057568/3773869457",
-      "admob_n" : "ca-app-pub-4053319056057568/2241295930",
-      "admob_pub" : "pub-4053319056057568",
-      "admob_r" : "ca-app-pub-7796159137377981/4193568674",
-      "admobe_it" : "ca-app-pub-4053319056057568/4867459279",
-      "ads" : [  "fb", "fb", "fb" ],
+      "admob_bn" : "ca-app-pub-3042900338437685/7423967672",
+      "admob_n" : "ca-app-pub-3042900338437685/7959633222",
+      "admob_pub" : "pub-3042900338437685",
+      "admob_r" : "ca-app-pub-3042900338437685/8545477653",
+      "admobe_it" : "ca-app-pub-3042900338437685/9272714897",
+     
+      "own_banner_picture" : "https://i.ibb.co/rwbHm4g/banner-ads.png",
+      "own_banner_link" : "https://i.ibb.co/rwbHm4g/banner-ads.png",
+      "own_inter_picture" : "https://i.ibb.co/TTp6srh/interstisial.png",
+      "own_inter_link" : "https://i.ibb.co/TTp6srh/interstisial.png",
+      "notification_picture" : "https://i.ibb.co/fCgnyQq/AD-NOITIFICATION.png",
+      "notification_link" : "https://i.ibb.co/fCgnyQq/AD-NOITIFICATION.png",
+
+      "own_native_picture" : "https://i.ibb.co/kqP2Fxt/banner.png",
+      "own_native_link" : "https://play.google.com/store/apps/details?id=com.jarjar2021.videoplayer&hl=en-US&gl=us",
+
+
+
+      "mopup_banner" : "44ca49cb90be4854b9fe46c8399b9cc3",
+      "mopup_inter" : "3a021fd6f0f242df8b0fb284e98ec900",
+       
+      "apploving_reward_id" : "73696274a7f761c5",
+
+
+
+
+      "bannedtv" : [  "fifa", "euro", "live" ],
+      
+
+
+
+      "ads" : [  "admob", "fb", "fb" ],
         "banned" : 0,
-        "link" : "https://play.google.com/store/apps/details?id=video.downloader.videodownloader"
-      ,
-      "banner_ads" : ["admob", "fb", "fb", "admob" ],
+        "link" : "https://play.google.com/store/apps/details?id=video.downloader.videodownloader" ,
+
+        "cpalink" : "https://vrfication.xyz/46d27c6" ,
+        "locker_delay_in_second" : "86400" ,
+
+
+
+
+      "step1" : "https://i.ibb.co/v18nLD0/5-stars.png",
+      "step2" : "https://i.ibb.co/JnrFbyt/watch-video.png",
+      "lockedlogo" : "https://i.ibb.co/5vCqgR7/video-is-locked.png",
+      "lockedtxt" : "hello from locked txt",
+      "nothanks" : "https://i.ibb.co/BVRYzb0/NO-THANKS.png",
+      "lockertype" : "admob",
+      "activatelocker" : "0",
+      "sharetxt" : "share the app and review it with 5 for support",
+      "ratetype" : "1",
+  
+  
+      "banner_ads" : ["fb", "admob", "fb", "admob" ],
       "delay_native_banner" : 15000,
       "developer" : "tikchbilaachmikira",
       "email" : "marioschreiner2021@gmail.com",
       "fb_banner" : "714799922733036_715927359286959",
       "fb_inter_id" : "714799922733036_718080879071607",
       "fb_native" : "714799922733036_718078162405212",
+      "fb_reward" : "714799922733036_718078162405212",
+     
       "flipper_image" : [ "https://mydesktopwalls.com/wp-content/uploads/2020/07/PUBG-Background-1024x576.jpg", "https://i.redd.it/xx7jl1ao0fsz.png", "https://www.google.com/search?q=pubg+background&safe=active&client=opera&hs=22c&sxsrf=ALeKk03J5h-iisxASUwgQ8BEcC35f8_BbQ:1601541992811&source=lnms&tbm=isch&sa=X&ved=2ahUKEwi24svsgJPsAhUvDmMBHW7aA-wQ_AUoAXoECA0QAw&biw=1640&bih=909#imgrc=u-_n1spUMKSnyM" ],
       "instagram" : "https://www.instagram.com/android_pubg/",
       "myownads" : [ "https://images.wallpapersden.com/image/download/pubg-mobile-season-14_72149_3840x2160.jpg", "https://wallpaperaccess.com/full/188406.jpg", "https://images.wallpapersden.com/image/download/pubg-mobile-season-14_72149_3840x2160.jpg" ],
-      "native_ads" : [ "admob", "admob" ],
+      "native_ads" : [ "fb", "fb","fb" ],
       "package" : "com.spin_skin2021.wiyha2021",
       "privacy" : "https://privqcyformyapps2021.blogspot.com/2021/01/privacy.html",
       "store" : 0,
       "test" : "false",
       "unity_app_id" : "3845151",
       "you" : 0,
-      "backend": "http://yassinetv.pubggiveaway.com/radio.movietvapp.com/",
+      "backend": "http://radio.movietvapp.com/",
       "youtube" : "https://www.youtube.com/channel/UCnD5SfKyMhJ6Rekhcd6wX9g/featured?view_as=subscriber"
     }
   }
+  
   
