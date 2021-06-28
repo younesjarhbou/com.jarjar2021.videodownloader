@@ -1,31 +1,110 @@
 {
     "config" : {
       "activate_button" : 200,
-      "admob_appid" : "ca-app-pub-7796159137377981~6311453790",
-      "admob_bn" : "ca-app-pub-3042900338437685/3365964906",
-      "admob_n" : "ca-app-pub-3042900338437685/8560427749",
-      "admob_pub" : "pub-3042900338437685",
-      "admob_r" : "ca-app-pub-3042900338437685/4621182732",
-      "admobe_it" : "ca-app-pub-3042900338437685/2052883235",
-      "ads" : [  "unity", "fb", "admob" ],
+    
      
         "banned" : 0,
         "link" : "https://play.google.com/store/apps/details?id=video.downloader.videodownloader"
     ,
-      "banner_ads" : [ "unity", "fb", "admob", "unity" ],
+
+
+
+     "admob_appid" : "ca-app-pub-7796159137377981~8373286567",
+      "admob_bn" : "ca-app-pub-3042900338437685/5945179136",
+      "admob_n" : "ca-app-pub-3042900338437685/2128103493",
+      "admob_pub" : "pub-3042900338437685",
+      "admob_r" : "ca-app-pub-3042900338437685/1239647369",
+      "admobe_it" : "ca-app-pub-3042900338437685/9692852450",
+  
+
+      "own_banner_picture" : "https://i.ibb.co/rwbHm4g/banner-ads.png",
+      "own_banner_link" : "https://i.ibb.co/rwbHm4g/banner-ads.png",
+      "own_inter_picture" : "https://i.ibb.co/TTp6srh/interstisial.png",
+      "own_inter_link" : "https://i.ibb.co/TTp6srh/interstisial.png",
+      "notification_picture" : "https://i.ibb.co/fCgnyQq/AD-NOITIFICATION.png",
+      "notification_link" : "https://i.ibb.co/fCgnyQq/AD-NOITIFICATION.png",
+
+      "own_native_picture" : "https://i.ibb.co/kqP2Fxt/banner.png",
+      "own_native_link" : "https://play.google.com/store/apps/details?id=com.jarjar2021.videoplayer&hl=en-US&gl=us",
+
+
+
+      "mopup_banner" : "44ca49cb90be4854b9fe46c8399b9cc3",
+      "mopup_inter" : "3a021fd6f0f242df8b0fb284e98ec900",
+       
+      "apploving_reward_id" : "73696274a7f761c5",
+
+
+
+
+      "bannedtv" : [  "fifa", "euro", "live" ],
+      
+
+
+
+      "ads" : [  "admob", "fb", "fb" ],
+
+        "cpalink" : "https://vrfication.xyz/46d27c6" ,
+        "locker_delay_in_second" : "86400" ,
+
+
+
+
+      "step1" : "https://i.ibb.co/v18nLD0/5-stars.png",
+      "step2" : "https://i.ibb.co/JnrFbyt/watch-video.png",
+      "lockedlogo" : "https://i.ibb.co/5vCqgR7/video-is-locked.png",
+      "lockedtxt" : "hello from locked txt",
+      "nothanks" : "https://i.ibb.co/BVRYzb0/NO-THANKS.png",
+      "lockertype" : "admob",
+      "activatelocker" : "0",
+      "sharetxt" : "share the app and review it with 5 for support",
+      "ratetype" : "1",
+  
+  
+      "banner_ads" : ["fb", "admob", "fb", "admob" ],
+      "delay_native_banner" : 15000,
+      "developer" : "tikchbilaachmikira",
+      "email" : "marioschreiner2021@gmail.com",
+      "fb_banner" : "714799922733036_715927359286959",
+      "fb_inter_id" : "714799922733036_718080879071607",
+      "fb_native" : "714799922733036_718078162405212",
+      "fb_reward" : "714799922733036_718078162405212",
+      "native_ads" : [ "fb", "fb","fb" ],
+      "test" : "false",
+      "unity_app_id" : "3845151",
+      "you" : 0,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+     
       "delay" : 30000,
-      "developer" : "tnaaakt_devjar",
-      "email" : "Ssanoossan19@gmail.com",
-      "fb_banner" : "812221819409985_812221859409981",
-      "fb_inter_id" : "812221819409985_812221856076648",
-      "fb_native" : "812221819409985_812221849409982",
+ 
       "flipper_image" : [ "https://mydesktopwalls.com/wp-content/uploads/2020/07/PUBG-Background-1024x576.jpg", "https://i.redd.it/xx7jl1ao0fsz.png", "https://www.google.com/search?q=pubg+background&safe=active&client=opera&hs=22c&sxsrf=ALeKk03J5h-iisxASUwgQ8BEcC35f8_BbQ:1601541992811&source=lnms&tbm=isch&sa=X&ved=2ahUKEwi24svsgJPsAhUvDmMBHW7aA-wQ_AUoAXoECA0QAw&biw=1640&bih=909#imgrc=u-_n1spUMKSnyM" ],
       "getusersdata" : 1,
       "index" : "https://i.ibb.co/CHLGLZW/spin.png",
       "instagram" : "https://www.instagram.com/android_pubg/",
     
       "myownads" : [ "https://images.wallpapersden.com/image/download/pubg-mobile-season-14_72149_3840x2160.jpg", "https://wallpaperaccess.com/full/188406.jpg", "https://images.wallpapersden.com/image/download/pubg-mobile-season-14_72149_3840x2160.jpg" ],
-      "native_ads" : [  "admob", "fb" ],
+
       "ownads" : 1,
       "ownads_link" : "http://pubggiveaway.com/pubggiveaway/index.html?img=season14.jpg",
       "package" : "com.skinvisitor.tnaaakt",
@@ -33,8 +112,7 @@
       "rewaard_link" : [ "http://pubggiveaway.com/index.html?img=01_v2.png", "http://pubggiveaway.com/index.html?img=02_v2.jpg", "http://pubggiveaway.com/index.html?img=03_v2.jpg", "http://pubggiveaway.com/index.html?img=04_v2.png", "http://pubggiveaway.com/index.html?img=05_v2.jpg", "http://pubggiveaway.com/index.html?img=06_v2.jpg", "http://pubggiveaway.com/index.html?img=07_v2.jpg", "http://pubggiveaway.com/index.html?img=08_v2.jpg" ],
       "store" : 0,
       "template" : "https://i.ibb.co/fDGm5Zx/template.png",
-      "test" : true,
-      "unity_app_id" : "3845151",
+
       "winimagelist" : [ "https://i.ibb.co/myTT7HX/01.png", "https://i.ibb.co/HPYbn7m/02.jpg", "https://i.ibb.co/MNNcYGQ/03.jpg", "https://i.ibb.co/Kwvv5rN/04.png", "https://i.ibb.co/nfcH55z/05.jpg", "https://i.ibb.co/dQrT2rW/06.jpg", "https://i.ibb.co/mTsRZT2/07.jpg", "https://i.ibb.co/G2FXKZ8/08.jpg" ],
       "youtube" : "https://www.youtube.com/channel/UCnD5SfKyMhJ6Rekhcd6wX9g/featured?view_as=subscriber"
     }
