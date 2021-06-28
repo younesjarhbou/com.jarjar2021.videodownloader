@@ -52,11 +52,14 @@
 
       "step1" : "https://i.ibb.co/v18nLD0/5-stars.png",
       "step2" : "https://i.ibb.co/JnrFbyt/watch-video.png",
+      "step3" : "https://i.ibb.co/JnrFbyt/watch-video.png",
       "lockedlogo" : "https://i.ibb.co/5vCqgR7/video-is-locked.png",
       "lockedtxt" : "hello from locked txt",
       "nothanks" : "https://i.ibb.co/BVRYzb0/NO-THANKS.png",
-      "lockertype" : "admob",
-      "activatelocker" : "0",
+      "step1type" : "admob",
+      "step2type" : "admob",
+      "step3type" : "admob",
+      "activatelocker" : "1",
       "sharetxt" : "share the app and review it with 5 for support",
       "ratetype" : "1",
   
