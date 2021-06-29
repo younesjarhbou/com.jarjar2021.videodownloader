@@ -1,6 +1,6 @@
 {
     "config" : {
-      "activate_button" : 200,
+      "activate_button" : 0,
     
      
         "banned" : 0,
