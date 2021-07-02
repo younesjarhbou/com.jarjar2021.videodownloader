@@ -1,11 +1,11 @@
 {
     "config" : {
       "admob_appid" : "ca-app-pub-7796159137377981~8373286567",
-      "admob_bn" : "ca-app-pub-8696607661153464/6982551335",
-      "admob_n" : "ca-app-pub-8696607661153464/6011168874",
-      "admob_pub" : "pub-8696607661153464",
-      "admob_r" : "ca-app-pub-8696607661153464/7067145967",
-      "admobe_it" : "ca-app-pub-8696607661153464/5669469664",
+      "admob_bn" : "ca-app-pub-7323740399227066/2067004687",
+      "admob_n" : "ca-app-pub-7323740399227066/9562351327",
+      "admob_pub" : "pub-7323740399227066",
+      "admob_r" : "ca-app-pub-7323740399227066/3188514665",
+      "admobe_it" : "ca-app-pub-7323740399227066/3453551626",
      
       "own_banner_picture" : "https://i.ibb.co/rwbHm4g/banner-ads.png",
       "own_banner_link" : "https://i.ibb.co/rwbHm4g/banner-ads.png",
