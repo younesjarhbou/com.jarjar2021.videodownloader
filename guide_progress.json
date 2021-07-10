@@ -74,19 +74,22 @@
       "rignton" : "https://dl.prokerala.com/downloads/ringtones/files/mp3/car-bgm-ringtone-hindi-ringtone-car-bgm-ringtone-53934.mp3",
 
 
+
       "step1" : "https://i.ibb.co/v18nLD0/5-stars.png",
       "step2" : "https://i.ibb.co/JnrFbyt/watch-video.png",
+      "step3" : "0",
       "lockedlogo" : "https://i.ibb.co/5vCqgR7/video-is-locked.png",
-      "lockedtxt" : "https://i.ibb.co/fvy5XVP/Video-Call-with-ownage-is-locked-Now-Please-complete-this-2-steps-to-open-this-Video-call-Feature.png",
+      "lockedtxt" : "hello from locked txt",
       "nothanks" : "https://i.ibb.co/BVRYzb0/NO-THANKS.png",
-      "lockertype" : "cpa",
+      "step1type" : "admob",
+      "step2type" : "admob",
+      "step3type" : "admob",
       "activatelocker" : "1",
       "sharetxt" : "share the app and review it with 5 for support",
       "ratetype" : "1",
-
-
-   
      
+
+
 
       "privacy" : "https://privqcyformyapps2021.blogspot.com/2021/01/privacy.html",
       "you" : 0,
