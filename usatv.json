@@ -13,8 +13,8 @@
 
 
 
-      "mopup_banner" : "b195f8dd8ded45fe847ad89ed1d016da",
-      "mopup_inter" : "24534e1901884e398f1253216226017e",
+      "mopup_banner" : "c3e1ce085c3f42a6945fd5c5742ec0e1",
+      "mopup_inter" : "5406980a56d347b6bf45877776b36779",
        
       "apploving_reward_id" : "73696274a7f761c5",
 
@@ -28,7 +28,7 @@
   
 
 
-      "bannedtv" : [  "fifa", "euro", "live" ],
+      "bannedtv" : [  "fifa", "euro", "live","bein" ],
       
 
 
@@ -72,7 +72,7 @@
       "store" : 0,
       "test" : "false",
       "unity_app_id" : "4199975",
-      "you" : 0,
+      "you" : 1,
       "backend": "http://radio.movietvapp.com/",
       "youtube" : "https://www.youtube.com/channel/UCnD5SfKyMhJ6Rekhcd6wX9g/featured?view_as=subscriber"
     }
