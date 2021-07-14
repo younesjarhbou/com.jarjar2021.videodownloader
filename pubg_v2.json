@@ -86,27 +86,32 @@
         {
           "title" : "red",
           "picture" : "#https://i.ibb.co/fDGm5Zx/template.png",
-          "desc" :"desc1 desc desc desc desc desc"
+          "desc" :"desc1 desc desc desc desc desc",
+          "type":"picture"
         },
         {
           "title" : "red",
           "picture" : "#https://i.ibb.co/fDGm5Zx/template.png",
-          "desc" :"desc2 desc desc desc desc desc"
+          "desc" :"desc2 desc desc desc desc desc",
+          "type":"picture"
         },
         {
           "title" : "red",
           "picture" : "#https://i.ibb.co/fDGm5Zx/template.png",
-          "desc" :"desc3 desc desc desc desc desc"
+          "desc" :"desc3 desc desc desc desc desc",
+          "type":"picture"
         },
         {
           "title" : "red",
           "picture" : "#https://i.ibb.co/fDGm5Zx/template.png",
-          "desc" :"desc4 desc desc desc desc desc"
+          "desc" :"desc4 desc desc desc desc desc",
+          "type":"picture"
         },
         {
           "title" : "red",
           "picture" : "#https://i.ibb.co/fDGm5Zx/template.png",
-          "desc" :"desc5 desc desc desc desc desc"
+          "desc" :"desc4 desc desc desc desc desc",
+          "type":"picture"
         }
      
 
