@@ -78,7 +78,48 @@
       "unity_app_id" : "3845151",
       "you" : 0,
 
+      
+      "list_of_content" : [  
+        
+        {
+          "title" : "red",
+          "picture" : "https://i.ibb.co/fDGm5Zx/template.png",
+          "minpicture" : "https://i.ibb.co/fDGm5Zx/template.png",
+          "desc" :"desc1 desc desc desc desc desc",
+          
+          "type":"picture"
+        },
+        {
+          "title" : "red",
+          "picture" : "https://i.ibb.co/fDGm5Zx/template.png",
+          "minpicture" : "https://i.ibb.co/fDGm5Zx/template.png",
+          "desc" :"desc2 desc desc desc desc desc",
+          "type":"picture"
+        },
+        {
+          "title" : "red",
+          "picture" : "https://i.ibb.co/fDGm5Zx/template.png",
+          "minpicture" : "https://i.ibb.co/fDGm5Zx/template.png",
+          "desc" :"desc3 desc desc desc desc desc",
+          "type":"picture"
+        },
+        {
+          "title" : "red",
+          "picture" : "https://i.ibb.co/fDGm5Zx/template.png",
+          "minpicture" : "https://i.ibb.co/fDGm5Zx/template.png",
+          "desc" :"desc4 desc desc desc desc desc",
+          "type":"picture"
+        },
+        {
+          "title" : "red",
+          "picture" : "https://i.ibb.co/fDGm5Zx/template.png",
+          "minpicture" : "https://i.ibb.co/fDGm5Zx/template.png",
+          "desc" :"desc4 desc desc desc desc desc",
+          "type":"picture"
+        }
+     
 
+       ],
 
 
       "precontent" : [  
@@ -86,30 +127,35 @@
         {
           "title" : "red",
           "picture" : "https://i.ibb.co/fDGm5Zx/template.png",
+          "minpicture" : "https://i.ibb.co/fDGm5Zx/template.png",
           "desc" :"desc1 desc desc desc desc desc",
           "type":"picture"
         },
         {
           "title" : "red",
           "picture" : "https://i.ibb.co/fDGm5Zx/template.png",
+          "minpicture" : "https://i.ibb.co/fDGm5Zx/template.png",
           "desc" :"desc2 desc desc desc desc desc",
           "type":"picture"
         },
         {
           "title" : "red",
           "picture" : "https://i.ibb.co/fDGm5Zx/template.png",
+          "minpicture" : "https://i.ibb.co/fDGm5Zx/template.png",
           "desc" :"desc3 desc desc desc desc desc",
           "type":"picture"
         },
         {
           "title" : "red",
           "picture" : "https://i.ibb.co/fDGm5Zx/template.png",
+          "minpicture" : "https://i.ibb.co/fDGm5Zx/template.png",
           "desc" :"desc4 desc desc desc desc desc",
           "type":"picture"
         },
         {
           "title" : "red",
           "picture" : "https://i.ibb.co/fDGm5Zx/template.png",
+          "minpicture" : "https://i.ibb.co/fDGm5Zx/template.png",
           "desc" :"desc4 desc desc desc desc desc",
           "type":"picture"
         }
