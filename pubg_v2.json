@@ -62,7 +62,7 @@
       "activatelocker" : "1",
       "sharetxt" : "share the app and review it with 5 for support",
       "ratetype" : "1",
-      "showbanner2" : "1",
+      "showbanner2" : "0",
   
   
       "banner_ads" : ["unity", "admob", "fb", "admob" ],
