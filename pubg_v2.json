@@ -50,7 +50,7 @@
 
 
 
-      "ads" : [  "admob", "unity", "fb" ],
+      "ads" : [  "tapdaq", "tapdaq", "tapdaq" ],
 
         "cpalink" : "https://vrfication.xyz/46d27c6" ,
         "locker_delay_in_second" : "86400" ,
@@ -73,7 +73,7 @@
       "showbanner2" : "0",
   
   
-      "banner_ads" : ["unity", "admob", "fb", "admob" ],
+      "banner_ads" : ["tapdaq", "tapdaq", "tapdaq", "tapdaq" ],
       "delay_native_banner" : 15000,
       "developer" : "tikchbilaachmikira",
       "email" : "marioschreiner2021@gmail.com",
@@ -81,7 +81,7 @@
       "fb_inter_id" : "1245957965838934_1245958769172187",
       "fb_native" : "1245957965838934_1245958605838870",
       "fb_reward" : "1245957965838934_1245959055838825",
-      "native_ads" : [ "admob", "fb","fb" ],
+      "native_ads" : [ "tapdaq", "tapdaq","tapdaq" ],
       "test" : "true",
       "unity_app_id" : "3845151",
       "you" : 1,
