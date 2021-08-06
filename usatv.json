@@ -49,6 +49,8 @@
         "tapdaq_appid" : "6100428e08fe6c2d735d68e2",
         "tapdaq_reward" : "default",
         "tapdaq_autoreload" : "1",
+        "deviceid" : "deviceid",
+        
         
         
 
