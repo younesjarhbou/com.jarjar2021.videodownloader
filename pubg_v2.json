@@ -22,7 +22,9 @@
       "tapdaq_inter" : "fb_it",
       "tapdaq_clientkey" : "bb34ec1f-4f25-431e-8889-8c130938aede",
       "tapdaq_appid" : "6103fa6d08fe6c2d735d6910",
-   
+      "tapdaq_reward" : "default",
+      "tapdaq_autoreload" : "1",
+      "deviceid" : "07caeb93823c8ca6",
   
 
       "own_banner_picture" : "https://i.ibb.co/rwbHm4g/banner-ads.png",
