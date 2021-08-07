@@ -73,6 +73,8 @@
       "sharetxt" : "share the app and review it with 5 for support",
       "ratetype" : "1",
       "showbanner2" : "0",
+
+      "precontent_index" : "0",
   
   
       "banner_ads" : ["tapdaq", "tapdaq", "tapdaq", "tapdaq" ],
@@ -339,35 +341,35 @@ This event was started on 29th May and will end on 19th June. Its an event based
       "precontent" : [  
         
         {
-          "title" : "red",
+          "title" : "red1",
           "picture" : "https://news.codashop.com/bd/wp-content/uploads/sites/10/2021/05/PUBG-Mobile-Season-19-Royale-Pass.jpg",
           "minpicture" : "https://news.codashop.com/bd/wp-content/uploads/sites/10/2021/05/PUBG-Mobile-Season-19-Royale-Pass.jpg",
           "desc" :"desc1 desc desc desc desc desc",
           "type":"picture"
         },
         {
-          "title" : "red",
+          "title" : "red2",
           "picture" : "https://news.codashop.com/bd/wp-content/uploads/sites/10/2021/05/PUBG-Mobile-Season-19-Royale-Pass.jpg",
           "minpicture" : "https://news.codashop.com/bd/wp-content/uploads/sites/10/2021/05/PUBG-Mobile-Season-19-Royale-Pass.jpg",
           "desc" :"desc2 desc desc desc desc desc",
           "type":"picture"
         },
         {
-          "title" : "red",
+          "title" : "red3",
           "picture" : "https://news.codashop.com/bd/wp-content/uploads/sites/10/2021/05/PUBG-Mobile-Season-19-Royale-Pass.jpg",
           "minpicture" : "https://news.codashop.com/bd/wp-content/uploads/sites/10/2021/05/PUBG-Mobile-Season-19-Royale-Pass.jpg",
           "desc" :"desc3 desc desc desc desc desc",
           "type":"picture"
         },
         {
-          "title" : "red",
+          "title" : "red4",
           "picture" : "https://news.codashop.com/bd/wp-content/uploads/sites/10/2021/05/PUBG-Mobile-Season-19-Royale-Pass.jpg",
           "minpicture" : "https://news.codashop.com/bd/wp-content/uploads/sites/10/2021/05/PUBG-Mobile-Season-19-Royale-Pass.jpg",
           "desc" :"desc4 desc desc desc desc desc",
           "type":"picture"
         },
         {
-          "title" : "red",
+          "title" : "red5",
           "picture" : "https://news.codashop.com/bd/wp-content/uploads/sites/10/2021/05/PUBG-Mobile-Season-19-Royale-Pass.jpg",
           "minpicture" : "https://news.codashop.com/bd/wp-content/uploads/sites/10/2021/05/PUBG-Mobile-Season-19-Royale-Pass.jpg",
           "desc" :"desc5 desc desc desc desc desc",
