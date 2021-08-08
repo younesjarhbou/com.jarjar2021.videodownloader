@@ -79,21 +79,21 @@
       "ads_array_reward" : ["tapdaq", "admob", "unity", "fb" ],
       "banner_ads" : ["tapdaq", "tapdaq", "tapdaq", "tapdaq" ],
       "delay_native_banner" : 15000,
-      "developer" : "tikchbilaachmikira",
-      "email" : "marioschreiner2021@gmail.com",
+      "developer" : "Chidox Mobile",
+      "email" : "chidox.mobile@gmail.com",
       "fb_banner" : "1245957965838934_1245958199172244",
       "fb_inter_id" : "1245957965838934_1245958769172187",
       "fb_native" : "1245957965838934_1245958605838870",
       "fb_reward" : "1245957965838934_1245959055838825",
       "native_ads" : [ "tapdaq", "tapdaq","tapdaq" ],
-      "test" : "true",
+      "test" : "false",
       "unity_app_id" : "3845151",
 
       "unity_bn_id" : "banner",
       "unity_it_id" : "inter",
       "unity_r_id" : "rewardedVideo",
 
-      "you" : 1,
+      "you" : 0,
 
       
       "list_of_content" : [  
