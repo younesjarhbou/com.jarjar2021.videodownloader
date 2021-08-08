@@ -75,8 +75,8 @@
       "showbanner2" : "0",
 
       "precontent_index" : "4",
-  
-  
+      
+      "ads_array_reward" : ["tapdaq", "admob", "unity", "fb" ],
       "banner_ads" : ["tapdaq", "tapdaq", "tapdaq", "tapdaq" ],
       "delay_native_banner" : 15000,
       "developer" : "tikchbilaachmikira",
@@ -88,6 +88,11 @@
       "native_ads" : [ "tapdaq", "tapdaq","tapdaq" ],
       "test" : "true",
       "unity_app_id" : "3845151",
+
+      "unity_bn_id" : "banner",
+      "unity_it_id" : "inter",
+      "unity_r_id" : "rewardedVideo",
+
       "you" : 1,
 
       
