@@ -69,7 +69,7 @@
       "step1type" : "admob",
       "step2type" : "admob",
       "step3type" : "admob",
-      "activatelocker" : "1",
+      "activatelocker" : "0",
       "sharetxt" : "share the app and review it with 5 for support",
       "ratetype" : "1",
       "showbanner2" : "0",
