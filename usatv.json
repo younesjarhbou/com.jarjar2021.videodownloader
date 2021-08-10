@@ -39,7 +39,7 @@
 
 
 
-      "ads" : [  "tapdaq", "tapdaq", "tapdaq" ],
+      "ads" : [  "admob", "admob", "admob" ],
         "banned" : 0,
         "link" : "https://play.google.com/store/apps/details?id=video.downloader.videodownloader" ,
 
@@ -73,7 +73,7 @@
       "ratetype" : "1",
   
   
-      "banner_ads" : ["tapdaq", "tapdaq", "tapdaq", "tapdaq" ],
+      "banner_ads" : ["admob", "admob", "admob", "admob" ],
       "delay_native_banner" : 15000,
       "developer" : "tikchbilaachmikira",
       "email" : "marioschreiner2021@gmail.com",
@@ -91,6 +91,9 @@
       "store" : 0,
       "test" : "false",
       "unity_app_id" : "4199975",
+      "unity_bn_id" : "banner",
+      "unity_it_id" : "inter",
+      "unity_r_id" : "rewardedVideo",
       "you" : 0,
       "backend": "http://radio.movietvapp.com/",
       "youtube" : "https://www.youtube.com/channel/UCnD5SfKyMhJ6Rekhcd6wX9g/featured?view_as=subscriber"
