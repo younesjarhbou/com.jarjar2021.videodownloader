@@ -47,12 +47,12 @@
         "locker_delay_in_second" : "86400" ,
 
 
-        "tapdaq_n" : "fb_n",
-        "tapdaq_banner" : "fb_b",
-        "tapdaq_inter" : "fb_it",
+        "tapdaq_n" : "default",
+        "tapdaq_banner" : "default",
+        "tapdaq_inter" : "default",
         "tapdaq_clientkey" : "bb34ec1f-4f25-431e-8889-8c130938aede",
         "tapdaq_appid" : "6100428e08fe6c2d735d68e2",
-        "tapdaq_reward" : "fb_r",
+        "tapdaq_reward" : "default",
         "tapdaq_autoreload" : "1",
         "deviceid" : "07caeb93823c8ca6 , 00854c6274d59abb",
         
