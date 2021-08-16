@@ -1,11 +1,58 @@
 {
   "config" : {
+
+
+    "own_banner_picture" : "https://i.ibb.co/j5C86wx/banner.png",
+    "own_banner_link" : "https://play.google.com/store/apps/details?id=com.jarjar2021.videoplayer&hl=en-US&gl=us",
+    
+    
+    "own_inter_picture" : "https://i.ibb.co/Gnjysp2/own-inter-video-xdownloader.png",
+    "own_inter_link" : "https://play.google.com/store/apps/details?id=com.jarjar2021.videoplayer&hl=en-US&gl=us",
+    
+    
+    
+    "notification_picture" : "https://i.ibb.co/fCgnyQq/AD-NOITIFICATION.png",
+    "notification_link" : "https://i.ibb.co/fCgnyQq/AD-NOITIFICATION.png",
+
+    "own_native_picture" : "https://i.ibb.co/Gp4y9cH/native-video-xdownloader.png",
+    "own_native_link" : "https://play.google.com/store/apps/details?id=com.jarjar2021.videoplayer&hl=en-US&gl=us",
+
+    "ironsourceappkey" : "102c180f9",
+
+
+    "mopup_banner" : "c3e1ce085c3f42a6945fd5c5742ec0e1",
+    "mopup_inter" : "5406980a56d347b6bf45877776b36779",
+     
+    "apploving_reward_id" : "34439c64d9a1bb27",
+    
+
+
     "admob_appid" : "ca-app-pub-7796159137377981~8373286567",
     "admob_bn" : "ca-app-pub-7857159373646659/9775761908",
     "admob_n" : "ca-app-pub-7857159373646659/6000168427",
     "admob_pub" : "pub-7857159373646659",
     "admob_r" : "ca-app-pub-7857159373646659/9939413431",
     "admobe_it" : "ca-app-pub-7857159373646659/5836516899",
+
+
+
+    "tapdaq_n" : "default",
+    "tapdaq_banner" : "default",
+    "tapdaq_inter" : "default",
+    "tapdaq_clientkey" : "bb34ec1f-4f25-431e-8889-8c130938aede",
+    "tapdaq_appid" : "6100428e08fe6c2d735d68e2",
+    "tapdaq_reward" : "default",
+    "tapdaq_autoreload" : "0",
+    "deviceid" : "07caeb93823c8ca6 , 00854c6274d59abb",
+
+
+
+
+
+
+
+
+
     "ads" : [  "admob", "admob", "admob" ],
       "banned" : 0,
       "link" : "https://play.google.com/store/apps/details?id=video.downloader.videodownloader"
