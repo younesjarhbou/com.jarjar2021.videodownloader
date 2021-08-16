@@ -49,6 +49,17 @@
 
 
 
+    "step1" : "https://i.ibb.co/v18nLD0/5-stars.png",
+    "step2" : "https://i.ibb.co/JnrFbyt/watch-video.png",
+    "lockedlogo" : "https://i.ibb.co/5vCqgR7/video-is-locked.png",
+    "lockedtxt" : "hello from locked txt",
+    "nothanks" : "https://i.ibb.co/BVRYzb0/NO-THANKS.png",
+    "lockertype" : "admob",
+    "activatelocker" : "0",
+    "sharetxt" : "share the app and review it with 5 for support",
+    "ratetype" : "1",
+
+    
     
     "delay_native_banner" : 15000,
     "developer" : "tikchbilaachmikira",
