@@ -58,8 +58,8 @@
     "activatelocker" : "0",
     "sharetxt" : "share the app and review it with 5 for support",
     "ratetype" : "1",
+    "locker_delay_in_second" : "86400" ,
 
-    
     
     "delay_native_banner" : 15000,
     "developer" : "tikchbilaachmikira",
