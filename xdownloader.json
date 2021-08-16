@@ -49,25 +49,26 @@
 
 
 
-
-
-
-
-    "ads" : [  "admob", "admob", "admob" ],
-      "banned" : 0,
-      "link" : "https://play.google.com/store/apps/details?id=video.downloader.videodownloader"
-    ,
-    "banner_ads" : ["admob", "admob", "admob", "admob" ],
+    
     "delay_native_banner" : 15000,
     "developer" : "tikchbilaachmikira",
     "email" : "marioschreiner2021@gmail.com",
-    "fb_banner" : "1007928153380245_1007928746713519",
-    "fb_inter_id" : "1007928153380245_1007929026713491",
-    "fb_native" : "1007928153380245_1007929120046815",
+    "fb_banner" : "231708548769522_231709375436106",
+    "fb_inter_id" : "231708548769522_231709485436095",
+    "fb_native" : "231708548769522_231709672102743",
+    "fb_reward" : "714799922733036_718078162405212",
+
+    "banner_ads" : ["tapdaq", "tapdaq", "tapdaq", "tapdaq" ],
+    "native_ads" : [ "tapdaq", "tapdaq" ],
+    "ads" : [  "tapdaq", "tapdaq", "tapdaq" ],
+      "banned" : 0,
+      "link" : "https://play.google.com/store/apps/details?id=video.downloader.videodownloader"
+    ,
+
     "flipper_image" : [ "https://mydesktopwalls.com/wp-content/uploads/2020/07/PUBG-Background-1024x576.jpg", "https://i.redd.it/xx7jl1ao0fsz.png", "https://www.google.com/search?q=pubg+background&safe=active&client=opera&hs=22c&sxsrf=ALeKk03J5h-iisxASUwgQ8BEcC35f8_BbQ:1601541992811&source=lnms&tbm=isch&sa=X&ved=2ahUKEwi24svsgJPsAhUvDmMBHW7aA-wQ_AUoAXoECA0QAw&biw=1640&bih=909#imgrc=u-_n1spUMKSnyM" ],
     "instagram" : "https://www.instagram.com/android_pubg/",
     "myownads" : [ "https://images.wallpapersden.com/image/download/pubg-mobile-season-14_72149_3840x2160.jpg", "https://wallpaperaccess.com/full/188406.jpg", "https://images.wallpapersden.com/image/download/pubg-mobile-season-14_72149_3840x2160.jpg" ],
-    "native_ads" : [ "admob", "admob" ],
+
     "package" : "com.spin_skin2021.wiyha2021",
     "privacy" : "https://privqcyformyapps2021.blogspot.com/2021/01/privacy.html",
     "store" : 0,
