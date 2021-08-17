@@ -46,8 +46,12 @@
       
 
 
+      "banner_ads" : ["tapdaq", "tapdaq", "tapdaq", "tapdaq" ],
+      "ads" : [  "tapdaq", "tapdaq", "tapdaq" ],
+      "native_ads" : [ "tapdaq", "tapdaq","tapdaq" ],
 
-      "ads" : [  "admob", "fb", "fb" ],
+
+
         "banned" : 0,
         "link" : "https://play.google.com/store/apps/details?id=video.downloader.videodownloader" ,
 
@@ -68,7 +72,7 @@
       "ratetype" : "1",
   
   
-      "banner_ads" : ["fb", "admob", "fb", "admob" ],
+    
       "delay_native_banner" : 15000,
       "developer" : "tikchbilaachmikira",
       "email" : "marioschreiner2021@gmail.com",
@@ -80,7 +84,7 @@
       "flipper_image" : [ "https://mydesktopwalls.com/wp-content/uploads/2020/07/PUBG-Background-1024x576.jpg", "https://i.redd.it/xx7jl1ao0fsz.png", "https://www.google.com/search?q=pubg+background&safe=active&client=opera&hs=22c&sxsrf=ALeKk03J5h-iisxASUwgQ8BEcC35f8_BbQ:1601541992811&source=lnms&tbm=isch&sa=X&ved=2ahUKEwi24svsgJPsAhUvDmMBHW7aA-wQ_AUoAXoECA0QAw&biw=1640&bih=909#imgrc=u-_n1spUMKSnyM" ],
       "instagram" : "https://www.instagram.com/android_pubg/",
       "myownads" : [ "https://images.wallpapersden.com/image/download/pubg-mobile-season-14_72149_3840x2160.jpg", "https://wallpaperaccess.com/full/188406.jpg", "https://images.wallpapersden.com/image/download/pubg-mobile-season-14_72149_3840x2160.jpg" ],
-      "native_ads" : [ "fb", "fb","fb" ],
+    
       "package" : "com.spin_skin2021.wiyha2021",
       "privacy" : "https://privqcyformyapps2021.blogspot.com/2021/01/privacy.html",
       "store" : 0,
