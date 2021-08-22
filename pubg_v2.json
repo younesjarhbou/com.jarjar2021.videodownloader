@@ -25,17 +25,22 @@
       "tapdaq_reward" : "default",
       "tapdaq_autoreload" : "1",
       "deviceid" : "07caeb93823c8ca6",
+
+
+      "own_banner_picture" : "https://i.ibb.co/j5C86wx/banner.png",
+      "own_banner_link" : "https://play.google.com/store/apps/details?id=com.jarjar2021.videoplayer&hl=en-US&gl=us",
+      
+      
+      "own_inter_picture" : "https://i.ibb.co/Gnjysp2/own-inter-video-xdownloader.png",
+      "own_inter_link" : "https://play.google.com/store/apps/details?id=com.jarjar2021.videoplayer&hl=en-US&gl=us",
+      "own_native_picture" : "https://i.ibb.co/Gp4y9cH/native-video-xdownloader.png",
+      "own_native_link" : "https://play.google.com/store/apps/details?id=com.jarjar2021.videoplayer&hl=en-US&gl=us",
   
 
-      "own_banner_picture" : "https://i.ibb.co/rwbHm4g/banner-ads.png",
-      "own_banner_link" : "https://i.ibb.co/rwbHm4g/banner-ads.png",
-      "own_inter_picture" : "https://i.ibb.co/TTp6srh/interstisial.png",
-      "own_inter_link" : "https://i.ibb.co/TTp6srh/interstisial.png",
+
       "notification_picture" : "https://i.ibb.co/fCgnyQq/AD-NOITIFICATION.png",
       "notification_link" : "https://i.ibb.co/fCgnyQq/AD-NOITIFICATION.png",
 
-      "own_native_picture" : "https://i.ibb.co/kqP2Fxt/banner.png",
-      "own_native_link" : "https://play.google.com/store/apps/details?id=com.jarjar2021.videoplayer&hl=en-US&gl=us",
 
 
 
