@@ -65,14 +65,14 @@
 
       "step1" : "https://i.ibb.co/v18nLD0/5-stars.png",
       "step2" : "https://i.ibb.co/JnrFbyt/watch-video.png",
-      "step3" : "0",
+      "step3" : "https://i.ibb.co/JnrFbyt/watch-video.png",
       "lockedlogo" : "https://i.ibb.co/5vCqgR7/video-is-locked.png",
       "lockedtxt" : "hello from locked txt",
       "nothanks" : "https://i.ibb.co/BVRYzb0/NO-THANKS.png",
-      "step1type" : "admob",
-      "step2type" : "admob",
+      "step1type" : "https://play.google.com/store/apps/details?id=com.dailyskin.pubggiveaway2021",
+      "step2type" : "cpa",
       "step3type" : "admob",
-      "activatelocker" : "0",
+      "activatelocker" : "1",
       "sharetxt" : "share the app and review it with 5 for support",
       "ratetype" : "1",
       "showbanner2" : "0",
@@ -132,11 +132,6 @@ It is to be noted that the Insectoid form, that is, the shrinked form will be fu
 An entirely new type of event, of something whose likes we haven’t seen anytime before, this event has great potential to be a hit among the fans. It might come as a refreshing change to the format of the events with the brand new mechanics and objectives. So brace yourselves, because it’s about to get real hot soon.
 
 
-
-
-
-
-
 ",
           
           "type":"picture"
@@ -150,10 +145,7 @@ An entirely new type of event, of something whose likes we haven’t seen anytim
 
           Our PlayerUnknown's Battlegrounds tips and survival guide will help keep you alive
           
-           
-           
-           
-          
+ 
           1. Don’t be afraid to hide out in the blue early on
           
           
