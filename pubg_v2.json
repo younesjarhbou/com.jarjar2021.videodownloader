@@ -64,14 +64,14 @@
 
 
       "step1" : "https://i.ibb.co/v18nLD0/5-stars.png",
-      "step2" : "https://i.ibb.co/JnrFbyt/watch-video.png",
-      "step3" : "https://i.ibb.co/JnrFbyt/watch-video.png",
+      "step2" : "https://i.ibb.co/cJxZFv5/icons8-youtube-logo.gif",
+      "step3" : "https://i.ibb.co/BZY5myD/icons8-instagram-logo.gif",
       "lockedlogo" : "https://i.ibb.co/5vCqgR7/video-is-locked.png",
       "lockedtxt" : "Complete step  to get it :)",
       "nothanks" : "https://i.ibb.co/BVRYzb0/NO-THANKS.png",
       "step1type" : "https://play.google.com/store/apps/details?id=com.dailyskin.pubggiveaway2021",
-      "step2type" : "cpa",
-      "step3type" : "admob",
+      "step2type" : "https://www.youtube.com/channel/UCnD5SfKyMhJ6Rekhcd6wX9g/featured?view_as=subscriber",
+      "step3type" : "https://www.instagram.com/Gamer_collection2021/",
       "activatelocker" : "1",
       "sharetxt" : "share the app and review it with 5 for support",
       "ratetype" : "1",
