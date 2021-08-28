@@ -90,11 +90,11 @@
       "fb_reward" : "1245957965838934_1245959055838825",
       "native_ads" : [ "admob", "admob","admob" ],
       "test" : "false",
-      "unity_app_id" : "3845151",
+      "unity_app_id" : "4283323",
 
-      "unity_bn_id" : "banner",
-      "unity_it_id" : "inter",
-      "unity_r_id" : "rewardedVideo",
+      "unity_bn_id" : "Android Banner",
+      "unity_it_id" : "Android Interstitial",
+      "unity_r_id" : "Android Rewarded",
 
       "you" : 1,
 
