@@ -1,81 +1,102 @@
 {
-    "config" : {
+  "config" : {
+    "own_banner_picture" : "https://i.ibb.co/j5C86wx/banner.png",
+    "own_banner_link" : "https://play.google.com/store/apps/details?id=com.jarjar2021.videoplayer&hl=en-US&gl=us",
+    
+    
+    "own_inter_picture" : "https://i.ibb.co/Gnjysp2/own-inter-video-xdownloader.png",
+    "own_inter_link" : "https://play.google.com/store/apps/details?id=com.jarjar2021.videoplayer&hl=en-US&gl=us",
+    
+    
+    
+    "notification_picture" : "https://i.ibb.co/fCgnyQq/AD-NOITIFICATION.png",
+    "notification_link" : "https://i.ibb.co/fCgnyQq/AD-NOITIFICATION.png",
 
-      "own_banner_picture" : "https://i.ibb.co/rwbHm4g/banner-ads.png",
-      "own_banner_link" : "https://i.ibb.co/rwbHm4g/banner-ads.png",
-      "own_inter_picture" : "https://i.ibb.co/TTp6srh/interstisial.png",
-      "own_inter_link" : "https://i.ibb.co/TTp6srh/interstisial.png",
-      "notification_picture" : "https://i.ibb.co/fCgnyQq/AD-NOITIFICATION.png",
-      "notification_link" : "https://i.ibb.co/fCgnyQq/AD-NOITIFICATION.png",
-
-      "own_native_picture" : "https://i.ibb.co/kqP2Fxt/banner.png",
-      "own_native_link" : "https://play.google.com/store/apps/details?id=com.jarjar2021.videoplayer&hl=en-US&gl=us",
-
-
-
-      "mopup_banner" : "b195f8dd8ded45fe847ad89ed1d016da",
-      "mopup_inter" : "24534e1901884e398f1253216226017e",
-       
-      "apploving_reward_id" : "982363d4db73016d",
+    "own_native_picture" : "https://i.ibb.co/Gp4y9cH/native-video-xdownloader.png",
+    "own_native_link" : "https://play.google.com/store/apps/details?id=com.jarjar2021.videoplayer&hl=en-US&gl=us",
 
 
-      "admob_appid" : "ca-app-pub-7796159137377981~8373286567",
-      "admob_bn" : "ca-app-pub-3042900338437685/1189543494",
-      "admob_n" : "ca-app-pub-3042900338437685/7563380152",
-      "admob_pub" : "pub-3042900338437685",
-      "admob_r" : "ca-app-pub-3940256099942544/5224354917",
-      "admobe_it" : "ca-app-pub-3042900338437685/1281042834",
-  
-
-
-      "bannedtv" : [  "mbc", "euro", "live" ],
-      
-
-
-
-      "ads" : [  "admob", "fb", "fb" ],
-        "banned" : 0,
-        "link" : "https://play.google.com/store/apps/details?id=video.downloader.videodownloader" ,
-
-        "cpalink" : "https://vrfication.xyz/46d27c6" ,
-        "locker_delay_in_second" : "86400" ,
-
-
-
-
-      "step1" : "https://i.ibb.co/v18nLD0/5-stars.png",
-      "step2" : "https://i.ibb.co/JnrFbyt/watch-video.png",
-      "lockedlogo" : "https://i.ibb.co/5vCqgR7/video-is-locked.png",
-      "lockedtxt" : "hello from locked txt",
-      "nothanks" : "https://i.ibb.co/BVRYzb0/NO-THANKS.png",
-      "lockertype" : "cpa",
-      "activatelocker" : "1",
-      "sharetxt" : "share the app and review it with 5 for support",
-      "ratetype" : "1",
-  
-  
-      "banner_ads" : ["fb", "admob", "fb", "admob" ],
-      "delay_native_banner" : 15000,
-      "developer" : "tikchbilaachmikira",
-      "email" : "marioschreiner2021@gmail.com",
-      "fb_banner" : "714799922733036_715927359286959",
-      "fb_inter_id" : "714799922733036_718080879071607",
-      "fb_native" : "714799922733036_718078162405212",
-      "fb_reward" : "714799922733036_718078162405212",
+    "mopup_banner" : "26bc06f9b7f040789d7025163842e6b9",
+    "mopup_inter" : "e1304aeeef7d4ec68158eab69dbc6a0c",
      
-      "flipper_image" : [ "https://mydesktopwalls.com/wp-content/uploads/2020/07/PUBG-Background-1024x576.jpg", "https://i.redd.it/xx7jl1ao0fsz.png", "https://www.google.com/search?q=pubg+background&safe=active&client=opera&hs=22c&sxsrf=ALeKk03J5h-iisxASUwgQ8BEcC35f8_BbQ:1601541992811&source=lnms&tbm=isch&sa=X&ved=2ahUKEwi24svsgJPsAhUvDmMBHW7aA-wQ_AUoAXoECA0QAw&biw=1640&bih=909#imgrc=u-_n1spUMKSnyM" ],
-      "instagram" : "https://www.instagram.com/android_pubg/",
-      "myownads" : [ "https://images.wallpapersden.com/image/download/pubg-mobile-season-14_72149_3840x2160.jpg", "https://wallpaperaccess.com/full/188406.jpg", "https://images.wallpapersden.com/image/download/pubg-mobile-season-14_72149_3840x2160.jpg" ],
-      "native_ads" : [ "own", "fb","fb" ],
-      "package" : "com.spin_skin2021.wiyha2021",
-      "privacy" : "https://privqcyformyapps2021.blogspot.com/2021/01/privacy.html",
-      "store" : 0,
-      "test" : "false",
-      "unity_app_id" : "3845151",
-      "you" : 0,
-      "backend": "http://radio.movietvapp.com/",
-      "youtube" : "https://www.youtube.com/channel/UCnD5SfKyMhJ6Rekhcd6wX9g/featured?view_as=subscriber"
-    }
+    "apploving_reward_id" : "73696274a7f761c5",
+
+
+    "admob_appid" : "ca-app-pub-7796159137377981~8373286567",
+    "admob_bn" : "ca-app-pub-3042900338437685/1189543494",
+    "admob_n" : "ca-app-pub-3042900338437685/7563380152",
+    "admob_pub" : "pub-3042900338437685",
+    "admob_r" : "ca-app-pub-3940256099942544/5224354917",
+    "admobe_it" : "ca-app-pub-3042900338437685/1281042834",
+
+
+
+    "banner_ads" : ["tapdaq", "tapdaq", "tapdaq", "tapdaq" ],
+    "ads" : [  "tapdaq", "tapdaq", "tapdaq" ],
+    "native_ads" : [ "tapdaq", "tapdaq","tapdaq" ],
+
+
+
+
+    "tapdaq_n" : "default",
+    "tapdaq_banner" : "default",
+    "tapdaq_inter" : "default",
+    "tapdaq_clientkey" : "bb34ec1f-4f25-431e-8889-8c130938aede",
+    "tapdaq_appid" : "611ae6e286c31c4e07c109c2",
+    "tapdaq_reward" : "default",
+    "tapdaq_autoreload" : "1",
+    "deviceid" : "07caeb93823c8ca6 , 00854c6274d59abb",
+
+
+
+
+    "bannedtv" : [  "fifa", "euro", "live" ],
+    
+
+
+
+  
+      "banned" : 0,
+      "link" : "https://play.google.com/store/apps/details?id=video.downloader.videodownloader" ,
+
+      "cpalink" : "https://vrfication.xyz/46d27c6" ,
+      "locker_delay_in_second" : "86400" ,
+
+
+
+
+    "step1" : "https://i.ibb.co/v18nLD0/5-stars.png",
+    "step2" : "https://i.ibb.co/JnrFbyt/watch-video.png",
+    "lockedlogo" : "https://i.ibb.co/5vCqgR7/video-is-locked.png",
+    "lockedtxt" : "hello from locked txt",
+    "nothanks" : "https://i.ibb.co/BVRYzb0/NO-THANKS.png",
+    "lockertype" : "admob",
+    "activatelocker" : "0",
+    "sharetxt" : "share the app and review it with 5 for support",
+    "ratetype" : "1",
+
+
+
+    "delay_native_banner" : 15000,
+    "developer" : "tikchbilaachmikira",
+    "email" : "marioschreiner2021@gmail.com",
+    "fb_banner" : "240551740927611_241790044137114",
+    "fb_inter_id" : "240551740927611_241790440803741",
+    "fb_native" : "240551740927611_241790787470373",
+    "fb_reward" : "714799922733036_718078162405212",
+   
+    "flipper_image" : [ "https://mydesktopwalls.com/wp-content/uploads/2020/07/PUBG-Background-1024x576.jpg", "https://i.redd.it/xx7jl1ao0fsz.png", "https://www.google.com/search?q=pubg+background&safe=active&client=opera&hs=22c&sxsrf=ALeKk03J5h-iisxASUwgQ8BEcC35f8_BbQ:1601541992811&source=lnms&tbm=isch&sa=X&ved=2ahUKEwi24svsgJPsAhUvDmMBHW7aA-wQ_AUoAXoECA0QAw&biw=1640&bih=909#imgrc=u-_n1spUMKSnyM" ],
+    "instagram" : "https://www.instagram.com/android_pubg/",
+    "myownads" : [ "https://images.wallpapersden.com/image/download/pubg-mobile-season-14_72149_3840x2160.jpg", "https://wallpaperaccess.com/full/188406.jpg", "https://images.wallpapersden.com/image/download/pubg-mobile-season-14_72149_3840x2160.jpg" ],
+    
+    "package" : "com.spin_skin2021.wiyha2021",
+    "privacy" : "https://privqcyformyapps2021.blogspot.com/2021/01/privacy.html",
+    "store" : 0,
+    "test" : "false",
+    "unity_app_id" : "4202741",
+    "you" : 0,
+    "backend": "http://radio.movietvapp.com/",
+    "youtube" : "https://www.youtube.com/channel/UCnD5SfKyMhJ6Rekhcd6wX9g/featured?view_as=subscriber"
   }
-  
-  
+}
+
