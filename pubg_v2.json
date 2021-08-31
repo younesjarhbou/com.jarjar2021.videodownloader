@@ -96,7 +96,9 @@
       "unity_it_id" : "Android Interstitial",
       "unity_r_id" : "Android Rewarded",
 
-      "you" : 0,
+      "you" : 1,
+
+
       "owninter_array" : [  
         
         {
