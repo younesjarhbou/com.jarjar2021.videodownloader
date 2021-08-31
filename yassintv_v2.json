@@ -50,10 +50,67 @@
 
 
 
+
+
+
+    "owninter_array" : [  
+        
+      {
+    "own_inter_picture" : "https://i.ibb.co/Gnjysp2/own-inter-video-xdownloader.png",
+    "own_inter_link" : "https://play.google.com/store/apps/details?id=com.jarjar2021.videoplayer&hl=en-US&gl=us"},
+    {
+      "own_inter_picture" : "https://i.ibb.co/Gnjysp2/own-inter-video-xdownloader.png",
+      "own_inter_link" : "https://play.google.com/store/apps/details?id=com.jarjar2021.videoplayer&hl=en-US&gl=us"},
+      {
+        "own_inter_picture" : "https://i.ibb.co/Gnjysp2/own-inter-video-xdownloader.png",
+        "own_inter_link" : "https://play.google.com/store/apps/details?id=com.jarjar2021.videoplayer&hl=en-US&gl=us"}
+    ],
+
+
+
+    "ownbanner_array" : [  
+      
+      {
+        "own_banner_picture" : "https://i.ibb.co/j5C86wx/banner.png",
+        "own_banner_link" : "https://play.google.com/store/apps/details?id=com.jarjar2021.videoplayer&hl=en-US&gl=us"
+  }
+    ,
+    {
+      "own_banner_picture" : "https://i.ibb.co/j5C86wx/banner.png",
+      "own_banner_link" : "https://play.google.com/store/apps/details?id=com.jarjar2021.videoplayer&hl=en-US&gl=us"
+    },
+      {
+        "own_banner_picture" : "https://i.ibb.co/j5C86wx/banner.png",
+        "own_banner_link" : "https://play.google.com/store/apps/details?id=com.jarjar2021.videoplayer&hl=en-US&gl=us"
+      }
+    ],
+
+    "ownnative_array" : [  
+      
+      {
+        "own_native_picture" : "https://i.ibb.co/Gp4y9cH/native-video-xdownloader.png",
+        "own_native_link" : "https://play.google.com/store/apps/details?id=com.jarjar2021.videoplayer&hl=en-US&gl=us"
+  
+  },
+    {
+      "own_native_picture" : "https://i.ibb.co/Gp4y9cH/native-video-xdownloader.png",
+      "own_native_link" : "https://play.google.com/store/apps/details?id=com.jarjar2021.videoplayer&hl=en-US&gl=us"
+    },
+      {
+        "own_native_picture" : "https://i.ibb.co/Gp4y9cH/native-video-xdownloader.png",
+        "own_native_link" : "https://play.google.com/store/apps/details?id=com.jarjar2021.videoplayer&hl=en-US&gl=us"}
+    ],
+
+
+
+
+
+
+
     "bannedtv" : [  "fifa", "euro", "live" ],
     
 
-
+    "ads_array_reward" : ["admob", "admob", "admob", "admob" ],
 
   
       "banned" : 0,
@@ -62,16 +119,22 @@
       "cpalink" : "https://vrfication.xyz/46d27c6" ,
       "locker_delay_in_second" : "86400" ,
 
+      "lockedbg" : "https://i.ibb.co/2WfNxRd/navigator.png",
+      "step1" : "https://i.ibb.co/v18nLD0/5-stars.png",
+      "step2" : "https://i.ibb.co/rbJCc1p/icons8-youtube-logo-unscreen.gif",
+      "step3" : "https://i.ibb.co/HGgkXyP/icons8-instagram-logo-unscreen.gif",
+      "lockedlogo" : "https://i.ibb.co/K9fTkZk/lockicon-unscreen.gif",
+      "lockedtxt" : "Complete step  to get it :)",
+      "nothanks" : "https://i.ibb.co/BVRYzb0/NO-THANKS.png",
+      "step1type" : "https://play.google.com/store/apps/details?id=com.dailyskin.pubggiveaway2021",
+      "step2type" : "https://www.youtube.com/channel/UCnD5SfKyMhJ6Rekhcd6wX9g/featured?view_as=subscriber",
+      "step3type" : "https://www.instagram.com/Gamer_collection2021/",
+      "activatelocker" : "1",
 
 
 
-    "step1" : "https://i.ibb.co/v18nLD0/5-stars.png",
-    "step2" : "https://i.ibb.co/JnrFbyt/watch-video.png",
-    "lockedlogo" : "https://i.ibb.co/5vCqgR7/video-is-locked.png",
-    "lockedtxt" : "hello from locked txt",
-    "nothanks" : "https://i.ibb.co/BVRYzb0/NO-THANKS.png",
     "lockertype" : "admob",
-    "activatelocker" : "0",
+  
     "sharetxt" : "share the app and review it with 5 for support",
     "ratetype" : "1",
 
@@ -94,6 +157,12 @@
     "store" : 0,
     "test" : "false",
     "unity_app_id" : "4202741",
+    "unity_bn_id" : "Android Banner",
+    "unity_it_id" : "Android Interstitial",
+    "unity_r_id" : "Android Rewarded",
+
+
+
     "you" : 0,
     "backend": "http://radio.movietvapp.com/",
     "youtube" : "https://www.youtube.com/channel/UCnD5SfKyMhJ6Rekhcd6wX9g/featured?view_as=subscriber"
