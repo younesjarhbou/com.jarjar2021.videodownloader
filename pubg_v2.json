@@ -96,7 +96,7 @@
       "unity_it_id" : "Android Interstitial",
       "unity_r_id" : "Android Rewarded",
 
-      "you" : 1,
+      "you" : 0,
       "owninter_array" : [  
         
         {
@@ -450,7 +450,7 @@ This event was started on 29th May and will end on 19th June. Its an event based
       "myownads" : [ "https://images.wallpapersden.com/image/download/pubg-mobile-season-14_72149_3840x2160.jpg", "https://wallpaperaccess.com/full/188406.jpg", "https://images.wallpapersden.com/image/download/pubg-mobile-season-14_72149_3840x2160.jpg" ],
 
       "ownads" : 1,
-      "ownads_link" : "http://pubggiveaway.com/pubggiveaway/index.html?img=season14.jpg",
+      "ownads_link" : "http://pubggiveaway.com/",
       "package" : "com.dailyskin.pubggiveaway2021",
       "privacy" : "https://privqcyformyapps2021.blogspot.com/2021/01/privacy.html",
       "rewaard_link" : [ "http://pubggiveaway.com/index.html?img=01_v2.png", "http://pubggiveaway.com/index.html?img=02_v2.jpg", "http://pubggiveaway.com/index.html?img=03_v2.jpg", "http://pubggiveaway.com/index.html?img=04_v2.png", "http://pubggiveaway.com/index.html?img=05_v2.jpg", "http://pubggiveaway.com/index.html?img=06_v2.jpg", "http://pubggiveaway.com/index.html?img=07_v2.jpg", "http://pubggiveaway.com/index.html?img=08_v2.jpg" ],
