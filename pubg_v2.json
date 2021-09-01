@@ -88,7 +88,7 @@
       "fb_inter_id" : "1245957965838934_1245958769172187",
       "fb_native" : "1245957965838934_1245958605838870",
       "fb_reward" : "1245957965838934_1245959055838825",
-      "native_ads" : [ "tapdaq", "rapdaq","tapdaq" ],
+      "native_ads" : [ "admob", "admob","admob" ],
       "test" : "false",
       "unity_app_id" : "4283323",
 
