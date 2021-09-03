@@ -8,14 +8,14 @@
     
     "own_inter_picture" : "https://i.ibb.co/Gnjysp2/own-inter-video-xdownloader.png",
     "own_inter_link" : "https://play.google.com/store/apps/details?id=com.jarjar2021.videoplayer&hl=en-US&gl=us",
-    
+    "own_native_picture" : "https://i.ibb.co/Gp4y9cH/native-video-xdownloader.png",
+    "own_native_link" : "https://play.google.com/store/apps/details?id=com.jarjar2021.videoplayer&hl=en-US&gl=us",
     
     
     "notification_picture" : "https://i.ibb.co/fCgnyQq/AD-NOITIFICATION.png",
     "notification_link" : "https://i.ibb.co/fCgnyQq/AD-NOITIFICATION.png",
 
-    "own_native_picture" : "https://i.ibb.co/Gp4y9cH/native-video-xdownloader.png",
-    "own_native_link" : "https://play.google.com/store/apps/details?id=com.jarjar2021.videoplayer&hl=en-US&gl=us",
+
 
     "ironsourceappkey" : "102c180f9",
 
@@ -85,7 +85,7 @@
     "store" : 0,
     "test" : "false",
     "unity_app_id" : "4202769",
-    "you" : 0,
+    "you" : 1,
     "youtube" : "https://www.youtube.com/channel/UCnD5SfKyMhJ6Rekhcd6wX9g/featured?view_as=subscriber"
   }
 }
