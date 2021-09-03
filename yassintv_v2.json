@@ -129,7 +129,7 @@
       "step1type" : "https://play.google.com/store/apps/details?id=com.dailyskin.pubggiveaway2021",
       "step2type" : "https://www.youtube.com/channel/UCnD5SfKyMhJ6Rekhcd6wX9g/featured?view_as=subscriber",
       "step3type" : "https://www.instagram.com/Gamer_collection2021/",
-      "activatelocker" : "1",
+      "activatelocker" : "0",
 
 
 
@@ -163,7 +163,7 @@
 
 
 
-    "you" : 0,
+    "you" : 1,
     "backend": "http://radio.movietvapp.com/",
     "youtube" : "https://www.youtube.com/channel/UCnD5SfKyMhJ6Rekhcd6wX9g/featured?view_as=subscriber"
   }
