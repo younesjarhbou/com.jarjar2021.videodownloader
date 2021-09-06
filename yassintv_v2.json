@@ -107,7 +107,7 @@
 
 
 
-    "bannedtv" : [  "fifa", "euro", "live" ],
+    "bannedtv" : [  "fifa", "euro", "live","bein","ssc" ],
     
 
     "ads_array_reward" : ["admob", "admob", "admob", "admob" ],
