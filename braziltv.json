@@ -95,7 +95,67 @@
       "unity_app_id" : "4202741",
       "you" : 0,
       "backend": "http://radio.movietvapp.com/",
-      "youtube" : "https://www.youtube.com/channel/UCnD5SfKyMhJ6Rekhcd6wX9g/featured?view_as=subscriber"
+      "youtube" : "https://www.youtube.com/channel/UCnD5SfKyMhJ6Rekhcd6wX9g/featured?view_as=subscriber",
+
+      "unity_bn_id" : "AndroidBanner",
+      "unity_it_id" : "AndroidInterstitial",
+      "unity_r_id" : "AndroidRewarded",
+   "ads_array_reward" : ["admob", "admob", "admob", "admob" ],
+
+
+      "owninter_array" : [  
+        
+        {
+      "own_inter_picture" : "https://i.ibb.co/Gnjysp2/own-inter-video-xdownloader.png",
+      "own_inter_link" : "https://play.google.com/store/apps/details?id=com.jarjar2021.videoplayer&hl=en-US&gl=us"},
+      {
+        "own_inter_picture" : "https://i.ibb.co/Gnjysp2/own-inter-video-xdownloader.png",
+        "own_inter_link" : "https://play.google.com/store/apps/details?id=com.jarjar2021.videoplayer&hl=en-US&gl=us"},
+        {
+          "own_inter_picture" : "https://i.ibb.co/Gnjysp2/own-inter-video-xdownloader.png",
+          "own_inter_link" : "https://play.google.com/store/apps/details?id=com.jarjar2021.videoplayer&hl=en-US&gl=us"}
+      ],
+
+
+
+      "ownbanner_array" : [  
+        
+        {
+          "own_banner_picture" : "https://i.ibb.co/j5C86wx/banner.png",
+          "own_banner_link" : "https://play.google.com/store/apps/details?id=com.jarjar2021.videoplayer&hl=en-US&gl=us"
+    }
+      ,
+      {
+        "own_banner_picture" : "https://i.ibb.co/j5C86wx/banner.png",
+        "own_banner_link" : "https://play.google.com/store/apps/details?id=com.jarjar2021.videoplayer&hl=en-US&gl=us"
+      },
+        {
+          "own_banner_picture" : "https://i.ibb.co/j5C86wx/banner.png",
+          "own_banner_link" : "https://play.google.com/store/apps/details?id=com.jarjar2021.videoplayer&hl=en-US&gl=us"
+        }
+      ],
+
+      "ownnative_array" : [  
+        
+        {
+          "own_native_picture" : "https://i.ibb.co/Gp4y9cH/native-video-xdownloader.png",
+          "own_native_link" : "https://play.google.com/store/apps/details?id=com.jarjar2021.videoplayer&hl=en-US&gl=us"
+    
+    },
+      {
+        "own_native_picture" : "https://i.ibb.co/Gp4y9cH/native-video-xdownloader.png",
+        "own_native_link" : "https://play.google.com/store/apps/details?id=com.jarjar2021.videoplayer&hl=en-US&gl=us"
+      },
+        {
+          "own_native_picture" : "https://i.ibb.co/Gp4y9cH/native-video-xdownloader.png",
+          "own_native_link" : "https://play.google.com/store/apps/details?id=com.jarjar2021.videoplayer&hl=en-US&gl=us"}
+      ],
+
+
+
+
+
+
     }
   }
   
