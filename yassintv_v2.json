@@ -138,6 +138,9 @@
     "sharetxt" : "share the app and review it with 5 for support",
     "ratetype" : "1",
 
+    "showbanner2" : "0",
+
+    "precontent_index" : "4",
 
 
     "delay_native_banner" : 15000,
@@ -165,7 +168,57 @@
 
     "you" : 1,
     "backend": "http://radio.movietvapp.com/",
-    "youtube" : "https://www.youtube.com/channel/UCnD5SfKyMhJ6Rekhcd6wX9g/featured?view_as=subscriber"
+    "youtube" : "https://www.youtube.com/channel/UCnD5SfKyMhJ6Rekhcd6wX9g/featured?view_as=subscriber",
+
+
+
+
+   
+    "precontent" : [  
+        
+      {
+        "title" : "red1",
+        "picture" : "https://news.codashop.com/bd/wp-content/uploads/sites/10/2021/05/PUBG-Mobile-Season-19-Royale-Pass.jpg",
+        "minpicture" : "https://news.codashop.com/bd/wp-content/uploads/sites/10/2021/05/PUBG-Mobile-Season-19-Royale-Pass.jpg",
+        "desc" :"desc1 desc desc desc desc desc",
+        "type":"picture"
+      },
+      {
+        "title" : "red2",
+        "picture" : "https://news.codashop.com/bd/wp-content/uploads/sites/10/2021/05/PUBG-Mobile-Season-19-Royale-Pass.jpg",
+        "minpicture" : "https://news.codashop.com/bd/wp-content/uploads/sites/10/2021/05/PUBG-Mobile-Season-19-Royale-Pass.jpg",
+        "desc" :"desc2 desc desc desc desc desc",
+        "type":"picture"
+      },
+      {
+        "title" : "red3",
+        "picture" : "https://news.codashop.com/bd/wp-content/uploads/sites/10/2021/05/PUBG-Mobile-Season-19-Royale-Pass.jpg",
+        "minpicture" : "https://news.codashop.com/bd/wp-content/uploads/sites/10/2021/05/PUBG-Mobile-Season-19-Royale-Pass.jpg",
+        "desc" :"desc3 desc desc desc desc desc",
+        "type":"picture"
+      },
+      {
+        "title" : "red4",
+        "picture" : "https://news.codashop.com/bd/wp-content/uploads/sites/10/2021/05/PUBG-Mobile-Season-19-Royale-Pass.jpg",
+        "minpicture" : "https://news.codashop.com/bd/wp-content/uploads/sites/10/2021/05/PUBG-Mobile-Season-19-Royale-Pass.jpg",
+        "desc" :"desc4 desc desc desc desc desc",
+        "type":"picture"
+      },
+      {
+        "title" : "Stay Focus",
+        "picture" : "https://3.bp.blogspot.com/-JXxVmZxtPRM/XJ8p9RzPfoI/AAAAAAAAcAY/iwxtqV7NIFMM8bOF3m6Tt5QVXyC8asNrQCLcBGAs/s1600/yacine-tv-2019.webp",
+        "minpicture" : "https://3.bp.blogspot.com/-JXxVmZxtPRM/XJ8p9RzPfoI/AAAAAAAAcAY/iwxtqV7NIFMM8bOF3m6Tt5QVXyC8asNrQCLcBGAs/s1600/yacine-tv-2019.webp",
+        "desc" :"You gonna Learn a lot about yacinetv in this app ",
+        "type":"picture"
+      }
+   
+
+     ]
+
+
+
+
+
   }
 }
 
