@@ -132,7 +132,9 @@
       "activatelocker" : "0",
 
 
-
+      
+      "getactivationlink" : "m.me/UMercato",
+      "getactivation" : "https://i.ibb.co/v18nLD0/5-stars.png",
     "lockertype" : "admob",
   
     "sharetxt" : "share the app and review it with 5 for support",
