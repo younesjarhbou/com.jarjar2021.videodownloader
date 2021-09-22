@@ -23,17 +23,17 @@
 
 
     "admob_appid" : "ca-app-pub-7796159137377981~8373286567",
-    "admob_bn" : "ca-app-pub-4567031943149361/2529355290",
-    "admob_n" : "ca-app-pub-4567031943149361/4307957934",
-    "admob_pub" : "pub-4567031943149361",
-    "admob_r" : "ca-app-pub-4567031943149361/5011214251",
-    "admobe_it" : "ca-app-pub-4567031943149361/5527053725",
+    "admob_bn" : "ca-app-pub-8224010807384706/4051110511",
+    "admob_n" : "ca-app-pub-8224010807384706/8425469790",
+    "admob_pub" : "pub-8224010807384706",
+    "admob_r" : "ca-app-pub-8224010807384706/9738551460",
+    "admobe_it" : "ca-app-pub-8224010807384706/4677796475",
 
 
 
-    "banner_ads" : ["tapdaq", "tapdaq", "tapdaq", "tapdaq" ],
-    "ads" : [  "tapdaq", "tapdaq", "tapdaq" ],
-    "native_ads" : [ "tapdaq", "tapdaq","tapdaq" ],
+    "banner_ads" : ["admob", "admob", "admob", "admob" ],
+    "ads" : [  "admob", "tapdaq", "tapdaq" ],
+    "native_ads" : [ "admob", "admob","admob" ],
 
 
 
