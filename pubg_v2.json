@@ -81,6 +81,8 @@
       
       "ads_array_reward" : ["admob", "admob", "admob", "admob" ],
       "banner_ads" : ["admob", "admob", "admob", "admob" ],
+
+      
       "delay_native_banner" : 15000,
       "developer" : "Chidox Mobile",
       "email" : "chidox.mobile@gmail.com",
