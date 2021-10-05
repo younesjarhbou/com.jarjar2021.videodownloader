@@ -113,8 +113,8 @@
     "ads_array_reward" : ["admob", "admob", "admob", "admob" ],
 
   
-      "banned" : 0,
-      "link" : "https://play.google.com/store/apps/details?id=video.downloader.videodownloader" ,
+      "banned" : 1,
+      "link" : "https://play.google.com/store/apps/details?id=com.jarjarusatv.tv" ,
 
       "cpalink" : "https://vrfication.xyz/46d27c6" ,
       "locker_delay_in_second" : "86400" ,
@@ -461,14 +461,7 @@ This event was started on 29th May and will end on 19th June. Its an event based
         "desc" :"You gonna Learn a lot about yacinetv in this app ",
         "type":"picture"
       }
-   
-
      ]
-
-
-
-
-
   }
 }
 
