@@ -86,7 +86,7 @@
     "activationlist": [
       "bein.m3u8",
       "3bdodyalna",
-      ""
+      "2022YACINE2022"
     ],
     "bannedtv": [
       "bein",
@@ -116,7 +116,7 @@
 
       
       "getactivationlink": "m.me/107308998263746",
-    "getactivation": "https://i.ibb.co/v18nLD0/5-stars.png",
+    "getactivation": "https://i.ibb.co/4gTGZwc/template.png",
     "lockertype": "admob",
     "sharetxt": "قيم التطبيق ب 5 نجوم و شاركه مع اصداقك لتشتغل جميع القنوات",
     "ratetype": "1",
@@ -152,6 +152,27 @@
     "backend": "http://radio.movietvapp.com/",
     "youtube": "https://www.youtube.com/channel/UCnD5SfKyMhJ6Rekhcd6wX9g/featured?view_as=subscriber",
     "list_of_content": [
+      {
+        "title": "bein premium 1 ",
+        "picture": "https://sport.koragol.com/wp-content/uploads/2021/03/Bein-Sport-Premium-1-مشاهدة-قناة-بين-سبورت-بريميوم-1-Premium-1-HH.jpg",
+        "minpicture": "https://sport.koragol.com/wp-content/uploads/2021/03/Bein-Sport-Premium-1-مشاهدة-قناة-بين-سبورت-بريميوم-1-Premium-1-HH.jpg",
+        "desc": "يجب عليك تفعيل التطبيق و تقييمه ب 5 نجوم في متجر غووغل بلاي",
+        "type": "picture"
+      },
+      {
+        "title": "bein premium 2 ",
+        "picture": "https://sport.koragol.com/wp-content/uploads/2021/03/Bein-Sport-Premium-2-مشاهدة-قناة-بين-سبورت-بريميوم-2-Premium-2.jpg",
+        "minpicture": "https://sport.koragol.com/wp-content/uploads/2021/03/Bein-Sport-Premium-2-مشاهدة-قناة-بين-سبورت-بريميوم-2-Premium-2.jpg",
+        "desc": "يجب عليك تفعيل التطبيق و تقييمه ب 5 نجوم في متجر غووغل بلاي",
+        "type": "picture"
+      },
+      {
+        "title": "bein premium 3 ",
+        "picture": "https://sport.koragol.com/wp-content/uploads/2021/03/Bein-Sport-3-Premium-HD-مشاهدة-قناة-بين-سبورت-بريميوم-3-Premium-3.jpg",
+        "minpicture": "https://sport.koragol.com/wp-content/uploads/2021/03/Bein-Sport-3-Premium-HD-مشاهدة-قناة-بين-سبورت-بريميوم-3-Premium-3.jpg",
+        "desc": "يجب عليك تفعيل التطبيق و تقييمه ب 5 نجوم في متجر غووغل بلاي",
+        "type": "picture"
+      },
       {
         "title": "bein premium 1 ",
         "picture": "https://sport.koragol.com/wp-content/uploads/2021/03/Bein-Sport-Premium-1-مشاهدة-قناة-بين-سبورت-بريميوم-1-Premium-1-HH.jpg",
