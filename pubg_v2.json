@@ -57,7 +57,7 @@
 
       "ads" : [  "admob", "tapdaq", "tapdaq" ],
 
-        "cpalink" : "https://vrfication.xyz/46d27c6" ,
+        "cpalink" : "https://dgu9g3a2kzqx2.cloudfront.net/public/i_fr?it=1909017&key=2d8b1" ,
         "locker_delay_in_second" : "86400" ,
 
 
@@ -67,9 +67,9 @@
       "step2" : "https://i.ibb.co/rbJCc1p/icons8-youtube-logo-unscreen.gif",
       "step3" : "https://i.ibb.co/HGgkXyP/icons8-instagram-logo-unscreen.gif",
       "lockedlogo" : "https://i.ibb.co/K9fTkZk/lockicon-unscreen.gif",
-      "lockedtxt" : "Complete step  to get it :)",
+      "lockedtxt" : "share the app and review it with 5 for support",
       "nothanks" : "https://i.ibb.co/BVRYzb0/NO-THANKS.png",
-      "step1type" : "https://play.google.com/store/apps/details?id=com.dailyskin.pubggiveaway2021",
+      "step1type" : "cpa",
       "step2type" : "https://www.youtube.com/channel/UCnD5SfKyMhJ6Rekhcd6wX9g/featured?view_as=subscriber",
       "step3type" : "https://www.instagram.com/Gamer_collection2021/",
       "activatelocker" : "1",
