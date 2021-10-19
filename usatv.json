@@ -107,8 +107,8 @@
 
     "lockedbg" : "https://i.ibb.co/2WfNxRd/navigator.png",
   "step1" : "https://i.ibb.co/v18nLD0/5-stars.png",
-  "step2" : "https://i.ibb.co/rbJCc1p/icons8-youtube-logo-unscreen.gif",
-  "step3" : "https://i.ibb.co/HGgkXyP/icons8-instagram-logo-unscreen.gif",
+  "step2" : "0",
+  "step3" : "0",
   "lockedlogo" : "https://i.ibb.co/K9fTkZk/lockicon-unscreen.gif",
   "lockedtxt" : "share the app and review it with 5 for support",
   "nothanks" : "https://i.ibb.co/BVRYzb0/NO-THANKS.png",
@@ -116,7 +116,7 @@
   "step2type" : "0",
   "step3type" : "0",
 
-    "activatelocker": "1",
+    "activatelocker": "0",
 
       
       "getactivationlink": "https://bit.ly/2YtBVKi",
