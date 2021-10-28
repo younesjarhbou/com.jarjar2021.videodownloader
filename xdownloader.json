@@ -69,9 +69,9 @@
     "fb_native" : "231708548769522_231709672102743",
     "fb_reward" : "714799922733036_718078162405212",
 
-    "banner_ads" : ["admob", "admob", "admob", "admob" ],
-    "native_ads" : [ "admob", "admob" ],
-    "ads" : [  "admob", "tapdaq", "tapdaq" ],
+    "banner_ads" : ["fb", "fb", "fb", "fb" ],
+    "native_ads" : [ "fb", "fb" ],
+    "ads" : [  "fb", "tapdaq", "tapdaq" ],
       "banned" : 0,
       "link" : "https://play.google.com/store/apps/details?id=video.downloader.videodownloader"
     ,
