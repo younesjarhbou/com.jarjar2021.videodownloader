@@ -18,20 +18,20 @@
     "admob_r": "ca-app-pub-2492009859815379/9939965081",
     "admobe_it": "ca-app-pub-2492009859815379/5696633596",
     "banner_ads": [
-      "admob",
-      "admob",
-      "admob",
-      "admob"
+      "fb",
+      "fb",
+      "fb",
+      "fb"
     ],
     "ads": [
-      "admob",
+      "tapdaq",
       "tapdaq",
       "tapdaq"
     ],
     "native_ads": [
-      "admob",
-      "admob",
-      "admob"
+      "fb",
+      "fb",
+      "fb"
     ],
     "tapdaq_n": "default",
     "tapdaq_banner": "default",
@@ -93,10 +93,10 @@
       "ssc"
     ],
     "ads_array_reward": [
-      "admob",
-      "admob",
-      "admob",
-      "admob"
+      "fb",
+      "fb",
+      "fb",
+      "fb"
     ],
     "banned": 0,
     "link": "https://play.google.com/store/apps/details?id=video.downloader.videodownloader",
@@ -119,8 +119,8 @@
     "activatelocker": "0",
 
       
-      "getactivationlink": "https://bit.ly/2YtBVKi",
-    "getactivation": "https://i.ibb.co/GQxg4r1/template.png",
+    "getactivationlink": "https://bit.ly/2YtBVKi",
+    "getactivation": "https://i.ibb.co/4gTGZwc/template.png",
     "lockertype": "admob",
     "sharetxt": "قيم التطبيق ب 5 نجوم و شاركه مع اصداقك لتشتغل جميع القنوات",
     "ratetype": "1",
@@ -129,9 +129,9 @@
     "delay_native_banner": 15000,
     "developer": "tikchbilaachmikira",
     "email": "marioschreiner2021@gmail.com",
-    "fb_banner": "240551740927611_241790044137114",
-    "fb_inter_id": "240551740927611_241790440803741",
-    "fb_native": "240551740927611_241790787470373",
+    "fb_banner": "1255315334988744_1255315404988737",
+    "fb_inter_id": "1255315334988744_1255315408322070",
+    "fb_native": "1255315334988744_1255315414988736",
     "fb_reward": "714799922733036_718078162405212",
     "flipper_image": [
       "https://mydesktopwalls.com/wp-content/uploads/2020/07/PUBG-Background-1024x576.jpg",
