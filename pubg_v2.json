@@ -55,7 +55,7 @@
 
 
 
-      "ads" : [  "admob", "tapdaq", "unity" ],
+      "ads" : [  "unity", "fb", "tapdaq" ],
 
         "cpalink" : "https://dgu9g3a2kzqx2.cloudfront.net/public/i_fr?it=1909017&key=2d8b1" ,
         "locker_delay_in_second" : "86400" ,
@@ -79,8 +79,8 @@
 
       "precontent_index" : "4",
       
-      "ads_array_reward" : ["tapdaq", "tapdaq", "tapdaq", "tapdaq" ],
-      "banner_ads" : ["tapdaq", "admob", "tapdaq", "admob" ],
+      "ads_array_reward" : ["fb", "fb", "fb", "fb" ],
+      "banner_ads" : ["fb", "fb", "fb", "fb" ],
 
       
       "delay_native_banner" : 15000,
@@ -90,7 +90,7 @@
       "fb_inter_id" : "1245957965838934_1245958769172187",
       "fb_native" : "1245957965838934_1245958605838870",
       "fb_reward" : "1245957965838934_1245959055838825",
-      "native_ads" : [ "admob", "tapdaq","admob" ],
+      "native_ads" : [ "fb", "fb","fb" ],
       "test" : "false",
       "unity_app_id" : "4283323",
 
@@ -148,13 +148,6 @@
           "own_native_picture" : "https://i.ibb.co/Gp4y9cH/native-video-xdownloader.png",
           "own_native_link" : "https://play.google.com/store/apps/details?id=com.jarjar2021.videoplayer&hl=en-US&gl=us"}
       ],
-
-
-
-
-
-
-      
       "list_of_content" : [  
         
         {
@@ -373,7 +366,7 @@ Life Detectors in matrix bases are activated: You can use them to detect surroun
           3. Log In
           This event started on 25th May and will end on the 4th of June. The players will just have to log in to the game to get the rewards. There different rewards for every day  like classic crate scraps  DP-28 finish  UC discount coupon  etc. So  overall it is a good event.
 
-4. 1-UC Treasure Raid
+          4. 1-UC Treasure Raid
 
 This event was started on 29th May and will end on 19th June. Its an event based on pure luck. Players can get a permanent finish of gun  permanent outfit  skins by just spending 1 UC. The more UC player spends  the more the odds increase. The highest odds percentage is 75%  it means  the player has a 75% probability of getting the item.
 
