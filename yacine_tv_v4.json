@@ -12,25 +12,27 @@
     "mopup_inter": "e1304aeeef7d4ec68158eab69dbc6a0c",
     "apploving_reward_id": "73696274a7f761c5",
     "admob_appid": "ca-app-pub-7796159137377981~8373286567",
-    "admob_bn": "ca-app-pub-2492009859815379/1914474715",
-    "admob_n": "ca-app-pub-2492009859815379/6523464254",
-    "admob_pub": "pub-2492009859815379",
-    "admob_r": "ca-app-pub-2492009859815379/9939965081",
-    "admobe_it": "ca-app-pub-2492009859815379/5696633596",
+    "admob_bn": "ca-app-pub-1578675939053738/6660350570",
+    "admob_n": "ca-app-pub-1578675939053738/2227309213",
+    "admob_pub": "pub-1578675939053738",
+    "admob_r": "ca-app-pub-1578675939053738/3540390889",
+    "admobe_it": "ca-app-pub-1578675939053738/5347268900",
     "banner_ads": [
+      "admob",
       "fb",
-      "fb",
-      "fb",
+      "admob",
       "fb"
     ],
     "ads": [
-      "tapdaq",
-      "tapdaq",
-      "tapdaq"
+      "admob",
+      "fb",
+      "admob",
+      "fb"
     ],
     "native_ads": [
+      "admob",
       "fb",
-      "fb",
+      "admob",
       "fb"
     ],
     "tapdaq_n": "default",
