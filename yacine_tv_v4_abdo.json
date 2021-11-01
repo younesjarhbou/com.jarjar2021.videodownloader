@@ -17,6 +17,12 @@
       "admob_pub": "pub-1578675939053738",
       "admob_r": "ca-app-pub-1578675939053738/8792717564",
       "admobe_it": "ca-app-pub-1578675939053738/7973432247",
+
+      "ironsrc_APP_KEY": "11c3dcb75",
+      "ironsrc_inter": "6344159",
+      "ironsrc_reward": "6344155",
+
+
       "banner_ads": [
         "admob",
         "fb",
