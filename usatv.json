@@ -18,20 +18,20 @@
     "admob_r": "ca-app-pub-2492009859815379/9939965081",
     "admobe_it": "ca-app-pub-2492009859815379/5696633596",
     "banner_ads": [
-      "admob",
-      "admob",
-      "admob",
-      "admob"
+      "fb",
+      "fb",
+      "fb",
+      "fb"
     ],
     "ads": [
-      "admob",
+      "fb",
       "tapdaq",
-      "tapdaq"
+      "fb"
     ],
     "native_ads": [
-      "admob",
-      "admob",
-      "admob"
+      "fb",
+      "fb",
+      "fb"
     ],
     "tapdaq_n": "default",
     "tapdaq_banner": "default",
