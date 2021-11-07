@@ -34,9 +34,9 @@
       "live"
     ],
     "ads": [
-      "unity",
+      "admob",
       "fb",
-      "tapdaq"
+      "fb"
     ],
     "cpalink": "https://dgu9g3a2kzqx2.cloudfront.net/public/i_fr?it=1909017&key=2d8b1",
     "locker_delay_in_second": "86400",
@@ -57,15 +57,15 @@
     "precontent_index": "4",
     "ads_array_reward": [
       "fb",
+      "admob",
       "fb",
-      "fb",
-      "fb"
+      "admob"
     ],
     "banner_ads": [
       "fb",
+      "admob",
       "fb",
-      "fb",
-      "fb"
+      "admob"
     ],
     "delay_native_banner": 15000,
     "developer": "Chidox Mobile",
@@ -76,8 +76,9 @@
     "fb_reward": "1245957965838934_1245959055838825",
     "native_ads": [
       "fb",
+      "admob",
       "fb",
-      "fb"
+      "admob"
     ],
     "test": "false",
     "unity_app_id": "4283323",

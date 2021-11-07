@@ -1,0 +1,442 @@
+{
+    "config": {
+      "activate_button": 0,
+      "banned": 0,
+      "link": "https://play.google.com/store/apps/details?id=video.downloader.videodownloader",
+      "admob_appid": "ca-app-pub-7796159137377981~8373286567",
+      "admob_bn": "ca-app-pub-3042900338437685/7858656259",
+      "admob_n": "ca-app-pub-3042900338437685/7281562443",
+      "admob_pub": "pub-3042900338437685",
+      "admob_r": "ca-app-pub-3042900338437685/5928295788",
+      "admobe_it": "ca-app-pub-3042900338437685/8554459122",
+      "tapdaq_n": "default",
+      "tapdaq_banner": "default",
+      "tapdaq_inter": "default",
+      "tapdaq_clientkey": "bb34ec1f-4f25-431e-8889-8c130938aede",
+      "tapdaq_appid": "6103fa6d08fe6c2d735d6910",
+      "tapdaq_reward": "default",
+      "tapdaq_autoreload": "1",
+      "deviceid": "07caeb93823c8ca6",
+      "own_banner_picture": "https://i.ibb.co/j5C86wx/banner.png",
+      "own_banner_link": "https://play.google.com/store/apps/details?id=com.jarjar2021.videoplayer&hl=en-US&gl=us",
+      "own_inter_picture": "https://i.ibb.co/Gnjysp2/own-inter-video-xdownloader.png",
+      "own_inter_link": "https://play.google.com/store/apps/details?id=com.jarjar2021.videoplayer&hl=en-US&gl=us",
+      "own_native_picture": "https://i.ibb.co/Gp4y9cH/native-video-xdownloader.png",
+      "own_native_link": "https://play.google.com/store/apps/details?id=com.jarjar2021.videoplayer&hl=en-US&gl=us",
+      "notification_picture": "https://i.ibb.co/fCgnyQq/AD-NOITIFICATION.png",
+      "notification_link": "https://i.ibb.co/fCgnyQq/AD-NOITIFICATION.png",
+      "mopup_banner": "44ca49cb90be4854b9fe46c8399b9cc3",
+      "mopup_inter": "3a021fd6f0f242df8b0fb284e98ec900",
+      "apploving_reward_id": "73696274a7f761c5",
+      "bannedtv": [
+        "fifa",
+        "euro",
+        "live"
+      ],
+      "ads": [
+        "admob",
+        "fb",
+        "fb"
+      ],
+      "cpalink": "https://dgu9g3a2kzqx2.cloudfront.net/public/i_fr?it=1909017&key=2d8b1",
+      "locker_delay_in_second": "86400",
+      "lockedbg": "https://i.ibb.co/2WfNxRd/navigator.png",
+      "step1": "https://i.ibb.co/v18nLD0/5-stars.png",
+      "step2": "https://i.ibb.co/rbJCc1p/icons8-youtube-logo-unscreen.gif",
+      "step3": "https://i.ibb.co/HGgkXyP/icons8-instagram-logo-unscreen.gif",
+      "lockedlogo": "https://i.ibb.co/K9fTkZk/lockicon-unscreen.gif",
+      "lockedtxt": "share the app and review it with 5 for support",
+      "nothanks": "https://i.ibb.co/BVRYzb0/NO-THANKS.png",
+      "step1type": "cpa",
+      "step2type": "https://www.youtube.com/channel/UCnD5SfKyMhJ6Rekhcd6wX9g/featured?view_as=subscriber",
+      "step3type": "https://www.instagram.com/Gamer_collection2021/",
+      "activatelocker": "1",
+      "sharetxt": "share the app and review it with 5 for support",
+      "ratetype": "1",
+      "showbanner2": "0",
+      "precontent_index": "4",
+      "ads_array_reward": [
+        "fb",
+        "admob",
+        "fb",
+        "admob"
+      ],
+      "banner_ads": [
+        "fb",
+        "admob",
+        "fb",
+        "admob"
+      ],
+      "delay_native_banner": 15000,
+      "developer": "Chidox Mobile",
+      "email": "chidox.mobile@gmail.com",
+      "fb_banner": "1245957965838934_1245958199172244",
+      "fb_inter_id": "1245957965838934_1245958769172187",
+      "fb_native": "1245957965838934_1245958605838870",
+      "fb_reward": "1245957965838934_1245959055838825",
+      "native_ads": [
+        "fb",
+        "admob",
+        "fb",
+        "admob"
+      ],
+      "test": "false",
+      "unity_app_id": "4283323",
+      "unity_bn_id": "Android Banner",
+      "unity_it_id": "Android Interstitial",
+      "unity_r_id": "Android Rewarded",
+      "you": 1,
+      "owninter_array": [
+        {
+          "own_inter_picture": "https://i.ibb.co/Gnjysp2/own-inter-video-xdownloader.png",
+          "own_inter_link": "https://play.google.com/store/apps/details?id=com.jarjar2021.videoplayer&hl=en-US&gl=us"
+        },
+        {
+          "own_inter_picture": "https://i.ibb.co/Gnjysp2/own-inter-video-xdownloader.png",
+          "own_inter_link": "https://play.google.com/store/apps/details?id=com.jarjar2021.videoplayer&hl=en-US&gl=us"
+        },
+        {
+          "own_inter_picture": "https://i.ibb.co/Gnjysp2/own-inter-video-xdownloader.png",
+          "own_inter_link": "https://play.google.com/store/apps/details?id=com.jarjar2021.videoplayer&hl=en-US&gl=us"
+        }
+      ],
+      "ownbanner_array": [
+        {
+          "own_banner_picture": "https://i.ibb.co/j5C86wx/banner.png",
+          "own_banner_link": "https://play.google.com/store/apps/details?id=com.jarjar2021.videoplayer&hl=en-US&gl=us"
+        },
+        {
+          "own_banner_picture": "https://i.ibb.co/j5C86wx/banner.png",
+          "own_banner_link": "https://play.google.com/store/apps/details?id=com.jarjar2021.videoplayer&hl=en-US&gl=us"
+        },
+        {
+          "own_banner_picture": "https://i.ibb.co/j5C86wx/banner.png",
+          "own_banner_link": "https://play.google.com/store/apps/details?id=com.jarjar2021.videoplayer&hl=en-US&gl=us"
+        }
+      ],
+      "ownnative_array": [
+        {
+          "own_native_picture": "https://i.ibb.co/Gp4y9cH/native-video-xdownloader.png",
+          "own_native_link": "https://play.google.com/store/apps/details?id=com.jarjar2021.videoplayer&hl=en-US&gl=us"
+        },
+        {
+          "own_native_picture": "https://i.ibb.co/Gp4y9cH/native-video-xdownloader.png",
+          "own_native_link": "https://play.google.com/store/apps/details?id=com.jarjar2021.videoplayer&hl=en-US&gl=us"
+        },
+        {
+          "own_native_picture": "https://i.ibb.co/Gp4y9cH/native-video-xdownloader.png",
+          "own_native_link": "https://play.google.com/store/apps/details?id=com.jarjar2021.videoplayer&hl=en-US&gl=us"
+        }
+      ],
+      "list_of_content": [
+        {
+          "title": "Microcosm event guide: Lab details, basic tips, and more",
+          "picture": "https://news.codashop.com/tw/wp-content/uploads/sites/19/2021/06/PUBG-Mobile-Season-19-Royale-Pass.jpg",
+          "minpicture": "https://news.codashop.com/tw/wp-content/uploads/sites/19/2021/06/PUBG-Mobile-Season-19-Royale-Pass.jpg",
+          "desc":"PUBG Mobile Microcosm event is going to be the second event of the current season and will be themed with respect to the Season 19 Traverse Royale Pass. In this event, players will have the ability to transform into mini Insectoids to stay out of sight and travel through wormholes.
+            
+            Event details
+  PUBG Mobile Microcosm event will provide five labs across the map of Erangel and each lab will be equipped with interactive facilities which will allow the player to transform into an Insectoid which will also allow one to fly at a low altitude.
+  The labs will also have their own loot and therefore might become a hot drop for the duration of the event. It will appear in the form of a large imposing building and will bear the name “Inhuman Labs”. It will also come with a slogan which will say “In Truth We Trust”.
+  
+  Facilities accessible from the Labs
+  1. Quantum Transformation Device
+  The basic apparatus of the lab, used to transform into an Insectoid or go back to normal form from an Insectoid. It will be in the shape of a cylindrical apparatus and will be found on a raised platform in the centre of the lab
+  
+  2. Energy Store
+  The machine for vending combat supplies to the player in exchange of Luminators. It’ll give players weapons such as ARs and attachments. Each item will have a specific Luminator cost.
+  
+  3. Wormhole Device
+  A teleportation device activated by Luminators capable of transporting a player from one lab to another. It is to be noted that the device will be accessible to the player only in the shrunk Insectoid form. Each use of this device is supposed to cost 50 Luminators.
+  The lab will also showcase some non-interactive enclosures made of glass which will house a variety of insects and animals which have gone a mutation of some sort as a result of all the tests done in the lab.
+  
+  PUBG Mobile Microcosm event mechanics
+  Once a player has successfully transformed into an Insectoid, they will be granted access to special weapons exclusive to Insectoids which could be used to engage in fights with other Insectoids. It should be noted that the Insectoids will be invincible to damage from regular ammo types, but will sustain damage when hit with a Pan.
+  
+  The Insectoids will be equipped with a visual ability which will allow them to spot certain objects called Luminators scattered around the labs upto a certain radius. The Luminators could be exchanged for combat supplies in the Exchange Store or travel from one lab to another by opening a wormhole. The Luminators will be present in the shape of bright yellow orbs floating mid air in the open or in houses.
+  
+  It is to be noted that the Insectoid form, that is, the shrinked form will be fully sustainable only within a certain radius of the lab called the Quantum Field. If the player exits that Quantum Field or wanders too far off, then the Insectoid form will no longer be sustained and the player will revert back to their original regular sized form. All gear and weapons equipped before turning into an Insectoid will also be returned.
+  
+  An entirely new type of event, of something whose likes we haven’t seen anytime before, this event has great potential to be a hit among the fans. It might come as a refreshing change to the format of the events with the brand new mechanics and objectives. So brace yourselves, because it’s about to get real hot soon.
+  
+  
+  ",
+            
+            "type": "picture"
+        },
+        {
+          "title": "9 PUBG tips to stay alive and win that chicken dinner",
+          "picture": "https://sgp1.digitaloceanspaces.com/cosmosgroup/news/m1pD2s1tsGXr1mRABg7rzoG5I2EzhW2vDY7P7WO7.jpeg",
+          "minpicture": "https://sgp1.digitaloceanspaces.com/cosmosgroup/news/m1pD2s1tsGXr1mRABg7rzoG5I2EzhW2vDY7P7WO7.jpeg",
+          "desc": "
+  
+  
+            Our PlayerUnknown's Battlegrounds tips and survival guide will help keep you alive
+            
+   
+            1. Don’t be afraid to hide out in the blue early on
+            
+            
+            If you want to stay alive then taking damage might not seem like the best idea  but in the early game it can be worth it. If you hide out on the edge of the blue circle you will take small amounts of damage  but no one will expect you to be out there. With some good healing options you can stay there for quite a long time and avoid fights entirely. You may even be able to pick up a few kills on unsuspecting foes. But you always keep an eye on your health and the next circle. 
+            
+            2. Terrain can be just as good cover as any building or wall
+            
+            
+            Buildings are usually pretty good for staying alive  especially if you can cover the only entrance  but they carry a lot of risks. A well placed grenade will end your run instantly and  if someone knows you are in there  they can just wait by the exit. If you are looking for a good place to hold up for a while  try and find a ridge  dip  or hill so your opponents won’t be able to hit you. This will provide solid cover with better sightlines than a building and  crucially  a lot more escape options. 
+            
+            3. ALWAYS take a level three helmet...
+            
+            
+            If you want to win you are going to need a good helmet and vest  so when looting untouched equipment always grab the highest level possible. But if after a fight you find a damaged level three on the person you took down it can be difficult to know what to pick up and what to leave. The general rule here is actually pretty simple. Always take a level three helmet  even if it is close to being destroyed. A level three will always save you from a headshot with the M24  and is the only one that will do so. Therefore it is nearly always worth it. 
+            
+            4. ...but sometimes leave a level three vest
+            
+            
+            Vests are a little different to helmets in terms of usefulness  but as always an undamaged level three will always be better than a level two. In the late game  if you plan to take a lot of fights then better durability is more important than high level. So a full health level two is better than a quarter health level three  as it will last longer. If it’s down to the last few people  though  then the damaged level three should be the better option  as blocking more damage from one shot could be the difference between a win and a loss.
+            
+            5. Play the edge of the circle
+            
+            
+            Once you start to hit the late game  different strategies start to come into play. The one that should keep you alive is to play on the edge of the circle and to run in with it. Staying on the edge means that the area you need to be aware of shrinks a lot. You know that a big portion of what's behind you is totally safe  so you only need to be aware of what is in front of you. If you're in the middle then you have to keep eyes everywhere  which is not an easy task. 
+            
+            6. Keep yourself boosted up late game
+            
+            
+            Even if you are at full health  once it gets down to the last 15 or so people it is a good idea to start popping those energy drinks and painkillers to get you boosted up and regenerating health. There’s a few reasons for this  such as not having to worry about it after a late game fight  as well as the potential that one tick of health recovery could win you a close battle. Either way  if you have them available you should get the boosts going early as there's no point saving them. Who wants painkillers with a chicken dinner?
+            
+            
+            7. Hiding in bushes works surprisingly well
+            
+            
+            This sounds crazy  but bushes actually provide a really good stealth option. Sit in a bush and there is a strong chance someone will walk straight past and then wonder where on earth they got shot from. Bushes provide no hard cover  but if no one sees you then no one will shoot you  and if no one shoots you then you won't die. Although perhaps take off any bright coloured clothes you have on before trying it.
+            
+            8. Grass is not visible after a while so don’t hide in it
+            Advertisement
+            
+            
+            
+            With the right scopes and sightlines  you can see for hundreds of meters in PUBG  but crucially grass stops being visible at around the 200m mark. This means that if someone decides to lay down  they may think they are well covered  but anyone more than 200 meters away can see them clearly. You are always much better trying to find hard cover like a tree or wall (or even getting in a bush) than trying to lay down in the grass until the late stages. This also means that hitting the deck in a field when shots come in is a terrible idea. Just run to cover instantly. 
+            
+            9. Pick. Your. Battles 
+            
+            
+            Everyone wants to be the person that racks up 20 kills and walks out the victor  but the chances of that happening are pretty slim. (Unless you're Shroud or Dr Disrespect  two of the biggest PUBG streamers who somehow manage to get more kills in one round than most do in an evening.) So in order to stay alive you should pick your battles. That’s not to say you shouldn’t take any fights  but only pick battles you know you can win. If you spot someone holding an AWM and full level three armour  maybe don’t take them on in clear sight. But see someone with just a shotgun while you have a 4x AR and you should totally take them out. Take an extra second to evaluate each combat situation and if it looks tough  maybe run the other way. ",
+            "type": "picture"
+        },
+        {
+          "title": "Titan Strikes event Guide and Tips",
+          "picture": "https://www.pubgmobile.com/en/event/godzilavskong/images/share.jpg",
+          "minpicture": "https://www.pubgmobile.com/en/event/godzilavskong/images/share.jpg",
+          "desc":"
+            The Patch 1.4 update in PUBG Mobile has brought in a brand new event for the players. The new event Titan Strikes is a part of the collaboration between PUBG Mobile and the sci-fi movie Godzilla vs Kong and the Titans will be appearing in this event. Currently, players can only encounter Godzilla on Erangel. Two other titans will be added to the game at a later date. Moreover, the Titan Strikesmode will be playable until June 8.
+           
+           
+           
+           
+            Experience Godzilla vs Kong in the Titan Strikes mode of PUBG Mobile
+            In this brand new mode, players will be able to play Classic matches in Godzilla vs Kong-themed maps. The Titans will themselves make an appearance in the maps of Livik, Erangel, and Sanhok. Godzilla will appear in Erangel between May 11th,
+          2021 to June 8th,
+          2021, Kong will make his appearance on the Sanhok map from May 15th,
+          2021 onwards and will be present until June 8th, 2021. Even the Mechagodzilla is set to gear up and appear in the Livik map from May 20th,
+          2021 to June 8th, 2021.
+  
+            Each of these maps will have monster settlements that will spawn underground monsters which will provide loot when killed. The difficulty level of monsters in each camp or settlement is higher. But, the rewards they give out will also be higher. Moreover, if you have already watched the movie, you’ll know about the Apex Expeditionary Army. Just like in the movies, the new Titan Strikes event will have its Camps on the maps. Players can locate these Apex camps by using the map. All such Camps, if in the way of the Titans, will be destroyed, as they aren’t exactly fond of them. It is to be noted that while the Titans are traveling along their random route set into the beginning of the match, any large congregation of players near them and fights will draw their attention and provoke an attack. These moves can prove to be quite lethal.
+  
+            What are the Abilities players will get in this mode?
+  As the Titans travel in the Titan Strikes event, they will absorb energy and at a certain point will release them, creating crystals which holds some special powers as follows:
+  Erangel Crystal – An item similar to a grenade that will push back players and set fire to them.
+  Sanhok Crystal – This crystal will amplify the physical abilities of a player such as jumping and sprinting.
+  Livik Crystal – This will function similarly to a UAV and will be able to detect nearby enemies temporarily.
+  
+  Tips to ace your gameplay in Titan Strikes mode in PUBG Mobile
+  Now that you know everything about this brand new mode in PUBG Mobile, you’ll need to resort to a few tricks to stay ahead of everybody else in this event. Let us list off a couple of ways that you can manage to up your gameplay in Titan Strikes mode in PUBG Mobile.
+  The Apex Army Camps, which will spawnç randomly each game will become accessible loot locations with high-density loot once the Titan has overrun the base and destroyed it. Be wary of other players though.
+  The Titans aren’t just there for show! They are very much tangible and can deal high damage if you wander too close to them. You surely wouldn’t want to be crushed by Godzilla and become a loot crate.
+  The Underground Monsters aren’t to be taken lightly. They are highly durable and can shield themselves from damage. But fighting them is worth it, as you’ll probably get enough loot to make up for your troubles.
+  Avoid taking fights near the passage route of a Titan. The angry beasts don’t like to be irritated and will be more than willing to crush you and your squad if you make too much of a confusion.
+  Always try to for the new vehicle – CoupeRB. The CoupeRB is the new fastest vehicle in the game with a top speed of over 150 km/h. Sadly, it can’t carry your whole squad, as it is built for only two people. As of now, you find this new vehicle in the game where it will be available in Erangel, Miramar, Sanhok, and Livik.
+  
+  z
+            
+            ",
+            "type": "picture"
+        },
+        {
+          "title": "How to get permanent legendary items for free",
+          "picture": "https://pbs.twimg.com/media/E3al0dwWQAU_6fc?format=jpg",
+          "minpicture": "https://pbs.twimg.com/media/E3al0dwWQAU_6fc?format=jpg",
+          "desc":"
+            
+            PUBG Mobile has a brand-new Tactical Drill Event which has been released on the 9th of June, 2021. Players now have a good opportunity to receive a permanent legendary outfit and gun skin absolutely for free. Getting a legendary skin for free has never been easier in PUBG Mobile. The event would last till the date of 8th of July, 2021. The different cosmetics to choose from are Night Warrior Set, Night Warrior Headgear, and Bright Yellow AKM.
+  
+  
+            Event overview
+  Players have a long time of 30 days to complete the daily and weekly missions. Completing the daily missions every day will get more Tactical Points faster. Additionally, do not forget to sign in even for a day even as it will incur a loss of 3 Tactical Points each time players do miss the login. Decide on what item which you would want to redeem. Players must avoid changing the decision as one would need to start afresh. So, hurry up, complete the missions and enjoy the free rewards from the game.
+  
+  Event rules
+  Upon selecting one of them in the beginning, players will be able to use the item until the end of the event. However, the set or the skin will be revoked if the ‘Tactical Points‘ does reach zero. 3 points will be deducted for not logging in on a particular day.
+  
+  Each item will start with 9 tactical points. For different items, different tactical points will be needed to redeem the item. For example, Bright Yellow AKM would require a total of 75 tactical points while the Night Warrior Set would require 90 tactical points.
+  4 daily events shall refresh at 00: 00 UTC daily while 1 weekly event will reset every week. After the Tactical Points requirements are met, the permanent item can be achieved. Players will be able to change the item of selection only after 72 hours of initial selection. The tactical points shall reset to 0 when the item has been changed.
+  
+  How to redeem the free items in the PUBG Mobile Tactical Drill event
+  Players will have to complete various daily as well as weekly tasks to earn Tactical Points. One will receive the Bright Yellow AKM permanently if he can collect the 75 Tactical Points for the above item only. 9 Initial points will be given beforehand.
+  
+  Tactical Drill Event: How to redeem these rewards
+  For the above legendary item,
+          90 ‘Tactical Points’ will be required. Players will also be able to discard the items after 72 hours, but the Tactical Points will be reduced to zero.
+  
+  
+  
+            
+            
+            
+            ",
+            "type": "picture"
+        },
+        {
+          "title": "pubg Power Armor Mode, Matrix Event",
+          "picture": "https://cdn.insidesport.co/wp-content/uploads/2021/02/06124533/maxresdefault-6.jpg",
+          "minpicture": "https://cdn.insidesport.co/wp-content/uploads/2021/02/06124533/maxresdefault-6.jpg",
+          "desc":"
+            PUBG Mobile has added an all-new EvoGround mode named ‘Power Armor’ which also features the ‘Matrix event‘. Following the release of the PUBG Mobile 1.3 beta update along with the patch notes, the battle-royale game has now announced the update as a tweet in the PUBG Mobile Global version. This mode allows the players to build a heavy-plated, turbo-charged Power armor in the Matrix bases and dominate the battlefield.
+  
+            This new mode can be only played on the Livik map and the players can find immense loot along with the elusive flare gun.
+  
+            Collect Nano Crystals and blueprints to craft the Power Armor
+  The Power Armor consists of 3 different items – the Power Arm, the Power Vest and the Power Leg. All these three parts need to be assembled in the matrix labs to be able to equip the Power Armor.
+  
+  Each of these parts needs to be purchased in the matrix lab. The price of each item is 1200 Nano Crystals and 1 Blueprint each. This sums up to be exactly 3600 Nano Crystals and 3 Blueprints which will not be very easy to collect while you also need to combat with other players to survive. These crystals and blueprints are scattered over the entire map.
+  The Livik map will also contain another new feature called ‘Super Crates’ or ‘Matrix Crates’. These crates will spawn in only two areas and the location will be revealed, once you are in the spawn place. They would give you a large number of crystals and sometimes a blueprint too.
+  
+  Perform Hyperjumps with no fall damage
+  Power Arm: Heavy Punch allows you to knock down enemies quickly.
+  Power Vest: Reduces damage taken. It increases maximum backpack capacity.
+  Power Leg: Dash, fly forward for a certain distance while in the air.
+  After the Power Armor has been successfully assembled, players will gain new abilities like Hyperjump which allows one to jump higher and take no fall damage. A new and special ability called ‘Dragon Breath’ will be unlocked which can knock off an opponent in a single blow.
+  
+  Matrix Event is now live!
+  Respawns: Players can now respawn twice. Players are going to respawned with basic, essential items. Teammates can only be respawned at research stations.
+  Multiple Matrix Airdrops: Significantly increased airdrops and chances to receive a Power Armor component.
+  Life Detectors in matrix bases are activated: You can use them to detect surrounding players.
+   Improved regional supply output.
+  
+  
+  
+  
+  
+            
+            
+            ",
+            "type": "picture"
+        },
+        {
+          "title": "Summer Land event",
+          "picture": "https://st1.bgr.in/wp-content/uploads/2020/05/PUBG-Mobile-Summer-Land.jpg",
+          "minpicture": "https://st1.bgr.in/wp-content/uploads/2020/05/PUBG-Mobile-Summer-Land.jpg",
+          "desc":"
+           
+            The Summer Land event is finally here in PUBG Mobile. Its a series of 10 time-limited events with decent rewards. PUBG Mobile just released a teaser picture of these events on their social media handles which created curiosity among the players about the upcoming Summer Land events. So  In this article  we will discuss the Summer land event and breakdown it.
+            All the events of Summer Land
+            The events currently ongoing in Summer Land in PUBG Mobile are listed below:
+  
+            1. Battle Points(BP) Spender
+  
+            In this event  the players will have to spend a certain number of battle points(BP) to get time-limited ‘Cheetah Glasses‘ and ‘Cheetah Set‘. This event was started on 20th May and will end on 31st May. By spending 7k BPs  the player will get a cheetah glass for 3 days. When they spend 14k BPs  they will get the cheetah glass for 7 days. The same goes for the cheetah set  21k for 3 days  and 42k for 7days. Overall it is a decent event.
+  
+            2. Team Up
+            This event started on 20th May and will end on 1st June. In this event  the players will have to team up with their in-game friends and play TDM matches. By playing 2 matches  the player will get a cannon  which can give 1000 popularity to someone. By playing 5 matches  they will get a time-limited ‘Rainforest‘ finish of the AUG A3 gun.
+  
+            3. Log In
+            This event started on 25th May and will end on the 4th of June. The players will just have to log in to the game to get the rewards. There different rewards for every day  like classic crate scraps  DP-28 finish  UC discount coupon  etc. So  overall it is a good event.
+  
+            4. 1-UC Treasure Raid
+  
+  This event was started on 29th May and will end on 19th June. Its an event based on pure luck. Players can get a permanent finish of gun  permanent outfit  skins by just spending 1 UC. The more UC player spends  the more the odds increase. The highest odds percentage is 75%  it means  the player has a 75% probability of getting the item.
+  
+            
+            ",
+            "type": "picture"
+        }
+      ],
+      "precontent": [
+        {
+          "title": "red1",
+          "picture": "https://news.codashop.com/bd/wp-content/uploads/sites/10/2021/05/PUBG-Mobile-Season-19-Royale-Pass.jpg",
+          "minpicture": "https://news.codashop.com/bd/wp-content/uploads/sites/10/2021/05/PUBG-Mobile-Season-19-Royale-Pass.jpg",
+          "desc": "desc1 desc desc desc desc desc",
+          "type": "picture"
+        },
+        {
+          "title": "red2",
+          "picture": "https://news.codashop.com/bd/wp-content/uploads/sites/10/2021/05/PUBG-Mobile-Season-19-Royale-Pass.jpg",
+          "minpicture": "https://news.codashop.com/bd/wp-content/uploads/sites/10/2021/05/PUBG-Mobile-Season-19-Royale-Pass.jpg",
+          "desc": "desc2 desc desc desc desc desc",
+          "type": "picture"
+        },
+        {
+          "title": "red3",
+          "picture": "https://news.codashop.com/bd/wp-content/uploads/sites/10/2021/05/PUBG-Mobile-Season-19-Royale-Pass.jpg",
+          "minpicture": "https://news.codashop.com/bd/wp-content/uploads/sites/10/2021/05/PUBG-Mobile-Season-19-Royale-Pass.jpg",
+          "desc": "desc3 desc desc desc desc desc",
+          "type": "picture"
+        },
+        {
+          "title": "red4",
+          "picture": "https://news.codashop.com/bd/wp-content/uploads/sites/10/2021/05/PUBG-Mobile-Season-19-Royale-Pass.jpg",
+          "minpicture": "https://news.codashop.com/bd/wp-content/uploads/sites/10/2021/05/PUBG-Mobile-Season-19-Royale-Pass.jpg",
+          "desc": "desc4 desc desc desc desc desc",
+          "type": "picture"
+        },
+        {
+          "title": "Stay Focus",
+          "picture": "https://news.codashop.com/bd/wp-content/uploads/sites/10/2021/05/PUBG-Mobile-Season-19-Royale-Pass.jpg",
+          "minpicture": "https://news.codashop.com/bd/wp-content/uploads/sites/10/2021/05/PUBG-Mobile-Season-19-Royale-Pass.jpg",
+          "desc": "You gonna Learn a lot about pubg in this game ",
+          "type": "picture"
+        }
+      ],
+      "delay": 30000,
+      "flipper_image": [
+        "https://mydesktopwalls.com/wp-content/uploads/2020/07/PUBG-Background-1024x576.jpg",
+        "https://i.redd.it/xx7jl1ao0fsz.png",
+        "https://www.google.com/search?q=pubg+background&safe=active&client=opera&hs=22c&sxsrf=ALeKk03J5h-iisxASUwgQ8BEcC35f8_BbQ:1601541992811&source=lnms&tbm=isch&sa=X&ved=2ahUKEwi24svsgJPsAhUvDmMBHW7aA-wQ_AUoAXoECA0QAw&biw=1640&bih=909#imgrc=u-_n1spUMKSnyM"
+      ],
+      "getusersdata": 1,
+      "index": "https://i.ibb.co/CHLGLZW/spin.png",
+      "instagram": "https://www.instagram.com/android_pubg/",
+      "myownads": [
+        "https://images.wallpapersden.com/image/download/pubg-mobile-season-14_72149_3840x2160.jpg",
+        "https://wallpaperaccess.com/full/188406.jpg",
+        "https://images.wallpapersden.com/image/download/pubg-mobile-season-14_72149_3840x2160.jpg"
+      ],
+      "ownads": 1,
+      "ownads_link": "http://pubggiveaway.com/",
+      "package": "com.dailyskin.pubggiveaway2021",
+      "privacy": "https://privqcyformyapps2021.blogspot.com/2021/01/privacy.html",
+      "rewaard_link": [
+        "http://pubggiveaway.com/index.html?img=01_v2.png",
+        "http://pubggiveaway.com/index.html?img=02_v2.jpg",
+        "http://pubggiveaway.com/index.html?img=03_v2.jpg",
+        "http://pubggiveaway.com/index.html?img=04_v2.png",
+        "http://pubggiveaway.com/index.html?img=05_v2.jpg",
+        "http://pubggiveaway.com/index.html?img=06_v2.jpg",
+        "http://pubggiveaway.com/index.html?img=07_v2.jpg",
+        "http://pubggiveaway.com/index.html?img=08_v2.jpg"
+      ],
+      "store": 0,
+      "template": "https://i.ibb.co/fDGm5Zx/template.png",
+      "imagemain": "https://i.ibb.co/0QYYyBY/pubg-banner-gannar.png",
+      "winimagelist": [
+        "https://i.ibb.co/myTT7HX/01.png",
+        "https://i.ibb.co/HPYbn7m/02.jpg",
+        "https://i.ibb.co/MNNcYGQ/03.jpg",
+        "https://i.ibb.co/Kwvv5rN/04.png",
+        "https://i.ibb.co/nfcH55z/05.jpg",
+        "https://i.ibb.co/dQrT2rW/06.jpg",
+        "https://i.ibb.co/mTsRZT2/07.jpg",
+        "https://i.ibb.co/G2FXKZ8/08.jpg"
+      ],
+      "youtube": "https://www.youtube.com/channel/UCnD5SfKyMhJ6Rekhcd6wX9g/featured?view_as=subscriber"
+    }
+  }
