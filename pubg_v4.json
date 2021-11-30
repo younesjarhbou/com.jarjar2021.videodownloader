@@ -26,7 +26,7 @@
       "notification_picture": "https://i.ibb.co/fCgnyQq/AD-NOITIFICATION.png",
       "notification_link": "https://i.ibb.co/fCgnyQq/AD-NOITIFICATION.png",
       "mopup_banner": "44ca49cb90be4854b9fe46c8399b9cc3",
-      "mopup_inter": "3a021fd6f0f242df8b0fb284e98ec900",
+      "mopup_inter": "3a021fd6f0f242df8b0284e98ec900",
       "apploving_reward_id": "73696274a7f761c5",
       "bannedtv": [
         "fifa",
@@ -34,7 +34,7 @@
         "live"
       ],
       "ads": [
-        "admob",
+        "unity",
         "fb",
         "fb"
       ],
@@ -57,31 +57,31 @@
       "precontent_index": "4",
       "ads_array_reward": [
         "fb",
-        "admob",
+        "unity",
         "fb",
-        "admob"
+        "unity"
       ],
       "banner_ads": [
         "fb",
-        "admob",
+        "unity",
         "fb",
-        "admob"
+        "unity"
       ],
       "delay_native_banner": 15000,
       "developer": "Chidox Mobile",
       "email": "chidox.mobile@gmail.com",
-      "fb_banner": "1245957965838934_1245958199172244",
-      "fb_inter_id": "1245957965838934_1245958769172187",
-      "fb_native": "1245957965838934_1245958605838870",
-      "fb_reward": "1245957965838934_1245959055838825",
+      "fb_banner": "222995553111486_222995626444812",
+      "fb_inter_id": "222995553111486_222995626444812",
+      "fb_native": "222995553111486_222995616444813",
+      "fb_reward": "222995553111486_222995619778146",
       "native_ads": [
         "fb",
-        "admob",
+        "unity",
         "fb",
-        "admob"
+        "unity"
       ],
       "test": "false",
-      "unity_app_id": "4283323",
+      "unity_app_id": "3845151",
       "unity_bn_id": "Android Banner",
       "unity_it_id": "Android Interstitial",
       "unity_r_id": "Android Rewarded",
