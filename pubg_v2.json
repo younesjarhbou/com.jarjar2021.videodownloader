@@ -34,7 +34,7 @@
       "live"
     ],
     "ads": [
-      "admob",
+      "unity",
       "fb",
       "fb"
     ],
@@ -57,15 +57,15 @@
     "precontent_index": "4",
     "ads_array_reward": [
       "fb",
-      "admob",
+      "unity",
       "fb",
-      "admob"
+      "unity"
     ],
     "banner_ads": [
       "fb",
-      "admob",
+      "unity",
       "fb",
-      "admob"
+      "unity"
     ],
     "delay_native_banner": 15000,
     "developer": "Chidox Mobile",
@@ -76,9 +76,9 @@
     "fb_reward": "1245957965838934_1245959055838825",
     "native_ads": [
       "fb",
-      "admob",
+      "unity",
       "fb",
-      "admob"
+      "unity"
     ],
     "test": "false",
     "unity_app_id": "4283323",
