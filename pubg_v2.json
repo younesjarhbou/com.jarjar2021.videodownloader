@@ -34,8 +34,8 @@
       "live"
     ],
     "ads": [
-      "unity",
       "fb",
+      "unity",
       "fb"
     ],
     "cpalink": "https://dgu9g3a2kzqx2.cloudfront.net/public/i_fr?it=1909017&key=2d8b1",
@@ -63,9 +63,9 @@
     ],
     "banner_ads": [
       "fb",
-      "unity",
       "fb",
-      "unity"
+      "fb",
+      "fb"
     ],
     "delay_native_banner": 15000,
     "developer": "Chidox Mobile",
@@ -76,15 +76,15 @@
     "fb_reward": "1245957965838934_1245959055838825",
     "native_ads": [
       "fb",
-      "unity",
       "fb",
-      "unity"
+      "fb",
+      "fb"
     ],
     "test": "false",
-    "unity_app_id": "4283323",
-    "unity_bn_id": "Android Banner",
-    "unity_it_id": "Android Interstitial",
-    "unity_r_id": "Android Rewarded",
+    "unity_app_id": "3845151",
+    "unity_bn_id": "Android_Banner",
+    "unity_it_id": "Android_Interstitial",
+    "unity_r_id": "Android_Rewarded",
     "you": 1,
     "owninter_array": [
       {
@@ -424,7 +424,7 @@ This event was started on 29th May and will end on 19th June. Its an event based
       "http://pubggiveaway.com/index.html?img=07_v2.jpg",
       "http://pubggiveaway.com/index.html?img=08_v2.jpg"
     ],
-    "store": 0,
+    "store": 1,
     "template": "https://i.ibb.co/fDGm5Zx/template.png",
     "imagemain": "https://i.ibb.co/0QYYyBY/pubg-banner-gannar.png",
     "winimagelist": [
