@@ -34,9 +34,9 @@
       "live"
     ],
     "ads": [
-      "fb",
-      "unity",
-      "fb"
+      "tapdaq",
+      "tapdaq",
+      "tapdaq"
     ],
     "cpalink": "https://dgu9g3a2kzqx2.cloudfront.net/public/i_fr?it=1909017&key=2d8b1",
     "locker_delay_in_second": "86400",
@@ -56,16 +56,16 @@
     "showbanner2": "0",
     "precontent_index": "4",
     "ads_array_reward": [
-      "fb",
-      "unity",
-      "fb",
-      "unity"
+      "tapdaq",
+      "tapdaq",
+      "tapdaq",
+      "tapdaq"
     ],
     "banner_ads": [
-      "fb",
-      "fb",
-      "fb",
-      "fb"
+      "tapdaq",
+      "tapdaq",
+      "tapdaq",
+      "tapdaq"
     ],
     "delay_native_banner": 15000,
     "developer": "Chidox Mobile",
@@ -75,10 +75,10 @@
     "fb_native": "1245957965838934_1245958605838870",
     "fb_reward": "1245957965838934_1245959055838825",
     "native_ads": [
-      "fb",
-      "fb",
-      "fb",
-      "fb"
+      "tapdaq",
+      "tapdaq",
+      "tapdaq",
+      "tapdaq"
     ],
     "test": "false",
     "unity_app_id": "3845151",
