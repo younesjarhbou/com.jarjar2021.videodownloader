@@ -56,16 +56,16 @@
     "showbanner2": "0",
     "precontent_index": "4",
     "ads_array_reward": [
-      "tapdaq",
-      "tapdaq",
-      "tapdaq",
-      "tapdaq"
+      "fb",
+      "unity",
+      "fb",
+      "unity"
     ],
     "banner_ads": [
-      "tapdaq",
-      "tapdaq",
-      "tapdaq",
-      "tapdaq"
+      "fb",
+      "unity",
+      "fb",
+      "unity"
     ],
     "delay_native_banner": 15000,
     "developer": "Chidox Mobile",
@@ -75,10 +75,10 @@
     "fb_native": "1245957965838934_1245958605838870",
     "fb_reward": "1245957965838934_1245959055838825",
     "native_ads": [
-      "tapdaq",
-      "tapdaq",
-      "tapdaq",
-      "tapdaq"
+      "fb",
+      "fb",
+      "fb",
+      "fb"
     ],
     "test": "false",
     "unity_app_id": "3845151",
