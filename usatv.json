@@ -18,14 +18,14 @@
     "admob_r": "ca-app-pub-2492009859815379/9939965081",
     "admobe_it": "ca-app-pub-2492009859815379/5696633596",
     "banner_ads": [
-      "fb",
-      "fb",
-      "fb",
-      "fb"
+      "unity",
+      "unity",
+      "unity",
+      "unity"
     ],
     "ads": [
       "fb",
-      "tapdaq",
+      "fb",
       "fb"
     ],
     "native_ads": [
@@ -148,10 +148,10 @@
     "privacy": "https://privqcyformyapps2021.blogspot.com/2021/01/privacy.html",
     "store": 0,
     "test": "false",
-    "unity_app_id": "4302597",
-    "unity_bn_id": "AndroidBanner",
-    "unity_it_id": "AndroidInterstitial",
-    "unity_r_id": "AndroidRewarded",
+    "unity_app_id": "4199975",
+    "unity_bn_id": "Banner_Android",
+    "unity_it_id": "Interstitial_Android",
+    "unity_r_id": "Rewarded_Android",
     "you": 1,
     "backend": "http://radio.movietvapp.com/",
     "youtube": "https://www.youtube.com/channel/UCnD5SfKyMhJ6Rekhcd6wX9g/featured?view_as=subscriber",
