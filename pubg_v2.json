@@ -51,29 +51,29 @@
     "showbanner2": "0",
     "precontent_index": "4",
     "ads_array_reward": [
-      "admob",
-      "admob",
-      "fadmobb",
-      "admob"
+      "tapdaq",
+      "tapdaq",
+      "tapdaq",
+      "tapdaq"
     ],
     "banner_ads": [
-      "admob",
-      "admob",
-      "admob",
-      "admob"
+      "tapdaq",
+      "tapdaq",
+      "tapdaq",
+      "tapdaq"
     ],
     "ads": [
-      "",
-      "",
-      "admob",
-      "",
-      ""
+      "tapdaq",
+      "tapdaq",
+      "tapdaq",
+      "tapdaq",
+      "tapdaq"
     ],
     "native_ads": [
-      "admob",
-      "admob",
-      "admob",
-      "admob"
+      "fb",
+      "fb",
+      "fb",
+      "fb"
     ],  
     "delay_native_banner": 15000,
     "developer": "Chidox Mobile",
@@ -83,10 +83,10 @@
     "fb_native": "1245957965838934_1245958605838870",
     "fb_reward": "1245957965838934_1245959055838825",
     "test": "false",
-    "unity_app_id": "3845151",
-    "unity_bn_id": "Android_Banner",
-    "unity_it_id": "Android_Interstitial",
-    "unity_r_id": "Android_Rewarded",
+    "unity_app_id": "4283323",
+    "unity_bn_id": "banner",
+    "unity_it_id": "inter",
+    "unity_r_id": "rewardedVideo",
     "you": 1,
     "owninter_array": [
       {
