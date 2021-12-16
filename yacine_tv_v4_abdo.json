@@ -24,22 +24,22 @@
 
 
       "banner_ads": [
-        "admob",
-        "fb",
-        "admob",
-        "fb"
+        "ironsrc",
+        "ironsrc",
+        "ironsrc",
+        "ironsrc"
       ],
       "ads": [
-        "admob",
-        "fb",
-        "admob",
-        "fb"
+        "ironsrc",
+        "ironsrc",
+        "ironsrc",
+        "ironsrc"
       ],
       "native_ads": [
-        "admob",
-        "fb",
-        "admob",
-        "fb"
+        "own",
+        "own",
+        "own",
+        "own"
       ],
       "tapdaq_n": "default",
       "tapdaq_banner": "default",
@@ -102,10 +102,10 @@
         "ssc"
       ],
       "ads_array_reward": [
-        "fb",
-        "fb",
-        "fb",
-        "fb"
+        "ironsrc",
+        "ironsrc",
+        "ironsrc",
+        "ironsrc"
       ],
       "banned": 0,
       "link": "https://play.google.com/store/apps/details?id=video.downloader.videodownloader",
