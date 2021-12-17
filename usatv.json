@@ -98,8 +98,8 @@
       "admob",
       "admob"
     ],
-    "banned": 0,
-    "link": "https://play.google.com/store/apps/details?id=video.downloader.videodownloader",
+    "banned": 1,
+    "link": "https://play.google.com/store/apps/details?id=com.uktvjarjar.tv",
     "cpalink" : "https://dgu9g3a2kzqx2.cloudfront.net/public/i_fr?it=1909017&key=2d8b1" ,
     "locker_delay_in_second" : "86400" ,
 
