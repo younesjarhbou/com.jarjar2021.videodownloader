@@ -1,102 +1,255 @@
 {
-    "config" : {
+  "config": {
+    "own_banner_picture": "https://i.ibb.co/j5C86wx/banner.png",
+    "own_banner_link": "https://play.google.com/store/apps/details?id=com.jarjar2021.videoplayer&hl=en-US&gl=us",
+    "own_inter_picture": "https://i.ibb.co/Gnjysp2/own-inter-video-xdownloader.png",
+    "own_inter_link": "https://play.google.com/store/apps/details?id=com.jarjar2021.videoplayer&hl=en-US&gl=us",
+    "notification_picture": "https://i.ibb.co/fCgnyQq/AD-NOITIFICATION.png",
+    "notification_link": "https://i.ibb.co/fCgnyQq/AD-NOITIFICATION.png",
+    "own_native_picture": "https://i.ibb.co/Gp4y9cH/native-video-xdownloader.png",
+    "own_native_link": "https://play.google.com/store/apps/details?id=com.jarjar2021.videoplayer&hl=en-US&gl=us",
+    "mopup_banner": "26bc06f9b7f040789d7025163842e6b9",
+    "mopup_inter": "e1304aeeef7d4ec68158eab69dbc6a0c",
+    "apploving_reward_id": "73696274a7f761c5",
+    "admob_appid": "ca-app-pub-7796159137377981~8373286567",
+    "admob_bn": "ca-app-pub-2492009859815379/1914474715",
+    "admob_n": "ca-app-pub-2492009859815379/6523464254",
+    "admob_pub": "pub-2492009859815379",
+    "admob_r": "ca-app-pub-2492009859815379/9939965081",
+    "admobe_it": "ca-app-pub-2492009859815379/5696633596",
+    "banner_ads": [
+      "tapdaq",
+      "tapdaq",
+      "tapdaq",
+      "tapdaq"
+    ],
+    "ads": [
+      "tapdaq",
+      "tapdaq",
+      "tapdaq"
+    ],
+    "native_ads": [
+      "fb",
+      "fb",
+      "fb"
+    ],
+    "tapdaq_n": "default",
+    "tapdaq_banner": "default",
+    "tapdaq_inter": "default",
+    "tapdaq_clientkey": "bb34ec1f-4f25-431e-8889-8c130938aede",
+    "tapdaq_appid": "6100428e08fe6c2d735d68e2",
+    "tapdaq_reward": "default",
+    "tapdaq_autoreload": "1",
+    "deviceid": "07caeb93823c8ca6 , 00854c6274d59abb",
+    "owninter_array": [
+      {
+        "own_inter_picture": "https://i.ibb.co/Gnjysp2/own-inter-video-xdownloader.png",
+        "own_inter_link": "https://play.google.com/store/apps/details?id=com.jarjar2021.videoplayer&hl=en-US&gl=us"
+      },
+      {
+        "own_inter_picture": "https://i.ibb.co/Gnjysp2/own-inter-video-xdownloader.png",
+        "own_inter_link": "https://play.google.com/store/apps/details?id=com.jarjar2021.videoplayer&hl=en-US&gl=us"
+      },
+      {
+        "own_inter_picture": "https://i.ibb.co/Gnjysp2/own-inter-video-xdownloader.png",
+        "own_inter_link": "https://play.google.com/store/apps/details?id=com.jarjar2021.videoplayer&hl=en-US&gl=us"
+      }
+    ],
+    "ownbanner_array": [
+      {
+        "own_banner_picture": "https://i.ibb.co/j5C86wx/banner.png",
+        "own_banner_link": "https://play.google.com/store/apps/details?id=com.jarjar2021.videoplayer&hl=en-US&gl=us"
+      },
+      {
+        "own_banner_picture": "https://i.ibb.co/j5C86wx/banner.png",
+        "own_banner_link": "https://play.google.com/store/apps/details?id=com.jarjar2021.videoplayer&hl=en-US&gl=us"
+      },
+      {
+        "own_banner_picture": "https://i.ibb.co/j5C86wx/banner.png",
+        "own_banner_link": "https://play.google.com/store/apps/details?id=com.jarjar2021.videoplayer&hl=en-US&gl=us"
+      }
+    ],
+    "ownnative_array": [
+      {
+        "own_native_picture": "https://i.ibb.co/Gp4y9cH/native-video-xdownloader.png",
+        "own_native_link": "https://play.google.com/store/apps/details?id=com.jarjar2021.videoplayer&hl=en-US&gl=us"
+      },
+      {
+        "own_native_picture": "https://i.ibb.co/Gp4y9cH/native-video-xdownloader.png",
+        "own_native_link": "https://play.google.com/store/apps/details?id=com.jarjar2021.videoplayer&hl=en-US&gl=us"
+      },
+      {
+        "own_native_picture": "https://i.ibb.co/Gp4y9cH/native-video-xdownloader.png",
+        "own_native_link": "https://play.google.com/store/apps/details?id=com.jarjar2021.videoplayer&hl=en-US&gl=us"
+      }
+    ],
+    "activationlist": [
+      "bein.m3u8",
+      "3bdodyalna",
+      "2022YACINE2022"
+    ],
+    "bannedtv": [
+      "bein",
+      "ssc"
+    ],
+    "ads_array_reward": [
+      "admob",
+      "admob",
+      "admob",
+      "admob"
+    ],
+    "banned": 1,
+    "link": "https://play.google.com/store/apps/details?id=com.uktvjarjar.tv",
+    "cpalink" : "https://dgu9g3a2kzqx2.cloudfront.net/public/i_fr?it=1909017&key=2d8b1" ,
+    "locker_delay_in_second" : "86400" ,
 
-      "own_banner_picture" : "https://i.ibb.co/j5C86wx/banner.png",
-      "own_banner_link" : "https://play.google.com/store/apps/details?id=com.jarjar2021.videoplayer&hl=en-US&gl=us",
+
+
+    "lockedbg" : "https://i.ibb.co/2WfNxRd/navigator.png",
+  "step1" : "https://i.ibb.co/v18nLD0/5-stars.png",
+  "step2" : "0",
+  "step3" : "0",
+  "lockedlogo" : "https://i.ibb.co/K9fTkZk/lockicon-unscreen.gif",
+  "lockedtxt" : "share the app and review it with 5 for support",
+  "nothanks" : "https://i.ibb.co/BVRYzb0/NO-THANKS.png",
+  "step1type" : "cpa",
+  "step2type" : "0",
+  "step3type" : "0",
+
+    "activatelocker": "0",
+
       
-      
-      "own_inter_picture" : "https://i.ibb.co/Gnjysp2/own-inter-video-xdownloader.png",
-      "own_inter_link" : "https://play.google.com/store/apps/details?id=com.jarjar2021.videoplayer&hl=en-US&gl=us",
-      
-      "own_native_picture" : "https://i.ibb.co/Gp4y9cH/native-video-xdownloader.png",
-      "own_native_link" : "https://play.google.com/store/apps/details?id=com.jarjar2021.videoplayer&hl=en-US&gl=us",
-
-      
-      "notification_picture" : "https://i.ibb.co/fCgnyQq/AD-NOITIFICATION.png",
-      "notification_link" : "https://i.ibb.co/fCgnyQq/AD-NOITIFICATION.png",
-
-    
-
-      "mopup_banner" : "732c9a3381f44548bdec4fbed08202da",
-      "mopup_inter" : "39b84417ee37449d9082121ffb6ff0e0",
-       
-      "apploving_reward_id" : "73696274a7f761c5",
-
-
-      "admob_appid" : "ca-app-pub-7796159137377981~8373286567",
-      "admob_bn" : "ca-app-pub-4567031943149361/4852497811",
-      "admob_n" : "ca-app-pub-4567031943149361/7873412821",
-      "admob_pub" : "pub-4567031943149361",
-      "admob_r" : "ca-app-pub-4567031943149361/1906415057",
-      "admobe_it" : "ca-app-pub-4567031943149361/5039844854",
-  
-      "tapdaq_n" : "default",
-      "tapdaq_banner" : "default",
-      "tapdaq_inter" : "default",
-      "tapdaq_clientkey" : "bb34ec1f-4f25-431e-8889-8c130938aede",
-      "tapdaq_appid" : "611b1eee08fe6c2d735d6a31",
-      "tapdaq_reward" : "default",
-      "tapdaq_autoreload" : "1",
-      "deviceid" : "07caeb93823c8ca6 , 00854c6274d59abb",
-
-      "bannedtv" : [  "fifa", "euro", "live" ],
-      
-
-
-      "banner_ads" : ["admob", "admob", "admob", "admob" ],
-      "ads" : [  "admob", "tapdaq", "tapdaq" ],
-      "native_ads" : [ "admob", "admob","admob" ],
-
-
-
-
-
-
-     
-        "banned" : 0,
-        "link" : "https://play.google.com/store/apps/details?id=video.downloader.videodownloader" ,
-
-        "cpalink" : "https://vrfication.xyz/46d27c6" ,
-        "locker_delay_in_second" : "86400" ,
-
-
-
-
-      "step1" : "https://i.ibb.co/v18nLD0/5-stars.png",
-      "step2" : "https://i.ibb.co/JnrFbyt/watch-video.png",
-      "lockedlogo" : "https://i.ibb.co/5vCqgR7/video-is-locked.png",
-      "lockedtxt" : "hello from locked txt",
-      "nothanks" : "https://i.ibb.co/BVRYzb0/NO-THANKS.png",
-      "lockertype" : "admob",
-      "activatelocker" : "0",
-      "sharetxt" : "share the app and review it with 5 for support",
-      "ratetype" : "1",
-  
-  
-
-      "delay_native_banner" : 15000,
-      "developer" : "tikchbilaachmikira",
-      "email" : "marioschreiner2021@gmail.com",
-
-
-      "fb_banner" : "187327466585584_187327866585544",
-      "fb_inter_id" : "187327466585584_187327989918865",
-      "fb_native" : "187327466585584_187328166585514",
-      "fb_reward" : "714799922733036_718078162405212",
-     
-      "flipper_image" : [ "https://mydesktopwalls.com/wp-content/uploads/2020/07/PUBG-Background-1024x576.jpg", "https://i.redd.it/xx7jl1ao0fsz.png", "https://www.google.com/search?q=pubg+background&safe=active&client=opera&hs=22c&sxsrf=ALeKk03J5h-iisxASUwgQ8BEcC35f8_BbQ:1601541992811&source=lnms&tbm=isch&sa=X&ved=2ahUKEwi24svsgJPsAhUvDmMBHW7aA-wQ_AUoAXoECA0QAw&biw=1640&bih=909#imgrc=u-_n1spUMKSnyM" ],
-      "instagram" : "https://www.instagram.com/android_pubg/",
-      "myownads" : [ "https://images.wallpapersden.com/image/download/pubg-mobile-season-14_72149_3840x2160.jpg", "https://wallpaperaccess.com/full/188406.jpg", "https://images.wallpapersden.com/image/download/pubg-mobile-season-14_72149_3840x2160.jpg" ],
-    
-      "package" : "com.spin_skin2021.wiyha2021",
-      "privacy" : "https://privqcyformyapps2021.blogspot.com/2021/01/privacy.html",
-      "store" : 0,
-      "test" : "false",
-      "unity_app_id" : "4199841",
-      "you" : 0,
-      "backend": "http://radio.movietvapp.com/",
-      "youtube" : "https://www.youtube.com/channel/UCnD5SfKyMhJ6Rekhcd6wX9g/featured?view_as=subscriber"
-    }
+      "getactivationlink": "https://bit.ly/2YtBVKi",
+    "getactivation": "https://i.ibb.co/4gTGZwc/template.png",
+    "lockertype": "admob",
+    "sharetxt": "قيم التطبيق ب 5 نجوم و شاركه مع اصداقك لتشتغل جميع القنوات",
+    "ratetype": "1",
+    "showbanner2": "0",
+    "precontent_index": "4",
+    "delay_native_banner": 15000,
+    "developer": "tikchbilaachmikira",
+    "email": "marioschreiner2021@gmail.com",
+    "fb_banner": "240551740927611_241790044137114",
+    "fb_inter_id": "240551740927611_241790440803741",
+    "fb_native": "240551740927611_241790787470373",
+    "fb_reward": "714799922733036_718078162405212",
+    "flipper_image": [
+      "https://mydesktopwalls.com/wp-content/uploads/2020/07/PUBG-Background-1024x576.jpg",
+      "https://i.redd.it/xx7jl1ao0fsz.png",
+      "https://www.google.com/search?q=pubg+background&safe=active&client=opera&hs=22c&sxsrf=ALeKk03J5h-iisxASUwgQ8BEcC35f8_BbQ:1601541992811&source=lnms&tbm=isch&sa=X&ved=2ahUKEwi24svsgJPsAhUvDmMBHW7aA-wQ_AUoAXoECA0QAw&biw=1640&bih=909#imgrc=u-_n1spUMKSnyM"
+    ],
+    "instagram": "https://www.instagram.com/android_pubg/",
+    "myownads": [
+      "https://images.wallpapersden.com/image/download/pubg-mobile-season-14_72149_3840x2160.jpg",
+      "https://wallpaperaccess.com/full/188406.jpg",
+      "https://images.wallpapersden.com/image/download/pubg-mobile-season-14_72149_3840x2160.jpg"
+    ],
+    "package": "com.spin_skin2021.wiyha2021",
+    "privacy": "https://privqcyformyapps2021.blogspot.com/2021/01/privacy.html",
+    "store": 0,
+    "test": "false",
+    "unity_app_id": "4199975",
+    "unity_bn_id": "Banner_Android",
+    "unity_it_id": "Interstitial_Android",
+    "unity_r_id": "Rewarded_Android",
+    "you": 0,
+    "backend": "http://radio.movietvapp.com/",
+    "youtube": "https://www.youtube.com/channel/UCnD5SfKyMhJ6Rekhcd6wX9g/featured?view_as=subscriber",
+    "list_of_content": [
+      {
+        "title": "bein premium 1 ",
+        "picture": "https://sport.koragol.com/wp-content/uploads/2021/03/Bein-Sport-Premium-1-مشاهدة-قناة-بين-سبورت-بريميوم-1-Premium-1-HH.jpg",
+        "minpicture": "https://sport.koragol.com/wp-content/uploads/2021/03/Bein-Sport-Premium-1-مشاهدة-قناة-بين-سبورت-بريميوم-1-Premium-1-HH.jpg",
+        "desc": "يجب عليك تفعيل التطبيق و تقييمه ب 5 نجوم في متجر غووغل بلاي",
+        "type": "picture"
+      },
+      {
+        "title": "bein premium 2 ",
+        "picture": "https://sport.koragol.com/wp-content/uploads/2021/03/Bein-Sport-Premium-2-مشاهدة-قناة-بين-سبورت-بريميوم-2-Premium-2.jpg",
+        "minpicture": "https://sport.koragol.com/wp-content/uploads/2021/03/Bein-Sport-Premium-2-مشاهدة-قناة-بين-سبورت-بريميوم-2-Premium-2.jpg",
+        "desc": "يجب عليك تفعيل التطبيق و تقييمه ب 5 نجوم في متجر غووغل بلاي",
+        "type": "picture"
+      },
+      {
+        "title": "bein premium 3 ",
+        "picture": "https://sport.koragol.com/wp-content/uploads/2021/03/Bein-Sport-3-Premium-HD-مشاهدة-قناة-بين-سبورت-بريميوم-3-Premium-3.jpg",
+        "minpicture": "https://sport.koragol.com/wp-content/uploads/2021/03/Bein-Sport-3-Premium-HD-مشاهدة-قناة-بين-سبورت-بريميوم-3-Premium-3.jpg",
+        "desc": "يجب عليك تفعيل التطبيق و تقييمه ب 5 نجوم في متجر غووغل بلاي",
+        "type": "picture"
+      },
+      {
+        "title": "bein premium 1 ",
+        "picture": "https://sport.koragol.com/wp-content/uploads/2021/03/Bein-Sport-Premium-1-مشاهدة-قناة-بين-سبورت-بريميوم-1-Premium-1-HH.jpg",
+        "minpicture": "https://sport.koragol.com/wp-content/uploads/2021/03/Bein-Sport-Premium-1-مشاهدة-قناة-بين-سبورت-بريميوم-1-Premium-1-HH.jpg",
+        "desc": "يجب عليك تفعيل التطبيق و تقييمه ب 5 نجوم في متجر غووغل بلاي",
+        "type": "picture"
+      },
+      {
+        "title": "bein premium 2 ",
+        "picture": "https://sport.koragol.com/wp-content/uploads/2021/03/Bein-Sport-Premium-2-مشاهدة-قناة-بين-سبورت-بريميوم-2-Premium-2.jpg",
+        "minpicture": "https://sport.koragol.com/wp-content/uploads/2021/03/Bein-Sport-Premium-2-مشاهدة-قناة-بين-سبورت-بريميوم-2-Premium-2.jpg",
+        "desc": "يجب عليك تفعيل التطبيق و تقييمه ب 5 نجوم في متجر غووغل بلاي",
+        "type": "picture"
+      },
+      {
+        "title": "bein premium 3 ",
+        "picture": "https://sport.koragol.com/wp-content/uploads/2021/03/Bein-Sport-3-Premium-HD-مشاهدة-قناة-بين-سبورت-بريميوم-3-Premium-3.jpg",
+        "minpicture": "https://sport.koragol.com/wp-content/uploads/2021/03/Bein-Sport-3-Premium-HD-مشاهدة-قناة-بين-سبورت-بريميوم-3-Premium-3.jpg",
+        "desc": "يجب عليك تفعيل التطبيق و تقييمه ب 5 نجوم في متجر غووغل بلاي",
+        "type": "picture"
+      },
+      {
+        "title": "bein sport 1 ",
+        "picture": "https://upload.wikimedia.org/wikipedia/fr/d/d5/BeIN_SPORTS_1HD_Couleur.jpg",
+        "minpicture": "https://upload.wikimedia.org/wikipedia/fr/d/d5/BeIN_SPORTS_1HD_Couleur.jpg",
+        "desc": "يجب عليك تفعيل التطبيق و تقييمه ب 5 نجوم في متجر غووغل بلاي",
+        "type": "picture"
+      },
+      {
+        "title" : "bein sport 2 ",
+        "picture" : "https://upload.wikimedia.org/wikipedia/fr/d/d9/BeIN_SPORTS_2HD_Couleur.jpg",
+        "minpicture" : "https://upload.wikimedia.org/wikipedia/fr/d/d9/BeIN_SPORTS_2HD_Couleur.jpg",
+        "desc" :"يجب عليك تفعيل التطبيق و تقييمه ب 5 نجوم في متجر غووغل بلاي",
+        "type":"picture"
+            }
+           
+    ],
+    "precontent": [
+      {
+        "title": "red1",
+        "picture": "https://news.codashop.com/bd/wp-content/uploads/sites/10/2021/05/PUBG-Mobile-Season-19-Royale-Pass.jpg",
+        "minpicture": "https://news.codashop.com/bd/wp-content/uploads/sites/10/2021/05/PUBG-Mobile-Season-19-Royale-Pass.jpg",
+        "desc": "desc1 desc desc desc desc desc",
+        "type": "picture"
+      },
+      {
+        "title": "red2",
+        "picture": "https://news.codashop.com/bd/wp-content/uploads/sites/10/2021/05/PUBG-Mobile-Season-19-Royale-Pass.jpg",
+        "minpicture": "https://news.codashop.com/bd/wp-content/uploads/sites/10/2021/05/PUBG-Mobile-Season-19-Royale-Pass.jpg",
+        "desc": "desc2 desc desc desc desc desc",
+        "type": "picture"
+      },
+      {
+        "title": "red3",
+        "picture": "https://news.codashop.com/bd/wp-content/uploads/sites/10/2021/05/PUBG-Mobile-Season-19-Royale-Pass.jpg",
+        "minpicture": "https://news.codashop.com/bd/wp-content/uploads/sites/10/2021/05/PUBG-Mobile-Season-19-Royale-Pass.jpg",
+        "desc": "desc3 desc desc desc desc desc",
+        "type": "picture"
+      },
+      {
+        "title": "red4",
+        "picture": "https://news.codashop.com/bd/wp-content/uploads/sites/10/2021/05/PUBG-Mobile-Season-19-Royale-Pass.jpg",
+        "minpicture": "https://news.codashop.com/bd/wp-content/uploads/sites/10/2021/05/PUBG-Mobile-Season-19-Royale-Pass.jpg",
+        "desc": "desc4 desc desc desc desc desc",
+        "type": "picture"
+      },
+      {
+        "title": "Stay Focus",
+        "picture": "https://3.bp.blogspot.com/-JXxVmZxtPRM/XJ8p9RzPfoI/AAAAAAAAcAY/iwxtqV7NIFMM8bOF3m6Tt5QVXyC8asNrQCLcBGAs/s1600/yacine-tv-2019.webp",
+        "minpicture": "https://3.bp.blogspot.com/-JXxVmZxtPRM/XJ8p9RzPfoI/AAAAAAAAcAY/iwxtqV7NIFMM8bOF3m6Tt5QVXyC8asNrQCLcBGAs/s1600/yacine-tv-2019.webp",
+        "desc": "You gonna Learn a lot about yacinetv in this app ",
+        "type": "picture"
+      }
+    ]
   }
-  
-  
+}
