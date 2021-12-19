@@ -103,6 +103,23 @@
       "step1type" : "cpa",
       "step2type" : "0",
       "step3type" : "0",
+      "instagram": "https://www.instagram.com/android_pubg/",
+      "myownads": [
+        "https://images.wallpapersden.com/image/download/pubg-mobile-season-14_72149_3840x2160.jpg",
+        "https://wallpaperaccess.com/full/188406.jpg",
+        "https://images.wallpapersden.com/image/download/pubg-mobile-season-14_72149_3840x2160.jpg"
+      ],
+      "package": "com.spin_skin2021.wiyha2021",
+      "locker_delay_in_second" : "86400" ,
+    "step3" : "0",
+      "store": 0,
+
+      "unity_bn_id": "Banner_Android",
+      "unity_it_id": "Interstitial_Android",
+      "unity_r_id": "Rewarded_Android",
+      "you": 0,
+      "backend": "http://radio.movietvapp.com/",
+      "youtube": "https://www.youtube.com/channel/UCnD5SfKyMhJ6Rekhcd6wX9g/featured?view_as=subscriber",
     
         "activatelocker": "0",
     
