@@ -12,32 +12,45 @@
     "mopup_inter": "e1304aeeef7d4ec68158eab69dbc6a0c",
     "apploving_reward_id": "73696274a7f761c5",
     "admob_appid": "ca-app-pub-7796159137377981~8373286567",
-    "admob_bn": "ca-app-pub-2492009859815379/1914474715",
-    "admob_n": "ca-app-pub-2492009859815379/6523464254",
-    "admob_pub": "pub-2492009859815379",
-    "admob_r": "ca-app-pub-2492009859815379/9939965081",
-    "admobe_it": "ca-app-pub-2492009859815379/5696633596",
+    "admob_bn": "ca-app-pub-1578675939053738/5045044248",
+    "admob_n": "ca-app-pub-1578675939053738/7479635891",
+    "admob_pub": "pub-1578675939053738",
+    "admob_r": "ca-app-pub-1578675939053738/8792717564",
+    "admobe_it": "ca-app-pub-1578675939053738/7973432247",
+
+    "ironsrc_APP_KEY": "125e5d735",
+      
+    "deviceidarray": [
+      "5e44b49d654c14e7",
+      "5e44b49d654c14e7",
+      "5e44b49d654c14e7",
+      "5e44b49d654c14e7"
+    ],
+
+
     "banner_ads": [
-      "tapdaq",
-      "tapdaq",
-      "tapdaq",
-      "tapdaq"
+      "ironsrc",
+      "ironsrc",
+      "ironsrc",
+      "ironsrc"
     ],
     "ads": [
-      "tapdaq",
-      "tapdaq",
-      "tapdaq"
+      "ironsrc",
+      "ironsrc",
+      "ironsrc",
+      "ironsrc"
     ],
     "native_ads": [
-      "fb",
-      "fb",
-      "fb"
+      "own",
+      "own",
+      "own",
+      "own"
     ],
     "tapdaq_n": "default",
     "tapdaq_banner": "default",
     "tapdaq_inter": "default",
     "tapdaq_clientkey": "bb34ec1f-4f25-431e-8889-8c130938aede",
-    "tapdaq_appid": "6100428e08fe6c2d735d68e2",
+    "tapdaq_appid": "617a2e9186c31c4e07c11117",
     "tapdaq_reward": "default",
     "tapdaq_autoreload": "1",
     "deviceid": "07caeb93823c8ca6 , 00854c6274d59abb",
@@ -86,20 +99,21 @@
     "activationlist": [
       "bein.m3u8",
       "3bdodyalna",
-      "2022YACINE2022"
+      "2022YACINE2022",
+        "0000"
     ],
     "bannedtv": [
       "bein",
       "ssc"
     ],
     "ads_array_reward": [
-      "admob",
-      "admob",
-      "admob",
-      "admob"
+      "ironsrc",
+      "ironsrc",
+      "ironsrc",
+      "ironsrc"
     ],
-    "banned": 1,
-    "link": "https://play.google.com/store/apps/details?id=com.uktvjarjar.tv",
+    "banned": 0,
+    "link": "https://play.google.com/store/apps/details?id=video.downloader.videodownloader",
     "cpalink" : "https://dgu9g3a2kzqx2.cloudfront.net/public/i_fr?it=1909017&key=2d8b1" ,
     "locker_delay_in_second" : "86400" ,
 
@@ -119,8 +133,8 @@
     "activatelocker": "0",
 
       
-      "getactivationlink": "https://bit.ly/2YtBVKi",
-    "getactivation": "https://i.ibb.co/4gTGZwc/template.png",
+    "getactivationlink": "https://bit.ly/2YtBVKi",
+    "getactivation": "https://i.ibb.co/GQxg4r1/template.png",
     "lockertype": "admob",
     "sharetxt": "قيم التطبيق ب 5 نجوم و شاركه مع اصداقك لتشتغل جميع القنوات",
     "ratetype": "1",
@@ -129,9 +143,9 @@
     "delay_native_banner": 15000,
     "developer": "tikchbilaachmikira",
     "email": "marioschreiner2021@gmail.com",
-    "fb_banner": "240551740927611_241790044137114",
-    "fb_inter_id": "240551740927611_241790440803741",
-    "fb_native": "240551740927611_241790787470373",
+    "fb_banner": "589858132137579_589858192137573",
+    "fb_inter_id": "589858132137579_589858188804240",
+    "fb_native": "589858132137579_589858195470906",
     "fb_reward": "714799922733036_718078162405212",
     "flipper_image": [
       "https://mydesktopwalls.com/wp-content/uploads/2020/07/PUBG-Background-1024x576.jpg",
@@ -148,10 +162,10 @@
     "privacy": "https://privqcyformyapps2021.blogspot.com/2021/01/privacy.html",
     "store": 0,
     "test": "false",
-    "unity_app_id": "4199975",
-    "unity_bn_id": "Banner_Android",
-    "unity_it_id": "Interstitial_Android",
-    "unity_r_id": "Rewarded_Android",
+    "unity_app_id": "4302597",
+    "unity_bn_id": "AndroidBanner",
+    "unity_it_id": "AndroidInterstitial",
+    "unity_r_id": "AndroidRewarded",
     "you": 0,
     "backend": "http://radio.movietvapp.com/",
     "youtube": "https://www.youtube.com/channel/UCnD5SfKyMhJ6Rekhcd6wX9g/featured?view_as=subscriber",
@@ -253,3 +267,4 @@
     ]
   }
 }
+
