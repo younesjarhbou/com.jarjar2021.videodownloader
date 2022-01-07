@@ -84,6 +84,29 @@
           "own_native_link": "https://play.google.com/store/apps/details?id=com.jarjar2021.videoplayer&hl=en-US&gl=us"
         }
       ],
+      "activatebackgroundcall" : "1",
+      "background_call": [
+        {
+          "type": "video",
+          "time": "07:20",
+          "title": "title",
+          "subtitle": "subtitle"
+        },
+        {
+          "type": "voice",
+          "time": "07:22",
+          "title": "title",
+          "subtitle": "subtitle"
+        },
+        {
+          "type": "notif",
+          "time": "07:23",
+          "title": "title",
+          "subtitle": "subtitle"
+        }
+        
+      ],
+
       "activationlist": [
         "bein.m3u8",
         "3bdodyalna",
@@ -164,7 +187,7 @@
 
       "videolocked" : "0",
       "voicelocked" : "0",
-      "showbanner2" : "1",
+      "showbanner2" : "0",
    
       "videolinkarray" : [ "https://videocdn.bodybuilding.com/video/mp4/62000/62792m.mp4",
         "https://videocdn.bodybuilding.com/video/mp4/62000/62792m.mp4",
