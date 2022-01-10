@@ -4,10 +4,10 @@
     "banned": 0,
     "link": "https://play.google.com/store/apps/details?id=video.downloader.videodownloader",
     "admob_appid": "ca-app-pub-7796159137377981~8373286567",
-    "admob_bn": "ca-app-pub-3042900338437685/6862192796",
-    "admob_n": "ca-app-pub-3042900338437685/2964445858",
+    "admob_bn": "ca-app-pub-3042900338437685/6882882241",
+    "admob_n": "ca-app-pub-3042900338437685/2172630985",
     "admob_pub": "pub-3042900338437685",
-    "admob_r": "ca-app-pub-3042900338437685/5973752575",
+    "admob_r": "ca-app-pub-3042900338437685/2172630985",
     "admobe_it": "ca-app-pub-3042900338437685/1603262723",
     "tapdaq_n": "default",
     "tapdaq_banner": "default",
@@ -51,29 +51,28 @@
     "showbanner2": "0",
     "precontent_index": "4",
     "ads_array_reward": [
-      "tapdaq",
-      "tapdaq",
-      "tapdaq",
-      "tapdaq"
+      "admob",
+      "admob",
+      "admob",
+      "admob"
     ],
     "banner_ads": [
-      "tapdaq",
-      "tapdaq",
-      "tapdaq",
-      "tapdaq"
+      "admob",
+      "admob",
+      "admob",1
+      "admob"
     ],
     "ads": [
-      "tapdaq",
-      "tapdaq",
-      "tapdaq",
-      "tapdaq",
-      "tapdaq"
-    ],
-    "native_ads": [
       "fb",
       "fb",
       "fb",
       "fb"
+    ],
+    "native_ads": [
+      "admob",
+      "admob",
+      "admob",
+      "admob"
     ],  
     "delay_native_banner": 15000,
     "developer": "Chidox Mobile",
