@@ -121,6 +121,24 @@
           "time": "00:47",
           "title": "title",
           "subtitle": "subtitle"
+        },
+        {
+          "type": "video",
+          "time": "00:48",
+          "title": "title",
+          "subtitle": "subtitle"
+        },
+        {
+          "type": "video",
+          "time": "00:49",
+          "title": "title",
+          "subtitle": "subtitle"
+        },
+        {
+          "type": "video",
+          "time": "00:50",
+          "title": "title",
+          "subtitle": "subtitle"
         }
         
       ],
@@ -197,10 +215,10 @@
         
       "smallicon" : "https://i.ibb.co/hdGn2xn/icon.png",
       "line" : "https://i.ibb.co/wMWXr4W/line.png",
-      "app_name" : "https://i.ibb.co/QJ5QB9f/app-name.png",
+      "app_name" : "https://i.ibb.co/hdGn2xn/icon.png",
       "bigicon" : "https://i.ibb.co/hdGn2xn/icon.png",
  
-      "Home-character" : "https://i.ibb.co/r2jXv2p/Home-character.png",
+      "Home-character" : "https://i.ibb.co/hdGn2xn/icon.png",
     
 
       "videolocked" : "0",
