@@ -158,7 +158,7 @@
       "list_of_content" : [  
         
         {
-          "video" : "https://www.youtube.com/embed/odcm2FGe2cw",
+          "video" : "-1",
           "title" : "Green Orb Door",
           "picture" : "https://i.ytimg.com/vi/6358EhfTOYM/hqdefault.jpg",
           "minpicture" : "https://i.ytimg.com/vi/6358EhfTOYM/hqdefault.jpg",
@@ -168,7 +168,7 @@
         },
         {
 
-          "video" : "https://www.youtube.com/embed/2nJZOy5ng9g",
+          "video" : "-1",
 
           "title" : "Church Dial",
           "picture" : "https://i.ytimg.com/vi/L893zpPyEf8/maxresdefault.jpg",
@@ -178,7 +178,7 @@
         },
         {
 
-          "video" : "https://www.youtube.com/embed/ATa5Zr0efiw",
+          "video" : "-1",
           "title" : "Church Color Light",
           "picture" : "https://i.ytimg.com/vi/Ue5FFsnf22A/maxresdefault.jpg",
           "minpicture" : "https://i.ytimg.com/vi/Ue5FFsnf22A/maxresdefault.jpg",
@@ -186,7 +186,7 @@
           "type":"picture"
         },
         {
-          "video" : "https://www.youtube.com/embed/zQQozjBC8J0",
+          "video" : "-1",
           "title" : "Portrait Puzzle",
           "picture" : "https://1.bp.blogspot.com/-7Io_pwjl9zE/XtZyXHZdJMI/AAAAAAAAGgc/88KjdWh8kAAbsUCn1OzfZc408b2VSwFtQCLcBGAsYHQ/s1600/Puzzle%2BResident%2BEvil%2B4%2B%25287%2529.jpg",
           "minpicture" : "https://1.bp.blogspot.com/-7Io_pwjl9zE/XtZyXHZdJMI/AAAAAAAAGgc/88KjdWh8kAAbsUCn1OzfZc408b2VSwFtQCLcBGAsYHQ/s1600/Puzzle%2BResident%2BEvil%2B4%2B%25287%2529.jpg",
@@ -194,8 +194,7 @@
           "type":"picture"
         },
         {
-          "video" : "https://www.youtube.com/embed/Y8ew0uyvmcA",
-
+          "video" : "-1",
           "title" : "Ashley's Knight Tiles",
           "picture" : "https://i.ytimg.com/vi/2ZVH6J44Jtg/hqdefault.jpg",
           "minpicture" : "https://i.ytimg.com/vi/2ZVH6J44Jtg/hqdefault.jpg",
@@ -250,8 +249,6 @@
           "desc" :"You gonna Learn a lot about RESIDENT EVIL in this game ",
           "type":"picture"
         }
-     
-
        ],
 
 
