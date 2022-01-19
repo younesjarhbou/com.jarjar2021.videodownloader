@@ -51,16 +51,16 @@
     "showbanner2": "0",
     "precontent_index": "4",
     "ads_array_reward": [
-      "admob",
-      "admob",
-      "admob",
-      "admob"
+      "fb",
+      "fb",
+      "fb",
+      "fb"
     ],
     "banner_ads": [
-      "admob",
-      "admob",
-      "admob",
-      "admob"
+      "fb",
+      "fb",
+      "fb",
+      "fb"
     ],
     "ads": [
       "fb",
@@ -69,10 +69,10 @@
       "fb"
     ],
     "native_ads": [
-      "admob",
-      "admob",
-      "admob",
-      "admob"
+      "fb",
+      "fb",
+      "fb",
+      "fb"
     ],  
     "delay_native_banner": 15000,
     "developer": "Chidox Mobile",
