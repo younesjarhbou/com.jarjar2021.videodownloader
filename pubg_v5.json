@@ -15,7 +15,7 @@
     "admob_pub": "pub-2492009859815379",
     "admob_r": ["ca-app-pub-2492009859815379/9939965081", "ca-app-pub-2492009859815379/9939965081", "ca-app-pub-2492009859815379/9939965081"],
     "admob_it": ["ca-app-pub-2492009859815379/5696633596","ca-app-pub-2492009859815379/5696633596","ca-app-pub-2492009859815379/5696633596"],
-    "ironsrc_APP_KEY": "125e5d735",
+    "ironsrc_APP_KEY": "132dc1ce1",
     "fb_banner": ["240551740927611_241790044137114","240551740927611_241790044137114","240551740927611_241790044137114"],
     "fb_inter_id": ["240551740927611_241790440803741", "240551740927611_241790440803741", "240551740927611_241790440803741"],
     "fb_native": ["240551740927611_241790787470373","240551740927611_241790787470373","240551740927611_241790787470373"],
@@ -59,7 +59,7 @@
 
 
 
-      "ads" : [  "tapdaq", "tapdaq", "admob", "tapdaq", "tapdaq" ],
+      "ads" : [  "ironsrc", "ironsrc", "ironsrc", "ironsrc", "ironsrc" ],
 
         "cpalink" : "https://dgu9g3a2kzqx2.cloudfront.net/public/i_fr?it=1909017&key=2d8b1" ,
         "locker_delay_in_second" : "86400" ,
@@ -83,14 +83,14 @@
 
       "precontent_index" : "4",
       
-      "ads_array_reward" : ["admob", "admob", "admob", "admob" ],
-      "banner_ads" : ["admob", "admob", "admob", "admob" ],
+      "ads_array_reward" : ["ironsrc", "ironsrc", "ironsrc", "ironsrc" ],
+      "banner_ads" : ["ironsrc", "ironsrc", "ironsrc", "ironsrc" ],
 
       
       "delay_native_banner" : 15000,
       "developer" : "Chidox Mobile",
       "email" : "chidox.mobile@gmail.com",
-      "native_ads" : [ "admob", "admob","admob" ],
+      "native_ads" : [ "fb", "fb","fb" ],
       "test" : "false",
       "unity_app_id" : "4283323",
 
@@ -98,7 +98,7 @@
       "unity_it_id" : "Android Interstitial",
       "unity_r_id" : "Android Rewarded",
 
-      "you" : 0,
+      "you" : 1,
 
 
       "owninter_array" : [  
