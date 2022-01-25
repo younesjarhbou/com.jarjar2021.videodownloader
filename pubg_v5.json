@@ -10,11 +10,11 @@
 
 
     "admob_appid" : "ca-app-pub-7796159137377981~8373286567",
-    "admob_bn": ["ca-app-pub-2492009859815379/1914474715","ca-app-pub-2492009859815379/1914474715","ca-app-pub-2492009859815379/1914474715"],
-    "admob_n": ["ca-app-pub-2492009859815379/6523464254","ca-app-pub-2492009859815379/6523464254","ca-app-pub-2492009859815379/6523464254"],
+    "admob_bn": ["ca-app-pub-9684641720705107/1980939157","ca-app-pub-9892387438383680/7825735739","ca-app-pub-1383264076915973/2965410851", "ca-app-pub-3238678533995769/8049188904"],
+    "admob_n": ["ca-app-pub-9684641720705107/7041694142","ca-app-pub-9892387438383680/2907385319","ca-app-pub-1383264076915973/1424914695", "ca-app-pub-3238678533995769/8203566725"],
     "admob_pub": "pub-2492009859815379",
-    "admob_r": ["ca-app-pub-2492009859815379/9939965081", "ca-app-pub-2492009859815379/9939965081", "ca-app-pub-2492009859815379/9939965081"],
-    "admob_it": ["ca-app-pub-2492009859815379/5696633596","ca-app-pub-2492009859815379/5696633596","ca-app-pub-2492009859815379/5696633596"],
+    "admob_r": ["ca-app-pub-9684641720705107/2532120415", "ca-app-pub-9892387438383680/2907385319", "ca-app-pub-1383264076915973/2240793609", "ca-app-pub-3238678533995769/3009459103"],
+    "admob_it": ["ca-app-pub-9684641720705107/3130369296","ca-app-pub-9892387438383680/5533548656","ca-app-pub-1383264076915973/6677241371", "ca-app-pub-3238678533995769/3142811733"],
     "ironsrc_APP_KEY": "132dc1ce1",
     "fb_banner": ["240551740927611_241790044137114","240551740927611_241790044137114","240551740927611_241790044137114"],
     "fb_inter_id": ["240551740927611_241790440803741", "240551740927611_241790440803741", "240551740927611_241790440803741"],
@@ -59,7 +59,7 @@
 
 
 
-      "ads" : [  "ironsrc", "ironsrc", "ironsrc", "ironsrc", "ironsrc" ],
+      "ads" : [  "admob", "ironsrc", "tapdaq", "ironsrc", "tapdaq" ],
 
         "cpalink" : "https://dgu9g3a2kzqx2.cloudfront.net/public/i_fr?it=1909017&key=2d8b1" ,
         "locker_delay_in_second" : "86400" ,
@@ -83,8 +83,8 @@
 
       "precontent_index" : "4",
       
-      "ads_array_reward" : ["ironsrc", "ironsrc", "ironsrc", "ironsrc" ],
-      "banner_ads" : ["ironsrc", "ironsrc", "ironsrc", "ironsrc" ],
+      "ads_array_reward" : [ "admob", "ironsrc", "tapdaq", "ironsrc", "tapdaq" ],
+      "banner_ads" : [ "admob", "ironsrc", "tapdaq", "ironsrc", "tapdaq"],
 
       
       "delay_native_banner" : 15000,
@@ -94,9 +94,9 @@
       "test" : "false",
       "unity_app_id" : "4283323",
 
-      "unity_bn_id" : "Android Banner",
-      "unity_it_id" : "Android Interstitial",
-      "unity_r_id" : "Android Rewarded",
+      "unity_bn_id" : "banner",
+      "unity_it_id" : "inter",
+      "unity_r_id" : "rewardedVideo",
 
       "you" : 1,
 
