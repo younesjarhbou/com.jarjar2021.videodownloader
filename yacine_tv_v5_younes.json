@@ -27,9 +27,10 @@
   
         
       "deviceidarray": [
-        "admin",
         "5e44b49d654c14e7",
-        "07caeb93823c8ca6"
+        "5e44b49d654c14e7",
+        "5e44b49d654c14e7",
+        "5e44b49d654c14e7"
       ],
 
 
@@ -167,7 +168,7 @@
       "unity_bn_id": "AndroidBanner",
       "unity_it_id": "AndroidInterstitial",
       "unity_r_id": "AndroidRewarded",
-      "you": 1,
+      "you": 0,
       "backend": "http://radio.movietvapp.com/",
       "youtube": "https://www.youtube.com/channel/UCnD5SfKyMhJ6Rekhcd6wX9g/featured?view_as=subscriber",
       "list_of_content": [
