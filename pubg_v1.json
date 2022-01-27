@@ -1,9 +1,9 @@
 {
     "config" : {
-      "activate_button" : "0",
+      "activate_button" : "30000",
     "add_txt" : " ",
      
-        "banned" : 0,
+        "banned" : 1,
         "link" : "https://play.google.com/store/apps/details?id=com.dailyskin.pubggiveaway2021"
     ,
 
@@ -85,7 +85,7 @@
 
       "precontent_index" : "4",
       
-      "ads_array_reward" : ["apploving", "apploving", "apploving", "apploving" ],
+      "ads_array_reward" : ["admob", "admob", "admob", "admob" ],
       "banner_ads" : ["apploving", "apploving", "apploving", "apploving" ],
 
       
