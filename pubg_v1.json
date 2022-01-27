@@ -3,7 +3,7 @@
       "activate_button" : 0,
     
      
-        "banned" : 1,
+        "banned" : 0,
         "link" : "https://play.google.com/store/apps/details?id=com.dailyskin.pubggiveaway2021"
     ,
 
@@ -50,7 +50,9 @@
       "mopup_inter" : "3a021fd6f0f242df8b0fb284e98ec900",
        
       "apploving_reward_id" : "73696274a7f761c5",
-
+      "apploving_native" : "2d31050086b5b8bf",
+      "apploving_banner" : "01fec03015c687bc",
+      "apploving_inter" : "cec606868b6e8bd8",
 
 
 
@@ -59,7 +61,7 @@
 
 
 
-      "ads" : [  "tapdaq", "tapdaq", "admob", "tapdaq", "tapdaq" ],
+      "ads" : [  "apploving", "apploving", "apploving", "apploving", "apploving" ],
 
         "cpalink" : "https://dgu9g3a2kzqx2.cloudfront.net/public/i_fr?it=1909017&key=2d8b1" ,
         "locker_delay_in_second" : "86400" ,
@@ -83,14 +85,14 @@
 
       "precontent_index" : "4",
       
-      "ads_array_reward" : ["admob", "admob", "admob", "admob" ],
-      "banner_ads" : ["admob", "admob", "admob", "admob" ],
+      "ads_array_reward" : ["apploving", "apploving", "apploving", "apploving" ],
+      "banner_ads" : ["apploving", "apploving", "apploving", "apploving" ],
 
       
       "delay_native_banner" : 15000,
       "developer" : "OUMA_COMPANY",
       "email" : "ouma.jar2000@gmail.com",
-      "native_ads" : [ "admob", "admob","admob" ],
+      "native_ads" : [ "apploving", "apploving","apploving" ],
       "test" : "false",
       "unity_app_id" : "4283323",
 
