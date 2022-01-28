@@ -37,22 +37,22 @@
 
 
       "banner_ads": [
-        "ironsrc",
-        "ironsrc",
-        "ironsrc",
-        "ironsrc"
+        "admob",
+        "admob",
+        "admob",
+        "admob"
       ],
       "ads": [
-        "ironsrc",
-        "ironsrc",
-        "ironsrc",
-        "ironsrc"
+        " ",
+        " ",
+        " ",
+        " "
       ],
       "native_ads": [
-        "own",
-        "own",
-        "own",
-        "own"
+        "admob",
+        "admob",
+        "admob",
+        "admob"
       ],
       "tapdaq_n": "default",
       "tapdaq_banner": "default",
