@@ -123,7 +123,7 @@
       "cpalink" : "https://dgu9g3a2kzqx2.cloudfront.net/public/i_fr?it=1909017&key=2d8b1" ,
       "locker_delay_in_second" : "86400" ,
   
-  
+      "activate_own_ads": "0",
   
       "lockedbg" : "https://i.ibb.co/2WfNxRd/navigator.png",
     "step1" : "https://i.ibb.co/v18nLD0/5-stars.png",
