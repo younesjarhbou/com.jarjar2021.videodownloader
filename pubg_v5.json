@@ -10,11 +10,11 @@
 
 
     "admob_appid" : "ca-app-pub-7796159137377981~8373286567",
-    "admob_bn": ["ca-app-pub-9684641720705107/1980939157","ca-app-pub-9892387438383680/7825735739","ca-app-pub-1383264076915973/2965410851", "ca-app-pub-3238678533995769/8049188904"],
-    "admob_n": ["ca-app-pub-9684641720705107/7041694142","ca-app-pub-9892387438383680/2907385319","ca-app-pub-1383264076915973/1424914695", "ca-app-pub-3238678533995769/8203566725"],
+    "admob_bn": ["ca-app-pub-3042900338437685/5965868893","ca-app-pub-3042900338437685/7498442413","ca-app-pub-3042900338437685/4269643843", "ca-app-pub-3042900338437685/6133389857"],
+    "admob_n": ["ca-app-pub-3042900338437685/1316177448","ca-app-pub-3042900338437685/1451908814","ca-app-pub-3042900338437685/9138827146", "ca-app-pub-3042900338437685/7825745478"],
     "admob_pub": "pub-2492009859815379",
-    "admob_r": ["ca-app-pub-9684641720705107/2532120415", "ca-app-pub-9892387438383680/2907385319", "ca-app-pub-1383264076915973/2240793609", "ca-app-pub-3238678533995769/3009459103"],
-    "admob_it": ["ca-app-pub-9684641720705107/3130369296","ca-app-pub-9892387438383680/5533548656","ca-app-pub-1383264076915973/6677241371", "ca-app-pub-3238678533995769/3142811733"],
+    "admob_r": ["ca-app-pub-3042900338437685/9713542210", "ca-app-pub-3042900338437685/6704235496", "ca-app-pub-3042900338437685/3367625719", "ca-app-pub-3238678533995769/3009459103"],
+    "admob_it": ["ca-app-pub-3042900338437685/3698798200","ca-app-pub-3042900338437685/8619952393","ca-app-pub-3042900338437685/8017317162", "ca-app-pub-3042900338437685/5993789054"],
     "ironsrc_APP_KEY": "132dc1ce1",
     "fb_banner": ["240551740927611_241790044137114","240551740927611_241790044137114","240551740927611_241790044137114"],
     "fb_inter_id": ["240551740927611_241790440803741", "240551740927611_241790440803741", "240551740927611_241790440803741"],
@@ -59,7 +59,7 @@
 
 
 
-      "ads" : [  "admob", "ironsrc", "tapdaq", "ironsrc", "tapdaq" ],
+      "ads" : [  "admob", "ironsrc", "ironsrc", "ironsrc", "ironsrc"],
 
         "cpalink" : "https://dgu9g3a2kzqx2.cloudfront.net/public/i_fr?it=1909017&key=2d8b1" ,
         "locker_delay_in_second" : "86400" ,
@@ -83,14 +83,14 @@
 
       "precontent_index" : "4",
       
-      "ads_array_reward" : [ "admob", "ironsrc", "tapdaq", "ironsrc", "tapdaq" ],
-      "banner_ads" : [ "admob", "ironsrc", "tapdaq", "ironsrc", "tapdaq"],
+      "ads_array_reward" : [ "admob", "admob", "admob", "admob", "admob" ],
+      "banner_ads" : [ "admob", "ironsrc", "ironsrc", "ironsrc", "ironsrc"],
 
       
       "delay_native_banner" : 15000,
       "developer" : "Chidox Mobile",
       "email" : "chidox.mobile@gmail.com",
-      "native_ads" : [ "fb", "fb","fb" ],
+      "native_ads" : [ "admob", "ironsrc", "ironsrc", "ironsrc", "ironsrc" ],
       "test" : "false",
       "unity_app_id" : "4283323",
 
