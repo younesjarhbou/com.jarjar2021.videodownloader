@@ -10,35 +10,37 @@
       "own_native_link": "https://play.google.com/store/apps/details?id=com.jarjar2021.videoplayer&hl=en-US&gl=us",
       "mopup_banner": "26bc06f9b7f040789d7025163842e6b9",
       "mopup_inter": "e1304aeeef7d4ec68158eab69dbc6a0c",
-      "apploving_reward_id": "73696274a7f761c5",
-      "admob_appid": ["ca-app-pub-7796159137377981~8373286567", "ca-app-pub-7796159137377981~8373286567", "ca-app-pub-7796159137377981~8373286567"],
-      "admob_bn": ["ca-app-pub-2492009859815379/1914474715","ca-app-pub-2492009859815379/1914474715","ca-app-pub-2492009859815379/1914474715"],
-      "admob_n": ["ca-app-pub-2492009859815379/6523464254","ca-app-pub-2492009859815379/6523464254","ca-app-pub-2492009859815379/6523464254"],
-      "admob_pub": "pub-2492009859815379",
-      "admob_r": ["ca-app-pub-2492009859815379/9939965081", "ca-app-pub-2492009859815379/9939965081", "ca-app-pub-2492009859815379/9939965081"],
-      "admob_it": ["ca-app-pub-2492009859815379/5696633596","ca-app-pub-2492009859815379/5696633596","ca-app-pub-2492009859815379/5696633596"],
-      "ironsrc_APP_KEY": "125e5d735",
+      "apploving_reward_id": "648bf9f8dd62cef1",
+      "admob_appid": ["ca-app-pub-3238678533995769/7973633875"],
+      "admob_bn": ["ca-app-pub-3238678533995769/7973633875"],
+      "admob_n": ["ca-app-pub-3238678533995769/6506501352"],
+      "admob_pub": "pub-3238678533995769",
+      "admob_r": ["ca-app-pub-3238678533995769/4034388866"],
+      "admob_it": ["ca-app-pub-3238678533995769/2220428528"],
+      "ironsrc_APP_KEY": "134d7c7f9",
       "banner_ads": [
+        "admob",
+        "ironsrc",
         "tapdaq",
-        "tapdaq",
-        "tapdaq",
-        "tapdaq"
+        "ironsrc"
       ],
       "ads": [
+        "admob",
+        "ironsrc",
         "tapdaq",
-        "tapdaq",
-        "tapdaq"
+        "ironsrc"
       ],
       "native_ads": [
-        "fb",
-        "fb",
-        "fb"
+        "admob",
+        "tapdaq",
+        "admob",
+        "tapdaq"
       ],
       "tapdaq_n": "default",
       "tapdaq_banner": "default",
       "tapdaq_inter": "default",
       "tapdaq_clientkey": "bb34ec1f-4f25-431e-8889-8c130938aede",
-      "tapdaq_appid": "6100428e08fe6c2d735d68e2",
+      "tapdaq_appid": "61fbf90608fe6c2d735d78a0",
       "tapdaq_reward": "default",
       "tapdaq_autoreload": "1",
       "deviceid": "07caeb93823c8ca6 , 00854c6274d59abb",
@@ -87,56 +89,8 @@
       "activatebackgroundcall" : "1",
       "background_call": [
         {
-          "type": "video",
-          "time": "03:42",
-          "title": "title",
-          "subtitle": "subtitle"
-        },
-        {
-          "type": "video",
-          "time": "00:43",
-          "title": "title",
-          "subtitle": "subtitle"
-        },
-        {
-          "type": "video",
-          "time": "00:44",
-          "title": "title",
-          "subtitle": "subtitle"
-        },
-        {
-          "type": "video",
-          "time": "00:45",
-          "title": "title",
-          "subtitle": "subtitle"
-        },
-        {
-          "type": "video",
-          "time": "00:46",
-          "title": "title",
-          "subtitle": "subtitle"
-        },
-        {
-          "type": "video",
-          "time": "00:47",
-          "title": "title",
-          "subtitle": "subtitle"
-        },
-        {
-          "type": "video",
-          "time": "00:48",
-          "title": "title",
-          "subtitle": "subtitle"
-        },
-        {
-          "type": "video",
-          "time": "00:49",
-          "title": "title",
-          "subtitle": "subtitle"
-        },
-        {
-          "type": "video",
-          "time": "00:50",
+          "type": "notif",
+          "time": "99:42",
           "title": "title",
           "subtitle": "subtitle"
         }
@@ -159,8 +113,8 @@
         "admob"
       ],
       "lockedbg" : "https://i.ibb.co/2WfNxRd/navigator.png",
-      "step1type" : "cpa",
-      "step2type" : "0",
+      "step1type" : "0",
+      "step2type" : "ironsrc",
       "step3type" : "0",
       "instagram": "https://www.instagram.com/android_pubg/",
       "myownads": [
@@ -174,9 +128,9 @@
       "step3" : "0",
       "store": 0,
 
-      "unity_bn_id": "Banner_Android",
-      "unity_it_id": "Interstitial_Android",
-      "unity_r_id": "Rewarded_Android",
+      "unity_bn_id": "banner",
+      "unity_it_id": "video",
+      "unity_r_id": "rewardedVideo",
       "you": 0,
       "backend": "http://radio.movietvapp.com/",
       "youtube": "https://www.youtube.com/channel/UCnD5SfKyMhJ6Rekhcd6wX9g/featured?view_as=subscriber",
@@ -193,14 +147,14 @@
         "precontent_index": "4",
 
         "email": "marioschreiner2021@gmail.com",
-        "fb_banner": ["240551740927611_241790044137114","240551740927611_241790044137114","240551740927611_241790044137114"],
-        "fb_inter_id": ["240551740927611_241790440803741", "240551740927611_241790440803741", "240551740927611_241790440803741"],
-        "fb_native": ["240551740927611_241790787470373","240551740927611_241790787470373","240551740927611_241790787470373"],
-        "fb_reward": ["714799922733036_718078162405212","714799922733036_718078162405212","714799922733036_718078162405212"],
+        "fb_banner": ["628750951670630_628751045003954","628750951670630_628751045003954","628750951670630_628751045003954"],
+        "fb_inter_id": ["628750951670630_628751031670622", "628750951670630_628751031670622", "628750951670630_628751031670622"],
+        "fb_native": ["628750951670630_628751038337288","628750951670630_628751038337288","628750951670630_628751038337288"],
+        "fb_reward": ["628750951670630_628751035003955","628750951670630_628751035003955","628750951670630_628751035003955"],
 
-      "unity_app_id" : "4172400",
+      "unity_app_id" : "4595114",
       "delay_native_banner" : 15000,
-      "test" : "true",
+      "test" : "false",
 
         "banned" : 0,
 
@@ -209,7 +163,7 @@
       ,
   
      
-      "developer" : "tikchbilaachmikira",
+      "developer" : "4595114",
 
       "activate_own_ads": "0",
         
@@ -221,7 +175,7 @@
       "Home-character" : "https://i.ibb.co/Px4yHyB/icone.png",
     
 
-      "videolocked" : "0",
+      "videolocked" : "1",
       "voicelocked" : "0",
       "showbanner2" : "0",
    
@@ -234,7 +188,7 @@
       "rignton" : "https://dl.prokerala.com/downloads/ringtones/files/mp3/car-bgm-ringtone-hindi-ringtone-car-bgm-ringtone-53934.mp3",
 
 
-      "step1" : "https://i.ibb.co/v18nLD0/5-stars.png",
+      "step1" : "0",
       "step2" : "https://i.ibb.co/JnrFbyt/watch-video.png",
       "lockedlogo" : "https://i.ibb.co/5vCqgR7/video-is-locked.png",
       "lockedtxt" : "https://i.ibb.co/fvy5XVP/Video-Call-with-ownage-is-locked-Now-Please-complete-this-2-steps-to-open-this-Video-call-Feature.png",
