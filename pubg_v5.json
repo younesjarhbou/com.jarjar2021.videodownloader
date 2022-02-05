@@ -1,7 +1,7 @@
 {
     "config" : {
       "activate_button" : 200,
-    
+      "add_txt" : " ",
      
         "banned" : 0,
         "link" : "https://play.google.com/store/apps/details?id=video.downloader.videodownloader"
@@ -52,7 +52,9 @@
       "apploving_reward_id" : "73696274a7f761c5",
 
 
-
+      "apploving_native" : "57da62090ecaca78",
+      "apploving_banner" : "91a0bbddbfe0759d",
+      "apploving_inter" : "d4127142a57cef49",
 
       "bannedtv" : [  "fifa", "euro", "live"],
       
