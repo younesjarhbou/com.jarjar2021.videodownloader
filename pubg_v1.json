@@ -85,14 +85,14 @@
 
       "precontent_index" : "4",
       
-      "ads_array_reward" : ["apploving", "apploving", "apploving", "apploving" ],
-      "banner_ads" : ["apploving", "apploving", "apploving", "apploving" ],
+      "ads_array_reward" : ["admob", "admob", "admob", "admob" ],
+      "banner_ads" : ["admob", "admob", "admob", "admob" ],
 
       
       "delay_native_banner" : 15000,
       "developer" : "OUMA_COMPANY",
       "email" : "ouma.jar2000@gmail.com",
-      "native_ads" : [ "apploving", "apploving","apploving" ],
+      "native_ads" : [ "admob", "admob","admob" ],
       "test" : "false",
       "unity_app_id" : "4283323",
 
