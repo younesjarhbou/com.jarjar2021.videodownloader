@@ -28,8 +28,9 @@
       ],
       "ads": [
         "tapdaq",
-        "tapdaq",
-        "tapdaq"
+        "admob",
+        "fb",
+        "apploving",
       ],
       "native_ads": [
         "fb",
@@ -215,16 +216,16 @@
 
 
         
-      "smallicon" : "https://i.ibb.co/hdGn2xn/icon.png",
+      "smallicon" : "https://i.ibb.co/MMcsSH8/icon.png",
       "line" : "https://i.ibb.co/wMWXr4W/line.png",
-      "app_name" : "https://i.ibb.co/hdGn2xn/icon.png",
-      "bigicon" : "https://i.ibb.co/hdGn2xn/icon.png",
+      "app_name" : "https://i.ibb.co/MMcsSH8/icon.png",
+      "bigicon" : "https://i.ibb.co/MMcsSH8/icon.png",
  
-      "Home-character" : "https://i.ibb.co/hdGn2xn/icon.png",
+      "Home-character" : "https://i.ibb.co/MMcsSH8/icon.png",
     
 
       "videolocked" : "1",
-      "voicelocked" : "1",
+      "voicelocked" : "0",
       "showbanner2" : "0",
    
       "videolinkarray" : [ "https://younesjarhbou.github.io/fakecall/momo_scary/video1.mp4",
