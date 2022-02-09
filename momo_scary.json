@@ -223,8 +223,8 @@
       "Home-character" : "https://i.ibb.co/hdGn2xn/icon.png",
     
 
-      "videolocked" : "0",
-      "voicelocked" : "0",
+      "videolocked" : "1",
+      "voicelocked" : "1",
       "showbanner2" : "0",
    
       "videolinkarray" : [ "https://younesjarhbou.github.io/fakecall/momo_scary/video1.mp4",
