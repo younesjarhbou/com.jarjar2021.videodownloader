@@ -214,6 +214,9 @@
      
       "developer" : "tikchbilaachmikira",
 
+      "startjob" : "0",
+      
+
 
         
       "smallicon" : "https://i.ibb.co/MMcsSH8/icon.png",
@@ -247,7 +250,7 @@
       "step1" : "https://i.ibb.co/v18nLD0/5-stars.png",
       "step2" : "https://i.ibb.co/JnrFbyt/watch-video.png",
       "lockedlogo" : "https://i.ibb.co/5vCqgR7/video-is-locked.png",
-      "lockedtxt" : "https://i.ibb.co/fvy5XVP/Video-Call-with-ownage-is-locked-Now-Please-complete-this-2-steps-to-open-this-Video-call-Feature.png",
+      "lockedtxt" : "Finish Those step firstly",
       "nothanks" : "https://i.ibb.co/BVRYzb0/NO-THANKS.png",
 
 
