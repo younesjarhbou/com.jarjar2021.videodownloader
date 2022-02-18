@@ -1,6 +1,6 @@
 {
     "config" : {
-      "activate_button" : 1,
+      "activate_button" : 300000,
       "add_txt" : " ",
      
         "banned" : 0,
