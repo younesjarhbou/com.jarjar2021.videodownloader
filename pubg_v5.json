@@ -1,6 +1,6 @@
 {
     "config" : {
-      "activate_button" : 200,
+      "activate_button" : 1,
       "add_txt" : " ",
      
         "banned" : 0,
@@ -458,7 +458,7 @@ This event was started on 29th May and will end on 19th June. Its an event based
     
       "myownads" : [ "https://images.wallpapersden.com/image/download/pubg-mobile-season-14_72149_3840x2160.jpg", "https://wallpaperaccess.com/full/188406.jpg", "https://images.wallpapersden.com/image/download/pubg-mobile-season-14_72149_3840x2160.jpg" ],
 
-      "ownads" : 1,
+      "ownads" : 0,
       "ownads_link" : "http://pubggiveaway.com/",
       "package" : "com.dailyskin.pubggiveaway2021",
       "privacy" : "https://privqcyformyapps2021.blogspot.com/2021/01/privacy.html",
