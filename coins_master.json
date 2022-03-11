@@ -1,7 +1,7 @@
 {
     "config" : {
-      "activate_button" : "1",
-    "add_txt" : " /200",
+      "activate_button" : "200",
+    "add_txt" : " ",
      
         "banned" : 0,
         "link" : "https://play.google.com/store/apps/details?id=com.dailyskin.pubggiveaway2021"
@@ -422,8 +422,8 @@ This event was started on 29th May and will end on 19th June. Its an event based
         },
         {
           "title" : "Stay Focus",
-          "picture" : "https://www.pubgmobile.com/en/event/godzilavskong/images/share.jpg",
-          "minpicture" : "https://www.pubgmobile.com/en/event/godzilavskong/images/share.jpg",
+          "picture" : "https://miro.medium.com/max/800/1*iMT2-Ht-lJS3O9nP_thNuw.jpeg",
+          "minpicture" : "https://miro.medium.com/max/800/1*iMT2-Ht-lJS3O9nP_thNuw.jpeg",
           "desc" :"You gonna Learn a lot about COIN MASTER in this game ",
           "type":"picture"
         }
