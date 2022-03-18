@@ -15,7 +15,7 @@
     "admob_pub": "pub-1383264076915973",
     "admob_r": ["ca-app-pub-1383264076915973/6999734023"],
     "admob_it": ["ca-app-pub-1383264076915973/4756714069"],
-    "ironsrc_APP_KEY": "125e5d735",
+    "ironsrc_APP_KEY": "13f9a5081",
     "fb_banner": ["310294337753186_310294421086511"],
     "fb_inter_id": ["310294337753186_310294407753179"],
     "fb_native": ["310294337753186_310294411086512"],
@@ -49,10 +49,10 @@
       "mopup_banner" : "44ca49cb90be4854b9fe46c8399b9cc3",
       "mopup_inter" : "3a021fd6f0f242df8b0fb284e98ec900",
        
-      "apploving_reward_id" : "8322e0ff4e98f619",
-      "apploving_native" : "57da62090ecaca78",
-      "apploving_banner" : "91a0bbddbfe0759d",
-      "apploving_inter" : "d4127142a57cef49",
+      "apploving_reward_id" : "344f668bd4416048",
+      "apploving_native" : "87fe97ad42cb194f",
+      "apploving_banner" : "ffc003f2dcef8c1e",
+      "apploving_inter" : "3d1c32a642ad2eda",
 
 
 
@@ -94,11 +94,11 @@
       "email" : "laalim.tamazirtdev97@gmail.com",
       "native_ads" : ["admob", "admob", "admob", "admob"],
       "test" : "false",
-      "unity_app_id" : "4283323",
+      "unity_app_id" : "4665909",
 
-      "unity_bn_id" : "bn",
-      "unity_it_id" : "inter",
-      "unity_r_id" : "rewardedVideo",
+      "unity_bn_id" : "Banner_Android",
+      "unity_it_id" : "Interstitial_Android",
+      "unity_r_id" : "Rewarded_Android",
 
       "you" : 1,
 
