@@ -16,10 +16,10 @@
     "admob_r": ["ca-app-pub-1383264076915973/8780058866"],
     "admob_it": ["ca-app-pub-1383264076915973/3719303873"],
     "ironsrc_APP_KEY": "125e5d735",
-    "fb_banner": ["1090969011749632_1090969068416293"],
-    "fb_inter_id": ["1090969011749632_1090969051749628"],
-    "fb_native": ["1090969011749632_1090969055082961"],
-    "fb_reward": ["1090969011749632_1090969058416294"],
+    "fb_banner": ["378273280782749_378273327449411"],
+    "fb_inter_id": ["378273280782749_378273337449410"],
+    "fb_native": ["378273280782749_378273330782744"],
+    "fb_reward": ["378273280782749_378273340782743"],
 
       "tapdaq_n" : "default",
       "tapdaq_banner" : "default",
@@ -49,10 +49,10 @@
       "mopup_banner" : "44ca49cb90be4854b9fe46c8399b9cc3",
       "mopup_inter" : "3a021fd6f0f242df8b0fb284e98ec900",
        
-      "apploving_reward_id" : "8322e0ff4e98f619",
-      "apploving_native" : "57da62090ecaca78",
-      "apploving_banner" : "91a0bbddbfe0759d",
-      "apploving_inter" : "d4127142a57cef49",
+      "apploving_reward_id" : "2631e014a8aabfff",
+      "apploving_native" : "654d3df3fb105276",
+      "apploving_banner" : "8e09a6aa9db49095",
+      "apploving_inter" : "5abd6dc23632c390",
 
 
 
