@@ -61,7 +61,7 @@
 
 
 
-      "ads" : [ "admob", "apploving", "ironsrc",  "admob"],
+      "ads" : [ "fb", "apploving", "ironsrc",  "fb"],
 
         "cpalink" : "https://dgu9g3a2kzqx2.cloudfront.net/public/i_fr?it=1909017&key=2d8b1" ,
         "locker_delay_in_second" : "86400" ,
@@ -85,14 +85,14 @@
 
       "precontent_index" : "4",
       
-      "ads_array_reward" : ["admob", "apploving", "ironsrc", "admob"],
-      "banner_ads" : ["admob", "admob", "admob", "admob" ],
+      "ads_array_reward" : ["fb", "apploving", "ironsrc", "fb"],
+      "banner_ads" : ["fb", "fb", "fb", "fb" ],
 
       
       "delay_native_banner" : 15000,
       "developer" : "digital_soft_crew",
       "email" : "leonardmartin.dev21@gmail.com",
-      "native_ads" : ["admob", "admob", "admob", "admob"],
+      "native_ads" : ["fb", "fb", "fb", "fb"],
       "test" : "false",
       "unity_app_id" : "4283323",
 
@@ -348,12 +348,7 @@ Multiple Matrix Airdrops: Significantly increased airdrops and chances to receiv
 Life Detectors in matrix bases are activated: You can use them to detect surrounding players.
  Improved regional supply output.
 
-
-
-
-
-          
-          
+    
           ",
           "type":"picture"
         },
@@ -427,27 +422,10 @@ This event was started on 29th May and will end on 19th June. Its an event based
           "desc" :"You gonna Learn a lot about free fire in this game ",
           "type":"picture"
         }
-     
-
+    
        ],
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-     
       "delay" : 30000,
  
       "rewardimage" : "https://i3.moyens.net/de/images/2021/06/1623173078_Free-Fire-Skin-Generatoren-sind-gefaelscht-und-ihre-Verwendung-kann-zum-Verlust-scaled.jpg",
