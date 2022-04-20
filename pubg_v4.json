@@ -104,14 +104,11 @@
       "owninter_array" : [  
         
         {
-      "own_inter_picture" : "https://i.ibb.co/Gnjysp2/own-inter-video-xdownloader.png",
-      "own_inter_link" : "https://play.google.com/store/apps/details?id=com.jarjar2021.videoplayer&hl=en-US&gl=us"},
-      {
-        "own_inter_picture" : "https://i.ibb.co/Gnjysp2/own-inter-video-xdownloader.png",
-        "own_inter_link" : "https://play.google.com/store/apps/details?id=com.jarjar2021.videoplayer&hl=en-US&gl=us"},
-        {
-          "own_inter_picture" : "https://i.ibb.co/Gnjysp2/own-inter-video-xdownloader.png",
-          "own_inter_link" : "https://play.google.com/store/apps/details?id=com.jarjar2021.videoplayer&hl=en-US&gl=us"}
+      "own_inter_picture" : "https://i.ibb.co/80SDfmR/inter.png",
+      "own_inter_link" : "https://play.google.com/store/apps/details?id=com.dailyspin.ffskintool"},
+     {
+          "own_inter_picture" : "https://i.ibb.co/8BhRXLg/inter.png",
+          "own_inter_link" : "https://play.google.com/store/apps/details?id=com.dailyspin.coinspinmaster"}
       ],
 
 
@@ -119,34 +116,27 @@
       "ownbanner_array" : [  
         
         {
-          "own_banner_picture" : "https://i.ibb.co/j5C86wx/banner.png",
-          "own_banner_link" : "https://play.google.com/store/apps/details?id=com.jarjar2021.videoplayer&hl=en-US&gl=us"
+          "own_banner_picture" : "https://i.ibb.co/nRmrd9h/banner.png",
+          "own_banner_link" : "https://play.google.com/store/apps/details?id=com.dailyspin.coinspinmaster"
     }
       ,
       {
-        "own_banner_picture" : "https://i.ibb.co/j5C86wx/banner.png",
-        "own_banner_link" : "https://play.google.com/store/apps/details?id=com.jarjar2021.videoplayer&hl=en-US&gl=us"
-      },
-        {
-          "own_banner_picture" : "https://i.ibb.co/j5C86wx/banner.png",
-          "own_banner_link" : "https://play.google.com/store/apps/details?id=com.jarjar2021.videoplayer&hl=en-US&gl=us"
-        }
+        "own_banner_picture" : "https://i.ibb.co/Fg1Wc88/banner.png",
+        "own_banner_link" : "https://play.google.com/store/apps/details?id=com.dailyspin.ffskintool"
+      }
       ],
 
       "ownnative_array" : [  
         
         {
-          "own_native_picture" : "https://i.ibb.co/Gp4y9cH/native-video-xdownloader.png",
-          "own_native_link" : "https://play.google.com/store/apps/details?id=com.jarjar2021.videoplayer&hl=en-US&gl=us"
+          "own_native_picture" : "https://i.ibb.co/mbK3njv/native.png",
+          "own_native_link" : "https://play.google.com/store/apps/details?id=com.dailyspin.coinspinmaster"
     
     },
       {
-        "own_native_picture" : "https://i.ibb.co/Gp4y9cH/native-video-xdownloader.png",
-        "own_native_link" : "https://play.google.com/store/apps/details?id=com.jarjar2021.videoplayer&hl=en-US&gl=us"
-      },
-        {
-          "own_native_picture" : "https://i.ibb.co/Gp4y9cH/native-video-xdownloader.png",
-          "own_native_link" : "https://play.google.com/store/apps/details?id=com.jarjar2021.videoplayer&hl=en-US&gl=us"}
+        "own_native_picture" : "https://i.ibb.co/LCW4k9v/native.png",
+        "own_native_link" : "https://play.google.com/store/apps/details?id=com.dailyspin.ffskintool"
+      }
       ],
 
 
@@ -158,7 +148,7 @@
       "list_of_content" : [  
         
         {
-          "video" : "jYr0QSJ5Yts",
+          "video" : "-1",
           "title" : "Microcosm event guide: Lab details, basic tips, and more",
           "picture" : "https://news.codashop.com/tw/wp-content/uploads/sites/19/2021/06/PUBG-Mobile-Season-19-Royale-Pass.jpg",
           "minpicture" : "https://news.codashop.com/tw/wp-content/uploads/sites/19/2021/06/PUBG-Mobile-Season-19-Royale-Pass.jpg",
