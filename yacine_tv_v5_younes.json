@@ -45,14 +45,14 @@
       "ads": [
         " ",
         " ",
-        " ",
+        "admob",
         " "
       ],
       "native_ads": [
-        "admob",
-        "admob",
-        "admob",
-        "admob"
+        "apploving",
+        "apploving",
+        "apploving",
+        "apploving"
       ],
       "tapdaq_n": "default",
       "tapdaq_banner": "default",
