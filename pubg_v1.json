@@ -10,14 +10,14 @@
 
     "activate_own_ads": "1",
     "admob_appid" : "ca-app-pub-7796159137377981~8373286567",
-    "admob_bn": ["ca-app-pub-9684641720705107/4154429243","ca-app-pub-9684641720705107/4154429243","ca-app-pub-9684641720705107/4154429243"],
-    "admob_n": ["ca-app-pub-9684641720705107/9215184230","ca-app-pub-9684641720705107/9215184230","ca-app-pub-9684641720705107/9215184230"],
-    "admob_pub": "pub-9684641720705107",
-    "admob_r": ["ca-app-pub-9684641720705107/9215184230", "ca-app-pub-9684641720705107/9215184230", "ca-app-pub-9684641720705107/9215184230"],
-    "admob_it": ["ca-app-pub-9684641720705107/9243104393","ca-app-pub-9684641720705107/9243104393","ca-app-pub-9684641720705107/9243104393"],
-    "ironsrc_APP_KEY": "125e5d735",
+    "admob_bn": ["ca-app-pub-3042900338437685/1588268475"],
+    "admob_n": ["ca-app-pub-3042900338437685/7247789261"],
+    "admob_pub": "pub-2492009859815379",
+    "admob_r": ["ca-app-pub-3042900338437685/2968621149"],
+    "admob_it": ["ca-app-pub-3042900338437685/3319657706"],
+    "ironsrc_APP_KEY": "132dc1ce1",
     "fb_banner": ["240551740927611_241790044137114","240551740927611_241790044137114","240551740927611_241790044137114"],
-    "fb_inter_id": ["240551740927611_241790440803741", "240551740927611_241790440803741", "240551740927611_241790440803741"],
+    "fb_inter_id": ["374902604001729_417933923031930", "374902604001729_417934166365239", "374902604001729_417934276365228"],
     "fb_native": ["240551740927611_241790787470373","240551740927611_241790787470373","240551740927611_241790787470373"],
     "fb_reward": ["714799922733036_718078162405212","714799922733036_718078162405212","714799922733036_718078162405212"],
 
@@ -61,7 +61,7 @@
 
 
 
-      "ads" : [ "admob", "admob", "admob",  "admob"],
+      "ads" : [ "admob", "apploving", "ironsrc"],
 
         "cpalink" : "https://dgu9g3a2kzqx2.cloudfront.net/public/i_fr?it=1909017&key=2d8b1" ,
         "locker_delay_in_second" : "86400" ,
@@ -85,14 +85,14 @@
 
       "precontent_index" : "4",
       
-      "ads_array_reward" : ["admob", "admob", "admob", "admob"],
-      "banner_ads" : ["admob", "admob", "admob", "admob" ],
+      "ads_array_reward" : [ "admob", "apploving", "ironsrc"],
+      "banner_ads" : [ "admob", "apploving", "ironsrc" ],
 
       
       "delay_native_banner" : 15000,
       "developer" : "OUMA_COMPANY",
       "email" : "ouma.jar2000@gmail.com",
-      "native_ads" : ["admob", "admob", "admob", "admob"],
+      "native_ads" : [ "admob", "apploving", "admob"],
       "test" : "false",
       "unity_app_id" : "4283323",
 
