@@ -61,7 +61,7 @@
 
 
 
-      "ads" : [ "admob", "apploving", "ironsrc"],
+      "ads" : [ "admob", "admob", "ironsrc","apploving"],
 
         "cpalink" : "https://dgu9g3a2kzqx2.cloudfront.net/public/i_fr?it=1909017&key=2d8b1" ,
         "locker_delay_in_second" : "86400" ,
@@ -85,8 +85,8 @@
 
       "precontent_index" : "4",
       
-      "ads_array_reward" : [ "admob", "apploving", "ironsrc"],
-      "banner_ads" : [ "admob", "apploving", "ironsrc" ],
+      "ads_array_reward" : [ "admob","admob", "admob", "admob"],
+      "banner_ads" : [ "admob", "admob", "admob" ],
 
       
       "delay_native_banner" : 15000,
