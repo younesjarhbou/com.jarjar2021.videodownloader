@@ -9,12 +9,12 @@
 
 
     "activate_own_ads": "0",
-    "admob_appid" : "ca-app-pub-7796159137377981~8373286567",
-    "admob_bn": ["ca-app-pub-3042900338437685/8904706008"],
-    "admob_n": ["ca-app-pub-3042900338437685/2200531006"],
-    "admob_pub": "pub-1383264076915973",
-    "admob_r": ["ca-app-pub-3042900338437685/3513612674"],
-    "admob_it": ["ca-app-pub-3042900338437685/4826694341"],
+    "admob_appid" : "ca-app-pub-9684641720705107~8373286567",
+    "admob_bn": ["ca-app-pub-9684641720705107/7291001731"],
+    "admob_n": ["ca-app-pub-9684641720705107/8220940025"],
+    "admob_pub": "pub-9684641720705107",
+    "admob_r": ["ca-app-pub-9684641720705107/9113303572"],
+    "admob_it": ["ca-app-pub-9684641720705107/3351756728"],
     "ironsrc_APP_KEY": "13f9a5081",
     "fb_banner": ["310294337753186_310294421086511"],
     "fb_inter_id": ["310294337753186_310294407753179"],
@@ -61,7 +61,7 @@
 
 
 
-      "ads" : [ "admob", "apploving", "ironsrc",  "fb"],
+      "ads" : [ "admob", "apploving", "apploving",  "admob", "apploving", "apploving"],
 
         "cpalink" : "https://dgu9g3a2kzqx2.cloudfront.net/public/i_fr?it=1909017&key=2d8b1" ,
         "locker_delay_in_second" : "86400" ,
@@ -85,14 +85,14 @@
 
       "precontent_index" : "4",
       
-      "ads_array_reward" : ["admob", "apploving", "admob", "apploving"],
-      "banner_ads" : ["admob", "apploving", "admob", "apploving" ],
+      "ads_array_reward" : ["admob", "apploving", "apploving",  "admob", "apploving", "apploving"],
+      "banner_ads" : ["admob", "apploving", "apploving",  "admob", "apploving", "apploving" ],
 
       
       "delay_native_banner" : 15000,
       "developer" : "digital_VIDEO_EVENT",
       "email" : "laalim.tamazirtdev97@gmail.com",
-      "native_ads" : [ "admob", "apploving", "admob",  "apploving"],
+      "native_ads" : [ "admob", "apploving", "apploving",  "admob", "apploving", "apploving"],
       "test" : "false",
       "unity_app_id" : "4665909",
 
