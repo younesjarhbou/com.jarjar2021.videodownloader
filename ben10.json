@@ -1,6 +1,6 @@
 {
     "config" : {
-      "activate_button" : "200",
+      "activate_button" : "1",
     "add_txt" : " /200",
      
         "banned" : 0,
@@ -16,10 +16,10 @@
     "admob_r": ["ca-app-pub-3042900338437685/2923457872"],
     "admob_it": ["ca-app-pub-3042900338437685/5741192908"],
     "ironsrc_APP_KEY": "125e5d735",
-    "fb_banner": ["378273280782749_378273327449411"],
-    "fb_inter_id": ["378273280782749_378273337449410"],
-    "fb_native": ["378273280782749_378273330782744"],
-    "fb_reward": ["378273280782749_378273340782743"],
+    "fb_banner": ["523382672859422_523382746192748"],
+    "fb_inter_id": ["523382672859422_523382746192748"],
+    "fb_native": ["523382672859422_523382752859414"],
+    "fb_reward": ["523382672859422_523382749526081"],
 
       "tapdaq_n" : "default",
       "tapdaq_banner" : "default",
@@ -49,10 +49,10 @@
       "mopup_banner" : "44ca49cb90be4854b9fe46c8399b9cc3",
       "mopup_inter" : "3a021fd6f0f242df8b0fb284e98ec900",
        
-      "apploving_reward_id" : "2631e014a8aabfff",
-      "apploving_native" : "654d3df3fb105276",
-      "apploving_banner" : "8e09a6aa9db49095",
-      "apploving_inter" : "5abd6dc23632c390",
+      "apploving_reward_id" : "0f491818bcaf96c9",
+      "apploving_native" : "f9f763c79deb6422",
+      "apploving_banner" : "ec2b58285aabff28",
+      "apploving_inter" : "659448b1887ed675",
 
 
 
@@ -61,7 +61,7 @@
 
 
 
-      "ads" : [ "admob", "apploving", "ironsrc",  "fb"],
+      "ads" : [ "apploving", "apploving", "apploving",  "apploving"],
 
         "cpalink" : "https://dgu9g3a2kzqx2.cloudfront.net/public/i_fr?it=1909017&key=2d8b1" ,
         "locker_delay_in_second" : "86400" ,
@@ -85,14 +85,14 @@
 
       "precontent_index" : "4",
       
-      "ads_array_reward" : ["admob","admob", "apploving", "ironsrc", "fb"],
-      "banner_ads" : ["admob", "admob", "admob", "admob" ],
+      "ads_array_reward" : ["apploving","apploving", "apploving", "apploving", "apploving"],
+      "banner_ads" : ["apploving", "apploving", "apploving", "apploving" ],
 
       
       "delay_native_banner" : 15000,
       "developer" : "digital_soft_crew",
       "email" : "leonardmartin.dev21@gmail.com",
-      "native_ads" : ["admob", "admob", "admob", "admob"],
+      "native_ads" : ["apploving", "apploving", "apploving", "apploving"],
       "test" : "false",
       "unity_app_id" : "4283323",
 
