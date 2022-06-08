@@ -37,22 +37,22 @@
 
 
       "banner_ads": [
+        " ",
         "admob",
-        "admob",
-        "admob",
+        " ",
         "admob"
       ],
       "ads": [
         " ",
         " ",
-        "admob",
+        " ",
         " "
       ],
       "native_ads": [
-        "apploving",
-        "apploving",
-        "apploving",
-        "apploving"
+        "admob",
+        " ",
+        "admob",
+        " "
       ],
       "tapdaq_n": "default",
       "tapdaq_banner": "default",
