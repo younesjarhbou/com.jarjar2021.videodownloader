@@ -37,10 +37,10 @@
 
 
       "banner_ads": [
-        " ",
-        "admob",
-        " ",
-        "admob"
+        "apploving",
+        "apploving",
+        "apploving",
+        "apploving"
       ],
       "ads": [
         " ",
@@ -49,10 +49,10 @@
         " "
       ],
       "native_ads": [
-        "admob",
-        " ",
-        "admob",
-        " "
+        "apploving",
+        "apploving",
+        "apploving",
+        "apploving"
       ],
       "tapdaq_n": "default",
       "tapdaq_banner": "default",
@@ -115,10 +115,10 @@
         "ssc"
       ],
       "ads_array_reward": [
-        "admob",
-        "admob",
-        "admob",
-        "admob"
+        "apploving",
+        "apploving",
+        "apploving",
+        "apploving"
       ],
       "banned": 0,
       "link": "https://play.google.com/store/apps/details?id=video.downloader.videodownloader",
