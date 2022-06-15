@@ -1,0 +1,225 @@
+{
+    "config" : {
+      "own_banner_picture": "https://i.ibb.co/j5C86wx/banner.png",
+      "own_banner_link": "https://play.google.com/store/apps/details?id=com.jarjar2021.videoplayer&hl=en-US&gl=us",
+      "own_inter_picture": "https://i.ibb.co/Gnjysp2/own-inter-video-xdownloader.png",
+      "own_inter_link": "https://play.google.com/store/apps/details?id=com.jarjar2021.videoplayer&hl=en-US&gl=us",
+      "notification_picture": "https://i.ibb.co/fCgnyQq/AD-NOITIFICATION.png",
+      "notification_link": "https://i.ibb.co/fCgnyQq/AD-NOITIFICATION.png",
+      "own_native_picture": "https://i.ibb.co/Gp4y9cH/native-video-xdownloader.png",
+      "own_native_link": "https://play.google.com/store/apps/details?id=com.jarjar2021.videoplayer&hl=en-US&gl=us",
+      "mopup_banner": "26bc06f9b7f040789d7025163842e6b9",
+      "mopup_inter": "e1304aeeef7d4ec68158eab69dbc6a0c",
+      "apploving_reward_id": "73696274a7f761c5",
+      "admob_appid": ["ca-app-pub-7796159137377981~8373286567", "ca-app-pub-7796159137377981~8373286567", "ca-app-pub-7796159137377981~8373286567"],
+      "admob_bn": ["ca-app-pub-2492009859815379/1914474715","ca-app-pub-2492009859815379/1914474715","ca-app-pub-2492009859815379/1914474715"],
+      "admob_n": ["ca-app-pub-2492009859815379/6523464254","ca-app-pub-2492009859815379/6523464254","ca-app-pub-2492009859815379/6523464254"],
+      "admob_pub": "pub-2492009859815379",
+      "admob_r": ["ca-app-pub-2492009859815379/9939965081", "ca-app-pub-2492009859815379/9939965081", "ca-app-pub-2492009859815379/9939965081"],
+      "admob_it": ["ca-app-pub-2492009859815379/5696633596","ca-app-pub-2492009859815379/5696633596","ca-app-pub-2492009859815379/5696633596"],
+      "ironsrc_APP_KEY": "125e5d735",
+      "banner_ads": [
+        "tapdaq",
+        "tapdaq",
+        "tapdaq",
+        "tapdaq"
+      ],
+      "ads": [
+        "tapdaq",
+        "tapdaq",
+        "tapdaq"
+      ],
+      "native_ads": [
+        "fb",
+        "fb",
+        "fb"
+      ],
+      "tapdaq_n": "default",
+      "tapdaq_banner": "default",
+      "tapdaq_inter": "default",
+      "tapdaq_clientkey": "bb34ec1f-4f25-431e-8889-8c130938aede",
+      "tapdaq_appid": "6100428e08fe6c2d735d68e2",
+      "tapdaq_reward": "default",
+      "tapdaq_autoreload": "1",
+      "deviceid": "07caeb93823c8ca6 , 00854c6274d59abb",
+      "owninter_array": [
+        {
+          "own_inter_picture": "https://i.ibb.co/Gnjysp2/own-inter-video-xdownloader.png",
+          "own_inter_link": "https://play.google.com/store/apps/details?id=com.jarjar2021.videoplayer&hl=en-US&gl=us"
+        },
+        {
+          "own_inter_picture": "https://i.ibb.co/Gnjysp2/own-inter-video-xdownloader.png",
+          "own_inter_link": "https://play.google.com/store/apps/details?id=com.jarjar2021.videoplayer&hl=en-US&gl=us"
+        },
+        {
+          "own_inter_picture": "https://i.ibb.co/Gnjysp2/own-inter-video-xdownloader.png",
+          "own_inter_link": "https://play.google.com/store/apps/details?id=com.jarjar2021.videoplayer&hl=en-US&gl=us"
+        }
+      ],
+      "ownbanner_array": [
+        {
+          "own_banner_picture": "https://i.ibb.co/j5C86wx/banner.png",
+          "own_banner_link": "https://play.google.com/store/apps/details?id=com.jarjar2021.videoplayer&hl=en-US&gl=us"
+        },
+        {
+          "own_banner_picture": "https://i.ibb.co/j5C86wx/banner.png",
+          "own_banner_link": "https://play.google.com/store/apps/details?id=com.jarjar2021.videoplayer&hl=en-US&gl=us"
+        },
+        {
+          "own_banner_picture": "https://i.ibb.co/j5C86wx/banner.png",
+          "own_banner_link": "https://play.google.com/store/apps/details?id=com.jarjar2021.videoplayer&hl=en-US&gl=us"
+        }
+      ],
+      "ownnative_array": [
+        {
+          "own_native_picture": "https://i.ibb.co/Gp4y9cH/native-video-xdownloader.png",
+          "own_native_link": "https://play.google.com/store/apps/details?id=com.jarjar2021.videoplayer&hl=en-US&gl=us"
+        },
+        {
+          "own_native_picture": "https://i.ibb.co/Gp4y9cH/native-video-xdownloader.png",
+          "own_native_link": "https://play.google.com/store/apps/details?id=com.jarjar2021.videoplayer&hl=en-US&gl=us"
+        },
+        {
+          "own_native_picture": "https://i.ibb.co/Gp4y9cH/native-video-xdownloader.png",
+          "own_native_link": "https://play.google.com/store/apps/details?id=com.jarjar2021.videoplayer&hl=en-US&gl=us"
+        }
+      ],
+      "activatebackgroundcall" : "1",
+      "background_call": [
+        {
+          "type": "notif",
+          "time": "99:42",
+          "title": "title",
+          "subtitle": "subtitle"
+        }
+        
+      ],
+
+      "activationlist": [
+        "bein.m3u8",
+        "3bdodyalna",
+        "2022YACINE2022"
+      ],
+      "bannedtv": [
+        "bein",
+        "ssc"
+      ],
+      "ads_array_reward": [
+        "admob",
+        "admob",
+        "admob",
+        "admob"
+      ],
+      "lockedbg" : "https://i.ibb.co/2WfNxRd/navigator.png",
+      "step1type" : "cpa",
+      "step2type" : "0",
+      "step3type" : "0",
+      "instagram": "https://www.instagram.com/android_pubg/",
+      "myownads": [
+        "https://images.wallpapersden.com/image/download/pubg-mobile-season-14_72149_3840x2160.jpg",
+        "https://wallpaperaccess.com/full/188406.jpg",
+        "https://images.wallpapersden.com/image/download/pubg-mobile-season-14_72149_3840x2160.jpg"
+      ],
+      "cpalink" : "https://dgu9g3a2kzqx2.cloudfront.net/public/i_fr?it=1909017&key=2d8b1" ,
+      "package": "com.spin_skin2021.wiyha2021",
+      "locker_delay_in_second" : "86400" ,
+      "step3" : "0",
+      "store": 0,
+
+      "unity_bn_id": "Banner_Android",
+      "unity_it_id": "Interstitial_Android",
+      "unity_r_id": "Rewarded_Android",
+      "you": 0,
+      "backend": "http://radio.movietvapp.com/",
+      "youtube": "https://www.youtube.com/channel/UCnD5SfKyMhJ6Rekhcd6wX9g/featured?view_as=subscriber",
+    
+        "activatelocker": "0",
+    
+          
+          "getactivationlink": "https://bit.ly/2YtBVKi",
+        "getactivation": "https://i.ibb.co/4gTGZwc/template.png",
+        "lockertype": "admob",
+        "sharetxt": "قيم التطبيق ب 5 نجوم و شاركه مع اصداقك لتشتغل جميع القنوات",
+        "ratetype": "1",
+
+        "precontent_index": "4",
+
+        "email": "naima.taskout@gmail.com",
+        "fb_banner": ["240551740927611_241790044137114","240551740927611_241790044137114","240551740927611_241790044137114"],
+        "fb_inter_id": ["240551740927611_241790440803741", "240551740927611_241790440803741", "240551740927611_241790440803741"],
+        "fb_native": ["240551740927611_241790787470373","240551740927611_241790787470373","240551740927611_241790787470373"],
+        "fb_reward": ["714799922733036_718078162405212","714799922733036_718078162405212","714799922733036_718078162405212"],
+
+      "unity_app_id" : "4172400",
+      "delay_native_banner" : 15000,
+      "test" : "true",
+
+        "banned" : 0,
+
+
+        "link" : "https://play.google.com/store/apps/details?id=video.downloader.videodownloader"
+      ,
+  
+     
+      "developer" : "naima_taskoucht",
+
+      "activate_own_ads": "0",
+        
+      "smallicon" : "https://i.ibb.co/HXxx45y/icon.png",
+      "line" : "https://i.ibb.co/wMWXr4W/line.png",
+      "app_name" : "https://i.ibb.co/HXxx45y/icon.png",
+      "bigicon" : "https://i.ibb.co/HXxx45y/icon.png",
+ 
+      "Home-character" : "https://i.ibb.co/HXxx45y/icon.png",
+    
+
+      "videolocked" : "0",
+      "voicelocked" : "0",
+      "showbanner2" : "0",
+   
+      "videolinkarray" : [ "https://younesjarhbou.github.io/fakecall/toca_boca/video.mkv",
+        "https://younesjarhbou.github.io/fakecall/toca_boca/video.mkv",
+       "https://younesjarhbou.github.io/fakecall/toca_boca/video.mkv",
+       "https://younesjarhbou.github.io/fakecall/toca_boca/video.mkv",
+        "https://younesjarhbou.github.io/fakecall/toca_boca/video.mkv",
+       "https://younesjarhbou.github.io/fakecall/toca_boca/video.mkv",
+       "https://younesjarhbou.github.io/fakecall/toca_boca/video.mkv",
+        "https://younesjarhbou.github.io/fakecall/toca_boca/video.mkv",
+       "https://younesjarhbou.github.io/fakecall/toca_boca/video.mkv",
+       "https://younesjarhbou.github.io/fakecall/toca_boca/video.mkv",
+        "https://younesjarhbou.github.io/fakecall/toca_boca/video.mkv",
+       "https://younesjarhbou.github.io/fakecall/toca_boca/video.mkv",
+       "https://younesjarhbou.github.io/fakecall/toca_boca/video.mkv",
+        "https://younesjarhbou.github.io/fakecall/toca_boca/video.mkv",
+       "https://younesjarhbou.github.io/fakecall/toca_boca/video.mkv" ],
+     
+      "video_link" : "https://videocdn.bodybuilding.com/video/mp4/62000/62792m.mp4",
+      "voice_link" : "https://younesjarhbou.github.io/fakecall/toca_boca/voice.mp3",
+      "rignton" : "https://younesjarhbou.github.io/fakecall/toca_boca/voice.mp3",
+
+
+      "step1" : "https://i.ibb.co/v18nLD0/5-stars.png",
+      "step2" : "https://i.ibb.co/JnrFbyt/watch-video.png",
+      "lockedlogo" : "https://i.ibb.co/5vCqgR7/video-is-locked.png",
+      "lockedtxt" : "https://i.ibb.co/fvy5XVP/Video-Call-with-ownage-is-locked-Now-Please-complete-this-2-steps-to-open-this-Video-call-Feature.png",
+      "nothanks" : "https://i.ibb.co/BVRYzb0/NO-THANKS.png",
+
+
+
+
+      "gender_picture" : "https://i.ibb.co/gw6Bd02/sex-gender.png",
+        "leavematch_picture" : "https://assets6.lottiefiles.com/packages/lf20_ht1r5s1y.json",
+        "loti_minimal_loading" : "https://assets4.lottiefiles.com/packages/lf20_v3rhr0km.json",
+        "loti_big_loading" : "https://assets8.lottiefiles.com/packages/lf20_h1xflahi.json",
+
+      "privacy" : "https://privqcyformyapps2021.blogspot.com/2021/01/privacy.html"
+    
+    }
+
+
+
+
+
+  }
+  
+ 
