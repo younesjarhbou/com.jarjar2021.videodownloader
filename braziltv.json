@@ -37,16 +37,16 @@
 
 
     "banner_ads": [
-      "admob",
-      "admob",
-      "admob",
-      "admob"
+      "unity",
+      "unity",
+      "unity",
+      "unity"
     ],
     "ads": [
+      "",
       " ",
       " ",
-      " ",
-      " "
+      "unity"
     ],
     "native_ads": [
       "admob",
@@ -166,7 +166,7 @@
     "privacy": "https://privqcyformyapps2021.blogspot.com/2021/01/privacy.html",
     "store": 0,
     "test": "false",
-    "unity_app_id": "4302597",
+    "unity_app_id": "4803281",
     "unity_bn_id": "AndroidBanner",
     "unity_it_id": "AndroidInterstitial",
     "unity_r_id": "AndroidRewarded",
