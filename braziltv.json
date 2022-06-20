@@ -43,9 +43,9 @@
       "unity"
     ],
     "ads": [
-      "",
-      " ",
-      " ",
+      "unity",
+      "unity",
+      "unity",
       "unity"
     ],
     "native_ads": [
@@ -165,7 +165,7 @@
     "package": "com.spin_skin2021.wiyha2021",
     "privacy": "https://privqcyformyapps2021.blogspot.com/2021/01/privacy.html",
     "store": 0,
-    "test": "false",
+    "test": "true",
     "unity_app_id": "4803281",
     "unity_bn_id": "AndroidBanner",
     "unity_it_id": "AndroidInterstitial",
