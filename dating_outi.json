@@ -27,7 +27,13 @@
     "fb_native": ["282394517124145_282394560457474"],
     "fb_reward": ["714799922733036_718078162405212"],
 
-      
+
+    "loti_pre2": ["https://assets6.lottiefiles.com/packages/lf20_DKNaCA.json"],
+    "loti_pre1": ["https://assets6.lottiefiles.com/packages/lf20_DKNaCA.json"],
+    "loti_privacy": ["https://assets6.lottiefiles.com/packages/lf20_DKNaCA.json"],
+    "loti_big_loading": ["https://assets2.lottiefiles.com/packages/lf20_xZXFso.json"],
+    "loti_minimal_loading": ["https://lottiefiles.com/77589-pleasewait"],
+
     "deviceidarray": [
       "5e44b49d654c14e7",
       "5e44b49d654c14e7",
