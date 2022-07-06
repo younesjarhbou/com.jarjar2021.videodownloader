@@ -10,7 +10,6 @@
     "own_native_link": "https://play.google.com/store/apps/details?id=com.jarjar2021.videoplayer&hl=en-US&gl=us",
     "mopup_banner": "26bc06f9b7f040789d7025163842e6b9",
     "mopup_inter": "e1304aeeef7d4ec68158eab69dbc6a0c",
-    "apploving_reward_id": "73696274a7f761c5",
     "admob_appid": "ca-app-pub-7796159137377981~8373286567",
  
     "admob_bn": ["ca-app-pub-9892387438383680/6995644763"],
@@ -27,6 +26,11 @@
     "fb_native": ["282394517124145_282394560457474","282394517124145_282394560457474","282394517124145_282394560457474"],
     "fb_reward": ["714799922733036_718078162405212","714799922733036_718078162405212","714799922733036_718078162405212"],
 
+           
+    "apploving_reward_id" : "8322e0ff4e98f619",
+    "apploving_native" : "57da62090ecaca78",
+    "apploving_banner" : "91a0bbddbfe0759d",
+    "apploving_inter" : "d4127142a57cef49",
       
     "deviceidarray": [
       "5e44b49d654c14e7",
