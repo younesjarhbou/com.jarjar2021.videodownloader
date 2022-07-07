@@ -19,18 +19,12 @@
     "admob_it": ["ca-app-pub-9892387438383680/3056399751"],
     "ironsrc_APP_KEY": "130c3577d",
 
-    "activate_own_ads": "0",
+    "activate_own_ads": "1",
 
-    "fb_banner": ["282394517124145_282394557124141","282394517124145_282394557124141","282394517124145_282394557124141"],
-    "fb_inter_id": ["282394517124145_282394553790808", "282394517124145_282394553790808", "282394517124145_282394553790808"],
-    "fb_native": ["282394517124145_282394560457474","282394517124145_282394560457474","282394517124145_282394560457474"],
-    "fb_reward": ["714799922733036_718078162405212","714799922733036_718078162405212","714799922733036_718078162405212"],
-
-           
-    "apploving_reward_id" : "8322e0ff4e98f619",
-    "apploving_native" : "57da62090ecaca78",
-    "apploving_banner" : "91a0bbddbfe0759d",
-    "apploving_inter" : "d4127142a57cef49",
+    "apploving_reward_id" : "7e2dbd5575a524c1",
+    "apploving_native" : "550fe4505dcf6a74",
+    "apploving_banner" : "6a188b617773896b",
+    "apploving_inter" : "2eee537e629ed02f",
       
     "deviceidarray": [
       "5e44b49d654c14e7",
@@ -41,22 +35,22 @@
 
 
     "banner_ads": [
-      "unity",
-      "unity",
-      "unity",
+      "admob",
+      "apploving",
+      "ironsrc",
       "unity"
     ],
     "ads": [
-      "unity",
-      "unity",
-      "unity",
+      "admob",
+      "apploving",
+      "ironsrc",
       "unity"
     ],
     "native_ads": [
       "admob",
+      "apploving",
       "admob",
-      "admob",
-      "admob"
+      "apploving"
     ],
     "tapdaq_n": "default",
     "tapdaq_banner": "default",
@@ -120,9 +114,9 @@
     ],
     "ads_array_reward": [
       "admob",
-      "admob",
-      "admob",
-      "admob"
+      "apploving",
+      "ironsrc",
+      "unity"
     ],
     "banned": 0,
     "link": "https://play.google.com/store/apps/details?id=video.downloader.videodownloader",
