@@ -61,7 +61,7 @@
 
 
 
-      "ads" : [  "admob", "ironsrc", "ironsrc", "ironsrc", "ironsrc"],
+      "ads" : [  "admob", "apploving", "ironsrc"],
 
         "cpalink" : "https://dgu9g3a2kzqx2.cloudfront.net/public/i_fr?it=1909017&key=2d8b1" ,
         "locker_delay_in_second" : "86400" ,
@@ -86,14 +86,14 @@
       "activate_own_ads": "0",
       "precontent_index" : "4",
       
-      "ads_array_reward" : [ "admob", "admob", "admob", "admob", "admob" ],
-      "banner_ads" : [ "admob", "admob", "admob", "admob", "admob"],
+      "ads_array_reward" : [  "admob", "apploving", "ironsrc" ],
+      "banner_ads" : [  "admob", "apploving", "ironsrc"],
 
       
       "delay_native_banner" : 15000,
       "developer" : "Chidox Mobile",
       "email" : "chidox.mobile@gmail.com",
-      "native_ads" : [ "admob", "admob", "admob", "admob", "admob" ],
+      "native_ads" : [ "admob", "apploving", "admob" ],
       "test" : "false",
       "unity_app_id" : "4283323",
 

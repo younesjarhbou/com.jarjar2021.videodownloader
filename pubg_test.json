@@ -68,7 +68,7 @@
 
 
 
-        "lockedbg" : "https://i.ibb.co/kD0Tcyj/orange-square.gif",
+      "lockedbg" : "https://i.ibb.co/kD0Tcyj/orange-square.gif",
       "step1" : "https://i.ibb.co/v18nLD0/5-stars.png",
       "step2" : "https://i.ibb.co/rbJCc1p/icons8-youtube-logo-unscreen.gif",
       "step3" : "https://i.ibb.co/KL17jGT/icons8-partager.gif",
@@ -86,13 +86,13 @@
       "precontent_index" : "4",
       
       "ads_array_reward" : [  "admob", "apploving", "unity","ironsrc"],
-      "banner_ads" : [ "admob", "admob", "admob" ],
+      "banner_ads" : [ "admob", "apploving", "unity","ironsrc" ],
 
       
       "delay_native_banner" : 15000,
       "developer" : "OUMA_COMPANY",
       "email" : "ouma.jar2000@gmail.com",
-      "native_ads" : [ "admob", "apploving", "admob"],
+      "native_ads" : [ "admob", "apploving", "unity","ironsrc"],
       "test" : "false",
       "unity_app_id" : "4283323",
 
