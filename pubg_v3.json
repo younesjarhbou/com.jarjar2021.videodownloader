@@ -21,6 +21,7 @@
     "fb_native": ["240551740927611_241790787470373","374902604001729_454527422705913","374902604001729_454527862705869"],
     "fb_reward": ["714799922733036_718078162405212","374902604001729_454528162705839","374902604001729_454528779372444"],
 
+    "open_app" : "ca-app-pub-3940256099942544/3419835294",
       "tapdaq_n" : "default",
       "tapdaq_banner" : "default",
       "tapdaq_inter" : "default",
@@ -451,7 +452,7 @@ This event was started on 29th May and will end on 19th June. Its an event based
 
       "ownads" : 0,
       "ownads_link" : "http://pubggiveaway.com/",
-      "package" : "com.pubitemsreward.rotate",
+      "package" : "com.dailyreward.ucandskin",
       "privacy" : "https://privqcyformyapps2021.blogspot.com/2021/01/privacy.html",
       "rewaard_link" : [ "http://pubggiveaway.com/index.html?img=01_v2.png", "http://pubggiveaway.com/index.html?img=02_v2.jpg", "http://pubggiveaway.com/index.html?img=03_v2.jpg", "http://pubggiveaway.com/index.html?img=04_v2.png", "http://pubggiveaway.com/index.html?img=05_v2.jpg", "http://pubggiveaway.com/index.html?img=06_v2.jpg", "http://pubggiveaway.com/index.html?img=07_v2.jpg", "http://pubggiveaway.com/index.html?img=08_v2.jpg" ],
       "store" : 0,
