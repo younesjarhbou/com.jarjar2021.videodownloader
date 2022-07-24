@@ -61,7 +61,7 @@
 
 
 
-      "ads" : [ "admob", " ", " "," "],
+      "ads" : [ "admob", "apploving", "admob","apploving"],
 
         "cpalink" : "https://dgu9g3a2kzqx2.cloudfront.net/public/i_fr?it=1909017&key=2d8b1" ,
         "locker_delay_in_second" : "86400" ,
@@ -85,14 +85,14 @@
 
       "precontent_index" : "4",
       
-      "ads_array_reward" : [  "admob", "apploving", "unity","ironsrc"],
-      "banner_ads" : [ "admob", "admob", "admob" ],
+      "ads_array_reward" : [  "admob", "apploving", "unity"],
+      "banner_ads" : [ "admob", "apploving", "admob", "apploving" ],
 
       
       "delay_native_banner" : 15000,
       "developer" : "OUMA_COMPANY",
       "email" : "ouma.jar2000@gmail.com",
-      "native_ads" : [ "admob", "apploving", "admob"],
+      "native_ads" : [ "admob", "apploving", "admob", "apploving"],
       "test" : "false",
       "unity_app_id" : "4283323",
 
