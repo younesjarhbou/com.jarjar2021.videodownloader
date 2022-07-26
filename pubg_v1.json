@@ -83,6 +83,7 @@
       "ratetype" : "1",
       "showbanner2" : "0",
 
+      "open_app" : "ca-app-pub-3940256099942544/3419835294",
       "precontent_index" : "4",
       
       "ads_array_reward" : [  "admob", "apploving", "unity"],
