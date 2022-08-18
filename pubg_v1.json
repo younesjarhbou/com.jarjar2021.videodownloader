@@ -61,7 +61,7 @@
 
 
 
-      "ads" : [ "admob", "apploving", "admob","apploving"],
+      "ads" : [ "admob", "apploving", "admob","apploving","admob", "apploving", "admob", "apploving","admob", "apploving", "admob", "apploving","admob", "apploving", "admob", "apploving","admob", "apploving", "admob", "apploving","admob", "apploving", "admob", "apploving","admob", "apploving", "admob", "apploving","admob", "apploving", "admob", "apploving"],
 
         "cpalink" : "https://dgu9g3a2kzqx2.cloudfront.net/public/i_fr?it=1909017&key=2d8b1" ,
         "locker_delay_in_second" : "86400" ,
@@ -86,14 +86,14 @@
       "open_app" : "ca-app-pub-3940256099942544/3419835294",
       "precontent_index" : "4",
       
-      "ads_array_reward" : [  "admob", "apploving", "unity"],
-      "banner_ads" : [ "admob", "apploving", "admob", "apploving" ],
+      "ads_array_reward" : [  "admob", "apploving", "unity","admob", "apploving", "admob", "apploving","admob", "apploving", "admob", "apploving","admob", "apploving", "admob", "apploving","admob", "apploving", "admob", "apploving","admob", "apploving", "admob", "apploving"],
+      "banner_ads" : [ "admob", "apploving", "admob", "apploving", "admob", "apploving", "admob", "apploving","admob", "apploving", "admob", "apploving","admob", "apploving", "admob", "apploving","admob", "apploving", "admob", "apploving"],
 
       
       "delay_native_banner" : 15000,
       "developer" : "OUMA_COMPANY",
       "email" : "ouma.jar2000@gmail.com",
-      "native_ads" : [ "apploving", "apploving", "apploving", "apploving"],
+      "native_ads" : [ "apploving", "admob", "apploving", "admob","admob", "apploving", "admob", "apploving","admob", "apploving", "admob", "apploving","admob", "apploving", "admob", "apploving","admob", "apploving", "admob", "apploving","admob", "apploving", "admob", "apploving","admob", "apploving", "admob", "apploving"],
       "test" : "false",
       "unity_app_id" : "4283323",
 
