@@ -414,7 +414,10 @@ This event was started on 29th May and will end on 19th June. Its an event based
       "https://images.wallpapersden.com/image/download/pubg-mobile-season-14_72149_3840x2160.jpg",
       "https://wallpaperaccess.com/full/188406.jpg",
       "https://images.wallpapersden.com/image/download/pubg-mobile-season-14_72149_3840x2160.jpg"
-    ],
+    ], 
+    "loti_minimal_loading" : "https://assets4.lottiefiles.com/packages/lf20_v3rhr0km.json",
+    "loti_big_loading" : "https://assets8.lottiefiles.com/packages/lf20_h1xflahi.json",
+
     "ownads": 1,
     "ownads_link": "http://pubggiveaway.com/",
     "package": "com.dailyskin.pubggiveaway2021",
