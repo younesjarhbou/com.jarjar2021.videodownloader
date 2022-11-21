@@ -29,7 +29,7 @@
       "banner_ads" : [ "admob", "apploving", "admob", "apploving", "admob", "apploving", "admob", "apploving","admob", "apploving", "admob", "apploving","admob", "apploving", "admob", "apploving","admob", "apploving", "admob", "apploving"],
 
       
-      "native_ads" : [ "apploving", "admob", "apploving", "admob","admob", "apploving", "admob", "apploving","admob", "apploving", "admob", "apploving","admob", "apploving", "admob", "apploving","admob", "apploving", "admob", "apploving","admob", "apploving", "admob", "apploving","admob", "apploving", "admob", "apploving"],
+      "native_ads" : [ "own", "own", "own", "own"],
       "test" : "false",
       "unity_app_id" : "4283323",
 
@@ -43,7 +43,8 @@
         
         {
       "own_inter_picture" : "https://i.ibb.co/80SDfmR/inter.png",
-      "own_inter_link" : "https://play.google.com/store/apps/details?id=com.dailyspin.ffskintool"},
+      "own_inter_link" : "https://play.google.com/store/apps/details?id=com.dailyspin.ffskintool"
+      },
      {
           "own_inter_picture" : "https://i.ibb.co/8BhRXLg/inter.png",
           "own_inter_link" : "https://play.google.com/store/apps/details?id=com.dailyspin.coinspinmaster"}
