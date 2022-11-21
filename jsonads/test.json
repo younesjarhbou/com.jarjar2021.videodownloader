@@ -1,6 +1,6 @@
 {
     "config" : {
-
+    "showbanner2": "1",
     "activate_own_ads": "1",
     "open_app" : "ca-app-pub-3940256099942544/3419835294",
     "admob_appid" : "ca-app-pub-7796159137377981~8373286567",
