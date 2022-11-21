@@ -2,6 +2,8 @@
     "config" : {
     "showbanner2": "1",
     "activate_own_ads": "1",
+    "native_position_news": 5,
+    "native_position_match": 2,
     "open_app" : "ca-app-pub-3940256099942544/3419835294",
     "admob_appid" : "ca-app-pub-7796159137377981~8373286567",
     "admob_bn": ["ca-app-pub-3940256099942544/6300978111"],
