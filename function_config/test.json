@@ -1,5 +1,6 @@
 {
   "config": {
+
     "loti_pre2": ["https://assets6.lottiefiles.com/packages/lf20_DKNaCA.json"],
     "loti_pre1": ["https://assets6.lottiefiles.com/packages/lf20_DKNaCA.json"],
     "loti_privacy": ["https://assets6.lottiefiles.com/packages/lf20_DKNaCA.json"],
@@ -23,6 +24,11 @@
     "cpalink" : "https://dgu9g3a2kzqx2.cloudfront.net/public/i_fr?it=1909017&key=2d8b1" ,
     "locker_delay_in_second" : "86400" ,
 
+
+    "match_to_channel" : 0,
+    "start_text" : "0",
+    "start_img" : "https://mydesktopwalls.com/wp-content/uploads/2020/07/PUBG-Background-1024x576.jpg",
+    "start_desc" : "0",
 
 
     "lockedbg" : "https://i.ibb.co/2WfNxRd/navigator.png",
