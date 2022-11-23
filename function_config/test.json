@@ -1,0 +1,62 @@
+{
+  "config": {
+    "loti_pre2": ["https://assets6.lottiefiles.com/packages/lf20_DKNaCA.json"],
+    "loti_pre1": ["https://assets6.lottiefiles.com/packages/lf20_DKNaCA.json"],
+    "loti_privacy": ["https://assets6.lottiefiles.com/packages/lf20_DKNaCA.json"],
+    "loti_big_loading": ["https://assets2.lottiefiles.com/packages/lf20_xZXFso.json"],
+    "loti_minimal_loading": ["https://lottiefiles.com/77589-pleasewait"],
+
+    "deviceidarray": [
+      "5e44b49d654c14e7",
+      "5e44b49d654c14e7",
+      "5e44b49d654c14e7",
+      "5e44b49d654c14e7"
+    ],
+
+    "deviceid": "07caeb93823c8ca6 , 00854c6274d59abb",
+    "bannedtv": [
+      "bein",
+      "ssc"
+    ],
+    "banned": 0,
+    "link": "https://www.omegle.com/",
+    "cpalink" : "https://dgu9g3a2kzqx2.cloudfront.net/public/i_fr?it=1909017&key=2d8b1" ,
+    "locker_delay_in_second" : "86400" ,
+
+
+
+    "lockedbg" : "https://i.ibb.co/2WfNxRd/navigator.png",
+  "step1" : "https://i.ibb.co/v18nLD0/5-stars.png",
+  "step2" : "0",
+  "step3" : "0",
+  "lockedlogo" : "https://i.ibb.co/K9fTkZk/lockicon-unscreen.gif",
+  "lockedtxt" : "share the app and review it with 5 for support",
+  "nothanks" : "https://i.ibb.co/BVRYzb0/NO-THANKS.png",
+  "step1type" : "cpa",
+  "step2type" : "0",
+  "step3type" : "0",
+
+    "activatelocker": "0",
+
+    "lockertype": "admob",
+    "sharetxt": "قيم التطبيق ب 5 نجوم و شاركه مع اصداقك لتشتغل جميع القنوات",
+    "ratetype": "1",
+    "showbanner2": "0",
+    "developer": "tikchbilaachmikira",
+    "email": "marioschreiner2021@gmail.com",
+    "flipper_image": [
+      "https://mydesktopwalls.com/wp-content/uploads/2020/07/PUBG-Background-1024x576.jpg",
+      "https://i.redd.it/xx7jl1ao0fsz.png",
+      "https://www.google.com/search?q=pubg+background&safe=active&client=opera&hs=22c&sxsrf=ALeKk03J5h-iisxASUwgQ8BEcC35f8_BbQ:1601541992811&source=lnms&tbm=isch&sa=X&ved=2ahUKEwi24svsgJPsAhUvDmMBHW7aA-wQ_AUoAXoECA0QAw&biw=1640&bih=909#imgrc=u-_n1spUMKSnyM"
+    ],
+    "instagram": "https://www.instagram.com/android_pubg/",
+    "package": "com.spin_skin2021.wiyha2021",
+    "privacy": "https://privqcyformyapps2021.blogspot.com/2021/01/privacy.html",
+    "store": 0,
+    "you": 1,
+    "backend": "http://radio.movietvapp.com/",
+    "youtube": "https://www.youtube.com/channel/UCnD5SfKyMhJ6Rekhcd6wX9g/featured?view_as=subscriber",
+
+
+  }
+}
