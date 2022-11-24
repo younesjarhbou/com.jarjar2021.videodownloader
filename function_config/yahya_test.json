@@ -26,9 +26,9 @@
 
 
     "match_to_channel" : 0,
-    "start_text" : "هل تود مشاهدة مباريات اليوم مجانا؟",
+    "start_text" : "هل تود مشاهدة أخبار مباريات اليوم مجانا؟",
     "start_img" : "https://i.ibb.co/1sQxjgZ/start-img.jpg",
-    "start_desc" : "التطبيق يتيح لك مشاهدة جميع المباريات مجانا",
+    "start_desc" : "التطبيق يتيح لك مشاهدة أخبار جميع المباريات مجانا",
     "match_toast" : "because of google play policy we can't play live video",
 
 
