@@ -2,8 +2,8 @@
     "config" : {
     "showbanner2": "0",
     "activate_own_ads": "0",
-    "native_position_news": 5,
-    "native_position_match": 2,
+    "native_position_news": 50,
+    "native_position_match": 20,
     "open_app" : "ca-app-pub-9892387438383680/1818284096",
     "admob_appid" : "ca-app-pub-7796159137377981~8373286567",
     "admob_bn": ["ca-app-pub-9892387438383680/6868512363"],
@@ -27,11 +27,11 @@
 
 
       
-      "ads_array_reward" : [  "admob", "apploving", "unity"],
-      "banner_ads" : [ "unity", "apploving", "admob"],
+      "ads_array_reward" : [  " ", " ", " "],
+      "banner_ads" : [ "admob", "admob", "admob"],
 
       
-      "native_ads" : [ "admob", "apploving"],
+      "native_ads" : [  " ", " ", " "],
       "test" : "false",
       "unity_app_id" : "5034161",
 
