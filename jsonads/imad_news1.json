@@ -1,14 +1,14 @@
 {
     "config" : {
     "showbanner2": "0",
-    "activate_own_ads": "0",
+    "activate_own_ads": "1",
     "native_position_news": 5,
     "native_position_match": 2,
     "open_app" : "ca-app-pub-9892387438383680/1818284096",
     "admob_appid" : "ca-app-pub-7796159137377981~8373286567",
     "admob_bn": ["ca-app-pub-9892387438383680/6868512363"],
     "admob_n": ["ca-app-pub-9892387438383680/8850256996"],
-    "admob_pub": "pub-9892387438383680",
+    "admob_pub": "pub-9684641720705107",
     "admob_r": ["ca-app-pub-3940256099942544/5224354917"],
     "admob_it": ["ca-app-pub-9892387438383680/5186683466"],
     "ironsrc_APP_KEY": "132dc1ce1",
@@ -22,7 +22,6 @@
       "apploving_banner" : "1e26109cdbd0d0ce",
       "apploving_inter" : "44dd0fc088b554ea",
 
-      
       "ads" : ["admob", "apploving", "admob", "apploving"],
       "ads_array_reward" : [  " ", " ", " "],
       "banner_ads" : [ "admob", "apploving", "admob", "apploving"],
