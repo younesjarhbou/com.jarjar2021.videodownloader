@@ -126,107 +126,107 @@
             ]
         },
         {
-            "sport_name": "Soccer",
-            "sport_image": "https://png.pngtree.com/thumb_back/fh260/back_our/20190621/ourmid/pngtree-guild-wars-world-cup-soccer-background-template-image_193273.jpg",
+            "sport_name": "NBA",
+            "sport_image": "https://cdn.vox-cdn.com/thumbor/3U7YkGWZrfbbhj5WVDa2L3waJwk=/0x0:3555x2000/1200x675/filters:focal(1494x716:2062x1284)/cdn.vox-cdn.com/uploads/chorus_image/image/71625552/NBAAwardCandidates_Feat_Getty_Ringer.0.jpg",
             "content": [
                 {
                     "name": "News",
-                    "img": "https://ichef.bbci.co.uk/images/ic/1200x675/p0dfjlx3.jpg",
-                    "link": "https://www.espn.com/soccer/index?tab=2"
+                    "img": "https://library.sportingnews.com/styles/crop_style_16_9_mobile_2x/s3/2022-06/power-rankings-ftr.jpeg?itok=xopMJpSN",
+                    "link": "https://www.espn.com/nba/"
                 },
                 {
                     "name": "Scores",
-                    "img": "https://www.woodtv.com/wp-content/uploads/sites/51/2022/08/WEB_Football-Frenzy_SCORES-1920x1080-1.jpg?strip=1&w=640",
-                    "link": "https://www.espn.com/soccer/scoreboard"
+                    "img": "https://library.sportingnews.com/styles/crop_style_16_9_mobile_2x/s3/2022-06/power-rankings-ftr.jpeg?itok=xopMJpSN",
+                    "link": "https://www.espn.com/nba/scoreboard"
                 },
                 {
-                    "name": "Leagues & cups",
-                    "img": "https://www.woodtv.com/wp-content/uploads/sites/51/2022/08/WEB_Football-Frenzy_SCORES-1920x1080-1.jpg?strip=1&w=640",
-                    "link": "https://www.espn.com/soccer/competitions"
+                    "name": "Standings",
+                    "img": "https://library.sportingnews.com/styles/crop_style_16_9_mobile_2x/s3/2022-06/power-rankings-ftr.jpeg?itok=xopMJpSN",
+                    "link": "https://www.espn.com/nba/scoreboard"
+                }
+            ]
+        },
+        {
+            "sport_name": "NHL",
+            "sport_image": "https://wallpaperaccess.com/full/2101282.jpg",
+            "content": [
+                {
+                    "name": "News",
+                    "img": "https://wallpaperaccess.com/full/2101282.jpg",
+                    "link": "https://www.espn.com/nhl/"
+                },
+                {
+                    "name": "Scores",
+                    "img": "https://wallpaperaccess.com/full/2101282.jpg",
+                    "link": "https://www.espn.com/nhl/scoreboard"
+                },
+                {
+                    "name": "Standings",
+                    "img": "https://wallpaperaccess.com/full/2101282.jpg",
+                    "link": "https://www.espn.com/nhl/standings"
+                }
+            ]
+        },
+        {
+            "sport_name": "NFL",
+            "sport_image": "https://wallpaperaccess.com/full/1802522.jpg",
+            "content": [
+                {
+                    "name": "News",
+                    "img": "https://wallpaperaccess.com/full/1802522.jpg",
+                    "link": "https://www.espn.com/nfl/"
+                },
+                {
+                    "name": "Scores",
+                    "img": "https://wallpaperaccess.com/full/1802522.jpg",
+                    "link": "https://www.espn.com/nfl/scoreboard"
+                },
+                {
+                    "name": "Standings",
+                    "img": "https://wallpaperaccess.com/full/1802522.jpg",
+                    "link": "https://www.espn.com/nfl/standings"
                 }
             ]
         },
         {
             "sport_name": "Soccer",
-            "sport_image": "https://png.pngtree.com/thumb_back/fh260/back_our/20190621/ourmid/pngtree-guild-wars-world-cup-soccer-background-template-image_193273.jpg",
+            "sport_image": "https://img.mlbstatic.com/mlb-images/image/private/t_16x9/t_w2208/mlb/mzlul18glfhpjdo9mfha.jpg",
             "content": [
                 {
                     "name": "News",
-                    "img": "https://ichef.bbci.co.uk/images/ic/1200x675/p0dfjlx3.jpg",
-                    "link": "https://www.espn.com/soccer/index?tab=2"
+                    "img": "https://img.mlbstatic.com/mlb-images/image/private/t_16x9/t_w2208/mlb/mzlul18glfhpjdo9mfha.jpg",
+                    "link": "https://www.espn.com/mlb/"
                 },
                 {
                     "name": "Scores",
-                    "img": "https://www.woodtv.com/wp-content/uploads/sites/51/2022/08/WEB_Football-Frenzy_SCORES-1920x1080-1.jpg?strip=1&w=640",
-                    "link": "https://www.espn.com/soccer/scoreboard"
+                    "img": "https://img.mlbstatic.com/mlb-images/image/private/t_16x9/t_w2208/mlb/mzlul18glfhpjdo9mfha.jpg",
+                    "link": "https://www.espn.com/mlb/scoreboard"
                 },
                 {
-                    "name": "Leagues & cups",
-                    "img": "https://www.woodtv.com/wp-content/uploads/sites/51/2022/08/WEB_Football-Frenzy_SCORES-1920x1080-1.jpg?strip=1&w=640",
-                    "link": "https://www.espn.com/soccer/competitions"
+                    "name": "Standings",
+                    "img": "https://img.mlbstatic.com/mlb-images/image/private/t_16x9/t_w2208/mlb/mzlul18glfhpjdo9mfha.jpg",
+                    "link": "https://www.espn.com/mlb/standings"
                 }
             ]
         },
         {
             "sport_name": "Soccer",
-            "sport_image": "https://png.pngtree.com/thumb_back/fh260/back_our/20190621/ourmid/pngtree-guild-wars-world-cup-soccer-background-template-image_193273.jpg",
+            "sport_image": "https://wallpaperaccess.com/full/187485.jpg",
             "content": [
                 {
                     "name": "News",
-                    "img": "https://ichef.bbci.co.uk/images/ic/1200x675/p0dfjlx3.jpg",
-                    "link": "https://www.espn.com/soccer/index?tab=2"
+                    "img": "https://wallpaperaccess.com/full/187485.jpg",
+                    "link": "https://www.espn.com/college-football/"
                 },
                 {
                     "name": "Scores",
-                    "img": "https://www.woodtv.com/wp-content/uploads/sites/51/2022/08/WEB_Football-Frenzy_SCORES-1920x1080-1.jpg?strip=1&w=640",
-                    "link": "https://www.espn.com/soccer/scoreboard"
+                    "img": "https://wallpaperaccess.com/full/187485.jpg",
+                    "link": "https://www.espn.com/college-football/scoreboard"
                 },
                 {
                     "name": "Leagues & cups",
-                    "img": "https://www.woodtv.com/wp-content/uploads/sites/51/2022/08/WEB_Football-Frenzy_SCORES-1920x1080-1.jpg?strip=1&w=640",
-                    "link": "https://www.espn.com/soccer/competitions"
-                }
-            ]
-        },
-        {
-            "sport_name": "Soccer",
-            "sport_image": "https://png.pngtree.com/thumb_back/fh260/back_our/20190621/ourmid/pngtree-guild-wars-world-cup-soccer-background-template-image_193273.jpg",
-            "content": [
-                {
-                    "name": "News",
-                    "img": "https://ichef.bbci.co.uk/images/ic/1200x675/p0dfjlx3.jpg",
-                    "link": "https://www.espn.com/soccer/index?tab=2"
-                },
-                {
-                    "name": "Scores",
-                    "img": "https://www.woodtv.com/wp-content/uploads/sites/51/2022/08/WEB_Football-Frenzy_SCORES-1920x1080-1.jpg?strip=1&w=640",
-                    "link": "https://www.espn.com/soccer/scoreboard"
-                },
-                {
-                    "name": "Leagues & cups",
-                    "img": "https://www.woodtv.com/wp-content/uploads/sites/51/2022/08/WEB_Football-Frenzy_SCORES-1920x1080-1.jpg?strip=1&w=640",
-                    "link": "https://www.espn.com/soccer/competitions"
-                }
-            ]
-        },
-        {
-            "sport_name": "Soccer",
-            "sport_image": "https://png.pngtree.com/thumb_back/fh260/back_our/20190621/ourmid/pngtree-guild-wars-world-cup-soccer-background-template-image_193273.jpg",
-            "content": [
-                {
-                    "name": "News",
-                    "img": "https://ichef.bbci.co.uk/images/ic/1200x675/p0dfjlx3.jpg",
-                    "link": "https://www.espn.com/soccer/index?tab=2"
-                },
-                {
-                    "name": "Scores",
-                    "img": "https://www.woodtv.com/wp-content/uploads/sites/51/2022/08/WEB_Football-Frenzy_SCORES-1920x1080-1.jpg?strip=1&w=640",
-                    "link": "https://www.espn.com/soccer/scoreboard"
-                },
-                {
-                    "name": "Leagues & cups",
-                    "img": "https://www.woodtv.com/wp-content/uploads/sites/51/2022/08/WEB_Football-Frenzy_SCORES-1920x1080-1.jpg?strip=1&w=640",
-                    "link": "https://www.espn.com/soccer/competitions"
+                    "img": "https://wallpaperaccess.com/full/187485.jpg",
+                    "link": "https://www.espn.com/college-football/standings"
                 }
             ]
         }
