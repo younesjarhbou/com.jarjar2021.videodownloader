@@ -25,7 +25,7 @@
     "locker_delay_in_second" : "86400" ,
 
 
-    "match_to_channel" : 0,
+    "match_to_channel" : 1,
     "start_text" : "هل تود مشاهدة أخبار مباريات اليوم مجانا؟",
     "start_img" : "https://i.ibb.co/1sQxjgZ/start-img.jpg",
     "start_desc" : "التطبيق يتيح لك مشاهدة أخبار جميع المباريات مجانا",
@@ -60,7 +60,7 @@
     "package": "com.spin_skin2021.wiyha2021",
     "privacy": "https://privqcyformyapps2021.blogspot.com/2021/01/privacy.html",
     "store": 0,
-    "you": 0,
+    "you": 1,
     "backend": "http://radio.movietvapp.com/",
     "youtube": "https://www.youtube.com/channel/UCnD5SfKyMhJ6Rekhcd6wX9g/featured?view_as=subscriber",
 
