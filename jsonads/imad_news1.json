@@ -1,6 +1,6 @@
 {
     "config" : {
-    "showbanner2": "1",
+    "showbanner2": "0",
     "activate_own_ads": "1",
     "native_position_news": 5,
     "native_position_match": 2,
