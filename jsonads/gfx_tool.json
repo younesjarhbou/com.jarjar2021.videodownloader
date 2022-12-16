@@ -28,7 +28,7 @@
 
       
       "ads_array_reward" : [  "admob", "apploving", "unity"],
-      "banner_ads" : [ "unity", "apploving", "admob"],
+      "banner_ads" : [ "unity", "unity", "unity"],
 
       
       "native_ads" : [ "admob", "apploving"],
