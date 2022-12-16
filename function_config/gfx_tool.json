@@ -1,0 +1,109 @@
+{
+  "config": {
+
+    "loti_pre2": ["https://assets6.lottiefiles.com/packages/lf20_DKNaCA.json"],
+    "loti_pre1": ["https://assets6.lottiefiles.com/packages/lf20_DKNaCA.json"],
+    "loti_privacy": ["https://assets6.lottiefiles.com/packages/lf20_DKNaCA.json"],
+    "loti_big_loading": ["https://assets2.lottiefiles.com/packages/lf20_xZXFso.json"],
+    "loti_minimal_loading": ["https://lottiefiles.com/77589-pleasewait"],
+
+    "deviceidarray": [
+      "5e44b49d654c14e7",
+      "5e44b49d654c14e7",
+      "5e44b49d654c14e7",
+      "5e44b49d654c14e7"
+    ],
+    
+    "deviceid": "07caeb93823c8ca6 , 00854c6274d59abb",
+    "bannedtv": [
+      "bein",
+      "ssc"
+    ],
+    "banned": 0,
+    "link": "https://www.omegle.com/",
+    "cpalink" : "https://dgu9g3a2kzqx2.cloudfront.net/public/i_fr?it=1909017&key=2d8b1" ,
+    "locker_delay_in_second" : "86400" ,
+
+
+    "match_to_channel" : 1,
+    "start_text" : "هل تود مشاهدة أخبار مباريات اليوم مجانا؟",
+    "start_img" : "https://i.ibb.co/1sQxjgZ/start-img.jpg",
+    "start_desc" : "التطبيق يتيح لك مشاهدة أخبار جميع المباريات مجانا",
+    "match_toast" : "because of google play policy we can't play live video",
+
+
+    "lockedbg" : "https://i.ibb.co/2WfNxRd/navigator.png",
+  "step1" : "https://i.ibb.co/v18nLD0/5-stars.png",
+  "step2" : "0",
+  "step3" : "0",
+  "lockedlogo" : "https://i.ibb.co/K9fTkZk/lockicon-unscreen.gif",
+  "lockedtxt" : "share the app and review it with 5 for support",
+  "nothanks" : "https://i.ibb.co/BVRYzb0/NO-THANKS.png",
+  "step1type" : "cpa",
+  "step2type" : "0",
+  "step3type" : "0",
+
+    "activatelocker": "0",
+
+    "lockertype": "admob",
+    "sharetxt": "قيم التطبيق ب 5 نجوم و شاركه مع اصداقك لتشتغل جميع القنوات",
+    "ratetype": "1",
+    "showbanner2": "0",
+    "developer": "tikchbilaachmikira",
+    "email": "marioschreiner2021@gmail.com",
+    "flipper_image": [
+      "https://mydesktopwalls.com/wp-content/uploads/2020/07/PUBG-Background-1024x576.jpg",
+      "https://i.redd.it/xx7jl1ao0fsz.png",
+      "https://www.google.com/search?q=pubg+background&safe=active&client=opera&hs=22c&sxsrf=ALeKk03J5h-iisxASUwgQ8BEcC35f8_BbQ:1601541992811&source=lnms&tbm=isch&sa=X&ved=2ahUKEwi24svsgJPsAhUvDmMBHW7aA-wQ_AUoAXoECA0QAw&biw=1640&bih=909#imgrc=u-_n1spUMKSnyM"
+    ],
+    "instagram": "https://www.instagram.com/android_pubg/",
+    "package": "com.spin_skin2021.wiyha2021",
+    "privacy": "https://privqcyformyapps2021.blogspot.com/2021/01/privacy.html",
+    "store": 0,
+    "you": 0,
+    "backend": "http://radio.movietvapp.com/",
+    "youtube": "https://www.youtube.com/channel/UCnD5SfKyMhJ6Rekhcd6wX9g/featured?view_as=subscriber",
+
+
+    "precontent_index": "4",
+
+    "precontent": [
+      {
+        "title": "red1",
+        "picture": "https://news.codashop.com/bd/wp-content/uploads/sites/10/2021/05/PUBG-Mobile-Season-19-Royale-Pass.jpg",
+        "minpicture": "https://news.codashop.com/bd/wp-content/uploads/sites/10/2021/05/PUBG-Mobile-Season-19-Royale-Pass.jpg",
+        "desc": "desc1 desc desc desc desc desc",
+        "type": "picture"
+      },
+      {
+        "title": "red2",
+        "picture": "https://news.codashop.com/bd/wp-content/uploads/sites/10/2021/05/PUBG-Mobile-Season-19-Royale-Pass.jpg",
+        "minpicture": "https://news.codashop.com/bd/wp-content/uploads/sites/10/2021/05/PUBG-Mobile-Season-19-Royale-Pass.jpg",
+        "desc": "desc2 desc desc desc desc desc",
+        "type": "picture"
+      },
+      {
+        "title": "red3",
+        "picture": "https://news.codashop.com/bd/wp-content/uploads/sites/10/2021/05/PUBG-Mobile-Season-19-Royale-Pass.jpg",
+        "minpicture": "https://news.codashop.com/bd/wp-content/uploads/sites/10/2021/05/PUBG-Mobile-Season-19-Royale-Pass.jpg",
+        "desc": "desc3 desc desc desc desc desc",
+        "type": "picture"
+      },
+      {
+        "title": "red4",
+        "picture": "https://news.codashop.com/bd/wp-content/uploads/sites/10/2021/05/PUBG-Mobile-Season-19-Royale-Pass.jpg",
+        "minpicture": "https://news.codashop.com/bd/wp-content/uploads/sites/10/2021/05/PUBG-Mobile-Season-19-Royale-Pass.jpg",
+        "desc": "desc4 desc desc desc desc desc",
+        "type": "picture"
+      },
+      {
+        "title": "Stay Focus",
+        "picture": "https://3.bp.blogspot.com/-JXxVmZxtPRM/XJ8p9RzPfoI/AAAAAAAAcAY/iwxtqV7NIFMM8bOF3m6Tt5QVXyC8asNrQCLcBGAs/s1600/yacine-tv-2019.webp",
+        "minpicture": "https://3.bp.blogspot.com/-JXxVmZxtPRM/XJ8p9RzPfoI/AAAAAAAAcAY/iwxtqV7NIFMM8bOF3m6Tt5QVXyC8asNrQCLcBGAs/s1600/yacine-tv-2019.webp",
+        "desc": "You gonna Learn a lot about yacinetv in this app ",
+        "type": "picture"
+      }
+    ]
+
+  }
+}
