@@ -1,6 +1,6 @@
 {
     "config" : {
-    "showbanner2": "0",
+    "showbanner2": "1",
     "activate_own_ads": "0",
     "native_position_news": 5,
     "native_position_match": 2,
@@ -23,10 +23,10 @@
       "apploving_inter" : "44dd0fc088b554ea",
 
       
-      "ads" : [" ", " ", " ", " "],
+      "ads" : ["admob", "apploving", "apploving"],
       "ads_array_reward" : [  " ", " ", " "],
-      "banner_ads" : [ "admob", "admob", "admob", "admob"],
-      "native_ads" : [ "admob", "admob", "admob", "admob"],
+      "banner_ads" : [ "admob", "apploving", "admob", "apploving"],
+      "native_ads" : [ "admob", "apploving", "admob", "apploving"],
       "test" : "false",
       "unity_app_id" : "5034161",
 
