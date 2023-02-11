@@ -28,10 +28,10 @@
 
       
       "ads_array_reward" : [  "admob", "apploving", "unity"],
-      "banner_ads" : [ "unity", "apploving", "admob"],
+      "banner_ads" : [ "own", "own", "own"],
 
       
-      "native_ads" : [ "admob", "apploving"],
+      "native_ads" : [ "own", "own"],
       "test" : "false",
       "unity_app_id" : "5034161",
 
