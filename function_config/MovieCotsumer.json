@@ -1,36 +1,17 @@
 {
-	"new_app_status": "off",
-	"new_package_name": "com.lavaflame.MMO",
-	
-	"rewarde_type": "x",
-	"native_type": "x",
-	"inter_type": "x",
-	"banner_type": "x",
 
+	"newAppStatus" : "off",
+	
+	"new_package_name" : "com.miniclip.plagueinc",
+	
 	"API_URL": "http://blog.iamakintech.com/api/",
-	  
-
-	"unity_id": "123",
-
-
-	"ironsource_id": "0034",
-
- 
-
-	"banner_applovin": "61d858b511285397",
-	"native_applovin": "576a1b48207048d4",
-	"interstitial_applovin": "021176ada934c4af",
-	"rewarde_applovin": "a07137b87780ef37",
-
-	"interstitial_admob": "",
-	"banner_admob": "",
-	"native_admob": "",
-	"rewarde_admob": "",
-
-	 
+     
+    "banner_applovin": "6372da149af8fcf2",
+    
+	"native_applovin": "8a18a9ad033b309a",
 	
-	"facebook_interstitial": "",
-	"facebook_native": "",
-	"facebook_banner": "",
-	"facebook_rewarde": ""
+	"interstitial_applovin": "ed16b7be9d922c47",
+	
+	"rewarde_applovin": "b470b77770e8b1fc"
+	
 }
