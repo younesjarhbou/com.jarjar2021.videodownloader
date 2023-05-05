@@ -1,0 +1,36 @@
+{
+	"new_app_status": "off",
+	"new_package_name": "com.lavaflame.MMO",
+	
+	"rewarde_type": "x",
+	"native_type": "x",
+	"inter_type": "x",
+	"banner_type": "x",
+
+	"API_URL": "https://github.com/",
+	  
+
+	"unity_id": "123",
+
+
+	"ironsource_id": "0034",
+
+ 
+
+	"banner_applovin": "61d858b511285397",
+	"native_applovin": "576a1b48207048d4",
+	"interstitial_applovin": "021176ada934c4af",
+	"rewarde_applovin": "a07137b87780ef37",
+
+	"interstitial_admob": "",
+	"banner_admob": "",
+	"native_admob": "",
+	"rewarde_admob": "",
+
+	 
+	
+	"facebook_interstitial": "",
+	"facebook_native": "",
+	"facebook_banner": "",
+	"facebook_rewarde": ""
+}
