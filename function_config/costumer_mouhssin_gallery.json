@@ -1,7 +1,9 @@
 {
     "config": {
       "adsInterval": 3,
-      "isGallery": 1,
+      "isGallery": 0,
+      "token": "bfe39276149e83",
+      "GalleryCountrys" : [ "US", "GB", "IT", "AU", "NZ", "IE", "ZA" ],
       "GalleryArray": [
         {
           "image1": "https://images.moviesanywhere.com/6305a9e8ed76d5fa485ac16637655cf7/bcc68be4-eede-409b-a63d-e179b28d19b4.jpg",
