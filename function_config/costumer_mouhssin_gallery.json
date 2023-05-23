@@ -1,5 +1,9 @@
 {
     "config": {
+      "ITEM_PURCHASE_CODE": "bb2f113e-973b-448b-8cb4-dc062fd67a9e",
+      "SECURE_KEY": "4F5A9C3D9A86FA54EACEDDD635185",
+      "SUBSCRIPTION_ID": "flix00",
+      "Youtube_Key": "AIzaSyAm19xCMZtVce19eaRlBx2mGlAKpfJXEN4",
       "adsInterval": 3,
       "isGallery": 0,
       "token": "bfe39276149e83",
