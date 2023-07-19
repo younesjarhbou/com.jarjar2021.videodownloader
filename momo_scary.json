@@ -252,6 +252,25 @@
       "lockedlogo" : "https://i.ibb.co/5vCqgR7/video-is-locked.png",
       "lockedtxt" : "Finish Those step firstly",
       "nothanks" : "https://i.ibb.co/BVRYzb0/NO-THANKS.png",
+      "animationTime" : 3000,
+
+      "chatarray" : [
+        {
+          "text": "What do police officers do to keep us safe?",
+          "type": "SYSTEM_MESSAGE",
+          "response": "Police officers help keep us safe by responding to emergencies, enforcing laws, and investigating crimes."
+        },
+        {
+          "text": "What should I do in an emergency?",
+          "type": "SYSTEM_MESSAGE",
+          "response": "In an emergency, call 911 for immediate help. They will send the necessary assistance."
+        },
+        {
+          "text": "Can police officers be our friends?",
+          "type": "SYSTEM_MESSAGE",
+          "response": "Absolutely! https://play.google.com/store/apps/details?id=com.wavez.skibiditoilet.johnpork.prank.fakecall Police officers can be our friends too. They are here to listen, protect, and make our community safer."
+        }
+      ],
 
 
    
