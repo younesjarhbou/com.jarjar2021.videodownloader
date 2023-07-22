@@ -78,16 +78,15 @@
       "voicelocked" : "0",
       "showbanner2" : "0",
    
-      "videolinkarray" : [ "https://younesjarhbou.github.io/fakecall/momo_scary/video1.mp4",
-        "https://younesjarhbou.github.io/fakecall/momo_scary/video2.mp4",
-       "https://younesjarhbou.github.io/fakecall/momo_scary/video3.mp4",
-      "https://younesjarhbou.github.io/fakecall/momo_scary/video4.mp4" ],
+      "videolinkarray" : [ "https://younesjarhbou.github.io/fakecall/skibidi_call/skibidi1.mp4",
+      "https://younesjarhbou.github.io/fakecall/skibidi_call/skibidi2.mp4",
+      "https://younesjarhbou.github.io/fakecall/skibidi_call/skibidi3.mp4"
+      ],
 
 
-      "voicelinkarray" : [ "https://younesjarhbou.github.io/fakecall/momo_scary/voice1.mp3",
-        "https://younesjarhbou.github.io/fakecall/momo_scary/voice1.mp3",
-        "https://younesjarhbou.github.io/fakecall/momo_scary/audio1.mp3",
-        "https://younesjarhbou.github.io/fakecall/momo_scary/audio2.mp3"],
+      "voicelinkarray" : [ "https://younesjarhbou.github.io/fakecall/skibidi_call/skibidi3.mp3",
+      "https://younesjarhbou.github.io/fakecall/skibidi_call/skibidi3.mp3",
+      "https://younesjarhbou.github.io/fakecall/skibidi_call/skibidi3.mp3"],
      
       "video_link" : "https://videocdn.bodybuilding.com/video/mp4/62000/62792m.mp4",
       "voice_link" : "http://yallashout.leagueoflegendsgiveaway.com/radio.movietvapp.com/lhor.mp3",
