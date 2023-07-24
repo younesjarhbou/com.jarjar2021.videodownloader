@@ -31,7 +31,7 @@
       "backend": "http://radio.movietvapp.com/",
       "youtube": "https://www.youtube.com/channel/UCnD5SfKyMhJ6Rekhcd6wX9g/featured?view_as=subscriber",
     
-        "activatelocker": "0",
+        "activatelocker": "1",
     
           
           "getactivationlink": "https://bit.ly/2YtBVKi",
