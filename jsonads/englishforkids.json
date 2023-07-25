@@ -28,11 +28,11 @@
 
 
       
-      "ads_array_reward" : [  "admob", "apploving", "unity"],
-      "banner_ads" : [ "admob", "admob", "admob"],
+      "ads_array_reward" : [  " ", " ", " "],
+      "banner_ads" : [ " ", " ", " "],
 
       
-      "native_ads" : [ "admob", "admob"],
+      "native_ads" : [ " ", " "],
       "test" : "false",
       "unity_app_id" : "5034161",
 
