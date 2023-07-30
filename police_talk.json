@@ -1,0 +1,169 @@
+{
+  "config" : {
+    
+    "notification_picture": "https://i.ibb.co/fCgnyQq/AD-NOITIFICATION.png",
+    "notification_link": "https://i.ibb.co/fCgnyQq/AD-NOITIFICATION.png",
+    
+
+    
+    
+
+    
+    "activatebackgroundcall" : "0",
+
+
+ 
+
+    "lockedbg" : "https://i.ibb.co/2WfNxRd/navigator.png",
+    "step1type" : "cpa",
+    "step2type" : "apploving",
+    "step3type" : "0",
+    "instagram": "https://www.instagram.com/android_pubg/",
+
+    "cpalink" : "https://dgu9g3a2kzqx2.cloudfront.net/public/i_fr?it=1909017&key=2d8b1" ,
+    "package": "com.spin_skin2021.wiyha2021",
+    "locker_delay_in_second" : "86400" ,
+  "step3" : "0",
+    "store": 0,
+
+
+    "you": 0,
+    "backend": "http://radio.movietvapp.com/",
+    "youtube": "https://www.youtube.com/channel/UCnD5SfKyMhJ6Rekhcd6wX9g/featured?view_as=subscriber",
+  
+      "activatelocker": "0",
+  
+        
+        "getactivationlink": "https://bit.ly/2YtBVKi",
+      "getactivation": "https://i.ibb.co/4gTGZwc/template.png",
+      "lockertype": "admob",
+      "sharetxt": "قيم التطبيق ب 5 نجوم و شاركه مع اصداقك لتشتغل جميع القنوات",
+      "ratetype": "1",
+
+      "precontent_index": "4",
+
+      "email": "marioschreiner2021@gmail.com",
+      "fb_banner": ["240551740927611_241790044137114","240551740927611_241790044137114","240551740927611_241790044137114"],
+      "fb_inter_id": ["240551740927611_241790440803741", "240551740927611_241790440803741", "240551740927611_241790440803741"],
+      "fb_native": ["240551740927611_241790787470373","240551740927611_241790787470373","240551740927611_241790787470373"],
+      "fb_reward": ["714799922733036_718078162405212","714799922733036_718078162405212","714799922733036_718078162405212"],
+
+    "unity_app_id" : "4172400",
+    "delay_native_banner" : 15000,
+    "test" : "true",
+
+      "banned" : 0,
+
+
+      "link" : "https://play.google.com/store/apps/details?id=video.downloader.videodownloader"
+    ,
+
+   
+    "developer" : "FutureCallingApps",
+
+    "startjob" : "0",
+    
+
+
+      
+    "smallicon" : "https://i.ibb.co/vwczRy8/icon.png",
+    "line" : "https://i.ibb.co/wMWXr4W/line.png",
+    "app_name" : "https://i.ibb.co/vwczRy8/icon.png",
+    "bigicon" : "https://i.ibb.co/vwczRy8/icon.png",
+
+    "Home-character" : "https://i.ibb.co/vwczRy8/icon.png",
+  
+
+    "videolocked" : "0",
+    "voicelocked" : "0",
+    "showbanner2" : "0",
+ 
+    "videolinkarray" : [ "https://younesjarhbou.github.io/fakecall/skibidi_call/skibidi1.mp4",
+    "https://younesjarhbou.github.io/fakecall/skibidi_call/skibidi2.mp4",
+    "https://younesjarhbou.github.io/fakecall/skibidi_call/skibidi3.mp4"
+    ],
+
+
+    "voicelinkarray" : [ "https://younesjarhbou.github.io/fakecall/skibidi_call/skibidi3.mp3",
+    "https://younesjarhbou.github.io/fakecall/skibidi_call/skibidi3.mp3",
+    "https://younesjarhbou.github.io/fakecall/skibidi_call/skibidi3.mp3"],
+   
+    "video_link" : "https://videocdn.bodybuilding.com/video/mp4/62000/62792m.mp4",
+    "voice_link" : "http://yallashout.leagueoflegendsgiveaway.com/radio.movietvapp.com/lhor.mp3",
+    "rignton" : "https://younesjarhbou.github.io/fakecall/momo_scary/voice1.mp3",
+
+
+    "step1" : "https://i.ibb.co/v18nLD0/5-stars.png",
+    "step2" : "https://i.ibb.co/JnrFbyt/watch-video.png",
+    "lockedlogo" : "https://i.ibb.co/5vCqgR7/video-is-locked.png",
+    "lockedtxt" : "Finish Those step firstly",
+    "nothanks" : "https://i.ibb.co/BVRYzb0/NO-THANKS.png",
+    "animationTime" : 3000,
+
+    "chatarray" : [
+      {
+          "text": "Hi!",
+          "type": "SYSTEM_MESSAGE",
+          "response": "Welcome to Skibidi Chat App! How can I help you?"
+      },
+      {
+          "text": "how are you?",
+          "type": "SYSTEM_MESSAGE",
+          "response": "I'm doing great, thanks for asking! How about you?"
+      },
+      {
+          "text": "I'm doing fine, too.",
+          "type": "USER_MESSAGE",
+          "response": "That's wonderful to hear! Is there anything specific you'd like to chat about?"
+      },
+      {
+          "text": "Tell me a joke!",
+          "type": "USER_MESSAGE",
+          "response": "Sure, here's a joke for you: Why don't scientists trust atoms? Because they make up everything!"
+      },
+      {
+          "text": "Haha! That was a good one.",
+          "type": "USER_MESSAGE",
+          "response": "I'm glad you enjoyed it! Do you have any other requests or questions?"
+      },
+      {
+          "text": "What's your favorite color?",
+          "type": "USER_MESSAGE",
+          "response": "As an AI, I don't have personal preferences, but I think blue is a nice color. What about you?"
+      },
+      {
+          "text": "I like green the most!",
+          "type": "USER_MESSAGE",
+          "response": "Green is a lovely color choice! It symbolizes nature and growth. Is there anything else you'd like to know?"
+      },
+      {
+          "text": "Tell me a fun fact!",
+          "type": "USER_MESSAGE",
+          "response": "Sure! Did you know that honey never spoils? Sealed honey jars found in ancient Egyptian tombs thousands of years old are still safe to eat!"
+      },
+      {
+          "text": "Wow, that's fascinating!",
+          "type": "USER_MESSAGE",
+          "response": "I'm glad you found it interesting! If you have any more questions or just want to chat, feel free to ask!"
+      },
+      {
+          "text": "Thanks! I'll chat with you later.",
+          "type": "USER_MESSAGE",
+          "response": "You're welcome! Feel free to come back anytime you want to talk. Have a great day!"
+      }
+  ],
+
+
+ 
+   
+
+    "privacy" : "https://privqcyformyapps2021.blogspot.com/2021/01/privacy.html"
+  
+  }
+
+
+
+
+
+}
+
