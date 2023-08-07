@@ -4,13 +4,13 @@
     "activate_own_ads": "0",
     "native_position_news": 5,
     "native_position_match": 2,
-    "open_app" : "ca-app-pub-9892387438383680/1818284096",
+    "open_app" : "ca-app-pub-3961363182738145/8211947458",
     "admob_appid" : "ca-app-pub-7796159137377981~8373286567",
-    "admob_bn": ["ca-app-pub-3940256099942544/6300978111"],
-    "admob_n": ["ca-app-pub-3940256099942544/2247696110"],
+    "admob_bn": ["ca-app-pub-3961363182738145/4300622600"],
+    "admob_n": ["ca-app-pub-3961363182738145/4529537521"],
     "admob_pub": "pub-9684641720705107",
-    "admob_r": ["ca-app-pub-3940256099942544/5224354917"],
-    "admob_it": ["ca-app-pub-3940256099942544/1033173712"],
+    "admob_r": ["ca-app-pub-3961363182738145/3534335846"],
+    "admob_it": ["ca-app-pub-3961363182738145/9197726064"],
     "openapp": "ca-app-pub-3940256099942544/3419835294",
     "ironsrc_APP_KEY": "132dc1ce1",
     "fb_banner": ["240551740927611_241790044137114","374902604001729_454527012705954","374902604001729_454527206039268"],
@@ -29,7 +29,7 @@
 
       
       "ads_array_reward" : [  " ", " ", " "],
-      "banner_ads" : [ " ", " ", " "],
+      "banner_ads" : [ "admob", "admob", "admob"],
 
       
       "native_ads" : [ " ", " "],
