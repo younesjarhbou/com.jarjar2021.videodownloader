@@ -29,7 +29,7 @@
 
       
       "ads_array_reward" : [  " ", " ", " "],
-      "banner_ads" : [ "admob", "admob", "admob"],
+      "banner_ads" : [ "", "", ""],
 
       
       "native_ads" : [ " ", " "],
