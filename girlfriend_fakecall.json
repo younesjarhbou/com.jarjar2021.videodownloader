@@ -1,0 +1,157 @@
+{
+  "config" : {
+    
+    "notification_picture": "https://i.ibb.co/fCgnyQq/AD-NOITIFICATION.png",
+    "notification_link": "https://i.ibb.co/fCgnyQq/AD-NOITIFICATION.png",
+    
+
+    
+    
+
+    
+    "activatebackgroundcall" : "0",
+
+
+ 
+
+    "lockedbg" : "https://i.ibb.co/2WfNxRd/navigator.png",
+    "step1type" : "cpa",
+    "step2type" : "apploving",
+    "step3type" : "0",
+    "instagram": "https://www.instagram.com/android_pubg/",
+
+    "cpalink" : "https://dgu9g3a2kzqx2.cloudfront.net/public/i_fr?it=1909017&key=2d8b1" ,
+    "package": "com.spin_skin2021.wiyha2021",
+    "locker_delay_in_second" : "86400" ,
+  "step3" : "0",
+    "store": 0,
+
+
+    "you": 0,
+    "backend": "http://radio.movietvapp.com/",
+    "youtube": "https://www.youtube.com/channel/UCnD5SfKyMhJ6Rekhcd6wX9g/featured?view_as=subscriber",
+  
+      "activatelocker": "0",
+  
+        
+        "getactivationlink": "https://bit.ly/2YtBVKi",
+      "getactivation": "https://i.ibb.co/4gTGZwc/template.png",
+      "lockertype": "admob",
+      "sharetxt": "قيم التطبيق ب 5 نجوم و شاركه مع اصداقك لتشتغل جميع القنوات",
+      "ratetype": "1",
+
+      "precontent_index": "4",
+
+      "email": "marioschreiner2021@gmail.com",
+      "fb_banner": ["240551740927611_241790044137114","240551740927611_241790044137114","240551740927611_241790044137114"],
+      "fb_inter_id": ["240551740927611_241790440803741", "240551740927611_241790440803741", "240551740927611_241790440803741"],
+      "fb_native": ["240551740927611_241790787470373","240551740927611_241790787470373","240551740927611_241790787470373"],
+      "fb_reward": ["714799922733036_718078162405212","714799922733036_718078162405212","714799922733036_718078162405212"],
+
+    "unity_app_id" : "4172400",
+    "delay_native_banner" : 15000,
+    "test" : "true",
+
+      "banned" : 0,
+
+
+      "link" : "https://play.google.com/store/apps/details?id=video.downloader.videodownloader"
+    ,
+
+   
+    "developer" : "FutureCallingApps",
+
+    "startjob" : "0",
+    
+
+
+      
+    "smallicon" : "https://i.ibb.co/vwczRy8/icon.png",
+    "line" : "https://i.ibb.co/wMWXr4W/line.png",
+    "app_name" : "https://i.ibb.co/vwczRy8/icon.png",
+    "bigicon" : "https://i.ibb.co/vwczRy8/icon.png",
+
+    "Home-character" : "https://i.ibb.co/vwczRy8/icon.png",
+  
+
+    "videolocked" : "0",
+    "voicelocked" : "0",
+    "showbanner2" : "0",
+ 
+    "videolinkarray" : [ "https://younesjarhbou.github.io/fakecall/police/video1.mp4",
+    "https://younesjarhbou.github.io/fakecall/police/video1.mp4",
+    "https://younesjarhbou.github.io/fakecall/police/video1.mp4"
+    ],
+
+
+    "voicelinkarray" : [ "https://younesjarhbou.github.io/fakecall/police/policetalk1.mp3",
+    "https://younesjarhbou.github.io/fakecall/police/policetalk1.mp3",
+    "https://younesjarhbou.github.io/fakecall/police/policetalk1.mp3"],
+   
+    "video_link" : "https://videocdn.bodybuilding.com/video/mp4/62000/62792m.mp4",
+    "voice_link" : "http://yallashout.leagueoflegendsgiveaway.com/radio.movietvapp.com/lhor.mp3",
+    "rignton" : "https://younesjarhbou.github.io/fakecall/android.mp3",
+
+
+    "step1" : "https://i.ibb.co/v18nLD0/5-stars.png",
+    "step2" : "https://i.ibb.co/JnrFbyt/watch-video.png",
+    "lockedlogo" : "https://i.ibb.co/5vCqgR7/video-is-locked.png",
+    "lockedtxt" : "Finish Those step firstly",
+    "nothanks" : "https://i.ibb.co/BVRYzb0/NO-THANKS.png",
+    "animationTime" : 3000,
+    "chatarray" : [
+      {
+        "text": "Hi, Mr. Officer! How are you today?",
+        "type": "SYSTEM_MESSAGE",
+        "response": "Hello there, kiddo! I'm doing well, thank you for asking. How about you? Is everything going okay on your end?"
+      },
+      {
+        "text": "I'm good too, thank you! I've always wondered, what made you become a police officer?",
+        "type": "SYSTEM_MESSAGE",
+        "response": "That's a great question! I became a police officer because I wanted to make a positive difference in people's lives and my community. I've always believed in justice, helping others, and ensuring everyone's safety. Being a police officer allows me to do just that."
+      },
+      {
+        "text": "Wow, that's amazing! What do you like the most about your job?",
+        "type": "SYSTEM_MESSAGE",
+        "response": "The most rewarding part of my job is knowing that I can help people when they need it the most. Whether it's responding to emergencies, solving problems, or even just being a friendly face around town, making a positive impact brings me a lot of joy."
+      },
+      {
+        "text": "It must be exciting, but also challenging sometimes, right?",
+        "type": "SYSTEM_MESSAGE",
+        "response": "You're absolutely right. Being a police officer can be both exciting and challenging. There are times when we face difficult situations that require quick thinking and problem-solving skills. But even during tough times, the support from my fellow officers and the community keeps me going."
+      },
+      {
+        "text": "I'm glad you have support! Are police officers always serious, or do you have fun too?",
+        "type": "SYSTEM_MESSAGE",
+        "response": "We definitely have fun too! While our job involves a lot of responsibility, it's essential to find a balance and enjoy life as well. In our free time, many officers, including myself, have hobbies and spend time with our families and friends. It helps us stay happy, healthy, and better able to serve the community."
+      },
+      {
+        "text": "That's great to hear! I sometimes get scared when I see police cars with flashing lights. What should I do if that happens?",
+        "type": "SYSTEM_MESSAGE",
+        "response": "It's entirely normal to feel a bit scared when you see flashing lights or hear sirens. If you're ever in a situation where you see a police car with its lights on, it's important to stay calm and move to the side of the road if you're in a car or stay out of the way if you're on foot. The police car might be responding to an emergency, and they need to get to the scene quickly and safely."
+      },
+      {
+        "text": "Okay, I'll remember that. Thank you for letting me know! Is there anything I can do to help the police?",
+        "type": "SYSTEM_MESSAGE",
+        "response": "You're welcome! It's fantastic that you want to help. One of the best things you can do is be a good citizen. That means being kind to others, respecting rules, and treating everyone with respect. If you ever see something that doesn't look right or if you're in trouble, don't hesitate to tell a grown-up you trust, like a parent, teacher, or another police officer. We all work together to keep our community safe and happy."
+      },
+      {
+        "text": "I promise I'll be a good citizen and help others! Thanks for talking to me, Mr. Officer!",
+        "type": "SYSTEM_MESSAGE",
+        "response": "It was my pleasure, little buddy! Remember, police officers are here to help and support you. If you have any more questions or just want to chat, don't hesitate to reach out. Stay curious and stay safe!"
+      }
+    ],
+
+ 
+   
+
+    "privacy" : "https://privqcyformyapps2021.blogspot.com/2021/01/privacy.html"
+  
+  }
+
+
+
+
+
+}
+
