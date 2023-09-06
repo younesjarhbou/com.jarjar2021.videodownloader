@@ -1,0 +1,87 @@
+{
+  "config" : {
+  "showbanner2": "0",
+  "activate_own_ads": "1",
+  "native_position_news": 5,
+  "native_position_match": 2,
+  "open_app" : "ca-app-pub-9892387438383680/1818284096",
+  "admob_appid" : "ca-app-pub-7796159137377981~8373286567",
+  "admob_bn": ["ca-app-pub-3940256099942544/6300978111"],
+  "admob_n": ["ca-app-pub-3940256099942544/2247696110"],
+  "admob_pub": "pub-9684641720705107",
+  "admob_r": ["ca-app-pub-3940256099942544/5224354917"],
+  "admob_it": ["ca-app-pub-3940256099942544/1033173712"],
+  "openapp": "ca-app-pub-3940256099942544/3419835294",
+  "ironsrc_APP_KEY": "132dc1ce1",
+  "fb_banner": ["240551740927611_241790044137114","374902604001729_454527012705954","374902604001729_454527206039268"],
+  "fb_inter_id": ["374902604001729_417934166365239", "374902604001729_417934276365228", "374902604001729_454526379372684"],
+  "fb_native": ["240551740927611_241790787470373","374902604001729_454527422705913","374902604001729_454527862705869"],
+  "fb_reward": ["714799922733036_718078162405212","374902604001729_454528162705839","374902604001729_454528779372444"],
+
+    "apploving_reward_id" : "8322e0ff4e98f619",
+    "apploving_native" : "123bb29aeef98af7",
+    "apploving_banner" : "1e26109cdbd0d0ce",
+    "apploving_inter" : "44dd0fc088b554ea",
+
+    
+    "ads" : [ "admob", "admob", "admob"],
+
+
+    
+    "ads_array_reward" : [  "admob", "apploving", "unity"],
+    "banner_ads" : [ "admob", "admob", "admob"],
+
+    
+    "native_ads" : [ "admob", "admob"],
+    "test" : "false",
+    "unity_app_id" : "5034161",
+
+    "unity_bn_id" : "Banner_Android",
+    "unity_it_id" : "Interstitial_Android",
+    "unity_r_id" : "rewardedVideo",
+
+    "you" : 1,
+
+    "owninter_array" : [  
+      
+      {
+    "own_inter_picture" : "https://i.ibb.co/80SDfmR/inter.png",
+    "own_inter_link" : "https://play.google.com/store/apps/details?id=com.dailyspin.ffskintool"
+    },
+   {
+        "own_inter_picture" : "https://i.ibb.co/8BhRXLg/inter.png",
+        "own_inter_link" : "https://play.google.com/store/apps/details?id=com.dailyspin.coinspinmaster"}
+    ],
+
+
+
+    "ownbanner_array" : [  
+      
+      {
+        "own_banner_picture" : "https://i.ibb.co/nRmrd9h/banner.png",
+        "own_banner_link" : "https://play.google.com/store/apps/details?id=com.dailyspin.coinspinmaster"
+  }
+    ,
+    {
+      "own_banner_picture" : "https://i.ibb.co/Fg1Wc88/banner.png",
+      "own_banner_link" : "https://play.google.com/store/apps/details?id=com.dailyspin.ffskintool"
+    }
+    ],
+
+    "ownnative_array" : [  
+      
+      {
+        "own_native_picture" : "https://i.ibb.co/mbK3njv/native.png",
+        "own_native_link" : "https://play.google.com/store/apps/details?id=com.dailyspin.coinspinmaster"
+  
+  },
+    {
+      "own_native_picture" : "https://i.ibb.co/LCW4k9v/native.png",
+      "own_native_link" : "https://play.google.com/store/apps/details?id=com.dailyspin.ffskintool"
+    }
+    ],
+
+    "privacy" : "https://privqcyformyapps2021.blogspot.com/2021/01/privacy.html"
+   
+  }
+}
