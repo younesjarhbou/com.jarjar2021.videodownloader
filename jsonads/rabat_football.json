@@ -1,7 +1,7 @@
 {
     "config" : {
     "showbanner2": "0",
-    "activate_own_ads": "0",
+    "activate_own_ads": "1",
     "native_position_news": 5,
     "native_position_match": 2,
     "open_app" : "ca-app-pub-9892387438383680/1818284096",
