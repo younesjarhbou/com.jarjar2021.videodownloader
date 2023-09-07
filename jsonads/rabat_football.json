@@ -24,21 +24,21 @@
       "apploving_inter" : "44dd0fc088b554ea",
 
       
-      "ads" : [ " ", " ", " "],
+      "ads" : [ "unity", "unity", "unity"],
 
 
       
-      "ads_array_reward" : [   "admob", "admob", "admob"],
-      "banner_ads" : [  "admob", "admob", "admob"],
+      "ads_array_reward" : [   "unity", "unity", "unity"],
+      "banner_ads" : [  "unity", "unity", "unity"],
 
       
       "native_ads" : [  "admob", "admob", "admob"],
-      "test" : "false",
+      "test" : "true",
       "unity_app_id" : "5034161",
 
       "unity_bn_id" : "Banner_Android",
       "unity_it_id" : "Interstitial_Android",
-      "unity_r_id" : "rewardedVideo",
+      "unity_r_id" : "Rewarded_Android",
 
       "you" : 1,
 
