@@ -99,46 +99,66 @@
     "lockedtxt" : "Finish Those step firstly",
     "nothanks" : "https://i.ibb.co/BVRYzb0/NO-THANKS.png",
     "animationTime" : 3000,
-    "chatarray" : [
+    "chatarray": [
       {
-        "text": "Hi, Mr. Officer! How are you today?",
+        "text": "Hey, how are you doing today?",
         "type": "SYSTEM_MESSAGE",
-        "response": "Hello there, kiddo! I'm doing well, thank you for asking. How about you? Is everything going okay on your end?"
+        "response": "Hi! I'm doing pretty well, thanks. How about you?"
       },
       {
-        "text": "I'm good too, thank you! I've always wondered, what made you become a police officer?",
-        "type": "SYSTEM_MESSAGE",
-        "response": "That's a great question! I became a police officer because I wanted to make a positive difference in people's lives and my community. I've always believed in justice, helping others, and ensuring everyone's safety. Being a police officer allows me to do just that."
+        "text": "I'm good too, but I've really missed you lately.",
+        "type": "USER_MESSAGE",
+        "response": "Aw, I've missed you too. It feels like we haven't spent much time together this week."
       },
       {
-        "text": "Wow, that's amazing! What do you like the most about your job?",
-        "type": "SYSTEM_MESSAGE",
-        "response": "The most rewarding part of my job is knowing that I can help people when they need it the most. Whether it's responding to emergencies, solving problems, or even just being a friendly face around town, making a positive impact brings me a lot of joy."
+        "text": "I know, right? Life's been so busy lately. But I was thinking, maybe we could plan something special for this weekend?",
+        "type": "USER_MESSAGE",
+        "response": "That sounds wonderful. What did you have in mind?"
       },
       {
-        "text": "It must be exciting, but also challenging sometimes, right?",
-        "type": "SYSTEM_MESSAGE",
-        "response": "You're absolutely right. Being a police officer can be both exciting and challenging. There are times when we face difficult situations that require quick thinking and problem-solving skills. But even during tough times, the support from my fellow officers and the community keeps me going."
+        "text": "Well, how about a movie night? I know there's that new romantic comedy you wanted to see.",
+        "type": "USER_MESSAGE",
+        "response": "Oh, I'd love that! What's it called?"
       },
       {
-        "text": "I'm glad you have support! Are police officers always serious, or do you have fun too?",
-        "type": "SYSTEM_MESSAGE",
-        "response": "We definitely have fun too! While our job involves a lot of responsibility, it's essential to find a balance and enjoy life as well. In our free time, many officers, including myself, have hobbies and spend time with our families and friends. It helps us stay happy, healthy, and better able to serve the community."
+        "text": "It's called 'Love and Laughter.' I heard it's really funny and heartwarming.",
+        "type": "USER_MESSAGE",
+        "response": "Perfect! When's it playing?"
       },
       {
-        "text": "That's great to hear! I sometimes get scared when I see police cars with flashing lights. What should I do if that happens?",
-        "type": "SYSTEM_MESSAGE",
-        "response": "It's entirely normal to feel a bit scared when you see flashing lights or hear sirens. If you're ever in a situation where you see a police car with its lights on, it's important to stay calm and move to the side of the road if you're in a car or stay out of the way if you're on foot. The police car might be responding to an emergency, and they need to get to the scene quickly and safely."
+        "text": "It's showing at the Oakwood Cinema. How about we go there around 7 PM?",
+        "type": "USER_MESSAGE",
+        "response": "Sounds like a plan. Should we grab dinner before the movie?"
       },
       {
-        "text": "Okay, I'll remember that. Thank you for letting me know! Is there anything I can do to help the police?",
-        "type": "SYSTEM_MESSAGE",
-        "response": "You're welcome! It's fantastic that you want to help. One of the best things you can do is be a good citizen. That means being kind to others, respecting rules, and treating everyone with respect. If you ever see something that doesn't look right or if you're in trouble, don't hesitate to tell a grown-up you trust, like a parent, teacher, or another police officer. We all work together to keep our community safe and happy."
+        "text": "That's a great idea! How about that Italian place you love, La Trattoria? Their pasta is amazing.",
+        "type": "USER_MESSAGE",
+        "response": "Yes, please! I could go for some delicious pasta. Can you make a reservation for us?"
       },
       {
-        "text": "I promise I'll be a good citizen and help others! Thanks for talking to me, Mr. Officer!",
-        "type": "SYSTEM_MESSAGE",
-        "response": "It was my pleasure, little buddy! Remember, police officers are here to help and support you. If you have any more questions or just want to chat, don't hesitate to reach out. Stay curious and stay safe!"
+        "text": "Of course, I'll take care of it. And afterward, we can grab some ice cream from that cute little shop down the street.",
+        "type": "USER_MESSAGE",
+        "response": "You know me so well! Ice cream sounds perfect. I'm really looking forward to our date night."
+      },
+      {
+        "text": "Me too, babe. It's been a hectic week, and I can't wait to just relax and enjoy some quality time with you.",
+        "type": "USER_MESSAGE",
+        "response": "Same here. You always know how to make me feel special."
+      },
+      {
+        "text": "Well, you are pretty special to me, you know.",
+        "type": "USER_MESSAGE",
+        "response": "(blushing) You're sweet. 😊"
+      },
+      {
+        "text": "So, it's a date, then. Dinner at La Trattoria, ice cream, and 'Love and Laughter' at 7 PM this Saturday?",
+        "type": "USER_MESSAGE",
+        "response": "Absolutely, I can't wait! Thanks for planning this, it means a lot."
+      },
+      {
+        "text": "Anything for you, my love. This is going to be an amazing night.",
+        "type": "USER_MESSAGE",
+        "response": "Me too, babe. Thanks for everything."
       }
     ],
 
