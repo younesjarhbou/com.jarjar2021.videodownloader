@@ -3,16 +3,8 @@
     
     "notification_picture": "https://i.ibb.co/fCgnyQq/AD-NOITIFICATION.png",
     "notification_link": "https://i.ibb.co/fCgnyQq/AD-NOITIFICATION.png",
-    
 
-    
-    
-
-    
     "activatebackgroundcall" : "0",
-
-
- 
 
     "lockedbg" : "https://i.ibb.co/2WfNxRd/navigator.png",
     "step1type" : "cpa",
@@ -34,19 +26,17 @@
       "activatelocker": "0",
   
         
-        "getactivationlink": "https://bit.ly/2YtBVKi",
-      "getactivation": "https://i.ibb.co/4gTGZwc/template.png",
-      "lockertype": "admob",
-      "sharetxt": "قيم التطبيق ب 5 نجوم و شاركه مع اصداقك لتشتغل جميع القنوات",
-      "ratetype": "1",
-
-      "precontent_index": "4",
-
-      "email": "marioschreiner2021@gmail.com",
-      "fb_banner": ["240551740927611_241790044137114","240551740927611_241790044137114","240551740927611_241790044137114"],
-      "fb_inter_id": ["240551740927611_241790440803741", "240551740927611_241790440803741", "240551740927611_241790440803741"],
-      "fb_native": ["240551740927611_241790787470373","240551740927611_241790787470373","240551740927611_241790787470373"],
-      "fb_reward": ["714799922733036_718078162405212","714799922733036_718078162405212","714799922733036_718078162405212"],
+    "getactivationlink": "https://bit.ly/2YtBVKi",
+    "getactivation": "https://i.ibb.co/4gTGZwc/template.png",
+    "lockertype": "admob",
+    "sharetxt": "قيم التطبيق ب 5 نجوم و شاركه مع اصداقك لتشتغل جميع القنوات",
+    "ratetype": "1",
+    "precontent_index": "4",
+    "email": "marioschreiner2021@gmail.com",
+    "fb_banner": ["240551740927611_241790044137114","240551740927611_241790044137114","240551740927611_241790044137114"],
+    "fb_inter_id": ["240551740927611_241790440803741", "240551740927611_241790440803741", "240551740927611_241790440803741"],
+    "fb_native": ["240551740927611_241790787470373","240551740927611_241790787470373","240551740927611_241790787470373"],
+    "fb_reward": ["714799922733036_718078162405212","714799922733036_718078162405212","714799922733036_718078162405212"],
 
     "unity_app_id" : "4172400",
     "delay_native_banner" : 15000,
@@ -62,10 +52,7 @@
     "developer" : "FutureCallingApps",
 
     "startjob" : "0",
-    
 
-
-      
     "smallicon" : "https://i.ibb.co/mBtz7f8/Icon-512.png",
     "line" : "https://i.ibb.co/wMWXr4W/line.png",
     "app_name" : "https://i.ibb.co/mBtz7f8/Icon-512.png",
@@ -169,9 +156,6 @@
         "response": "Me too, babe. Thanks for everything."
       }
     ],
-
- 
-   
 
     "privacy" : "https://privqcyformyapps2021.blogspot.com/2021/01/privacy.html"
   
