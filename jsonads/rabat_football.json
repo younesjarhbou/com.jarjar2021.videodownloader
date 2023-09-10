@@ -12,7 +12,7 @@
     "admob_r": ["ca-app-pub-3940256099942544/5224354917"],
     "admob_it": ["ca-app-pub-3940256099942544/1033173712"],
     "openapp": "ca-app-pub-3940256099942544/3419835294",
-    "ironsrc_APP_KEY": "132dc1ce1",
+    "ironsrc_APP_KEY": "1b9387f1d",
     "fb_banner": ["240551740927611_241790044137114","374902604001729_454527012705954","374902604001729_454527206039268"],
     "fb_inter_id": ["374902604001729_417934166365239", "374902604001729_417934276365228", "374902604001729_454526379372684"],
     "fb_native": ["240551740927611_241790787470373","374902604001729_454527422705913","374902604001729_454527862705869"],
@@ -24,12 +24,12 @@
       "apploving_inter" : "44dd0fc088b554ea",
 
       
-      "ads" : [ "unity", "unity", "unity"],
+      "ads" : [ "ironsrc", "ironsrc", "ironsrc"],
 
 
       
-      "ads_array_reward" : [   "unity", "unity", "unity"],
-      "banner_ads" : [   "unity", "unity", "unity"],
+      "ads_array_reward" : [   "ironsrc", "ironsrc", "ironsrc"],
+      "banner_ads" : [   "ironsrc", "ironsrc", "ironsrc"],
 
       
       "native_ads" : [  "admob", "admob", "admob"],
