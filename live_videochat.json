@@ -91,65 +91,45 @@
     "animationTime" : 3000,
     "chatarray": [
       {
-        "text": "Hey, how are you doing today?",
+        "text": "Hi, love! How are you?",
         "type": "SYSTEM_MESSAGE",
-        "response": "Hi! I'm doing pretty well, thanks. How about you?"
-      },
-      {
-        "text": "I'm good too, but I've really missed you lately.",
-        "type": "USER_MESSAGE",
-        "response": "Aw, I've missed you too. It feels like we haven't spent much time together this week."
-      },
-      {
-        "text": "I know, right? Life's been so busy lately. But I was thinking, maybe we could plan something special for this weekend?",
-        "type": "USER_MESSAGE",
-        "response": "That sounds wonderful. What did you have in mind?"
-      },
-      {
-        "text": "Well, how about a movie night? I know there's that new romantic comedy you wanted to see.",
-        "type": "USER_MESSAGE",
-        "response": "Oh, I'd love that! What's it called?"
-      },
-      {
-        "text": "It's called 'Love and Laughter.' I heard it's really funny and heartwarming.",
-        "type": "USER_MESSAGE",
-        "response": "Perfect! When's it playing?"
-      },
-      {
-        "text": "It's showing at the Oakwood Cinema. How about we go there around 7 PM?",
-        "type": "USER_MESSAGE",
-        "response": "Sounds like a plan. Should we grab dinner before the movie?"
-      },
-      {
-        "text": "That's a great idea! How about that Italian place you love, La Trattoria? Their pasta is amazing.",
-        "type": "USER_MESSAGE",
-        "response": "Yes, please! I could go for some delicious pasta. Can you make a reservation for us?"
-      },
-      {
-        "text": "Of course, I'll take care of it. And afterward, we can grab some ice cream from that cute little shop down the street.",
-        "type": "USER_MESSAGE",
-        "response": "You know me so well! Ice cream sounds perfect. I'm really looking forward to our date night."
-      },
-      {
-        "text": "Me too, babe. It's been a hectic week, and I can't wait to just relax and enjoy some quality time with you.",
-        "type": "USER_MESSAGE",
-        "response": "Same here. You always know how to make me feel special."
-      },
-      {
-        "text": "Well, you are pretty special to me, you know.",
-        "type": "USER_MESSAGE",
-        "response": "(blushing) You're sweet. 😊"
-      },
-      {
-        "text": "So, it's a date, then. Dinner at La Trattoria, ice cream, and 'Love and Laughter' at 7 PM this Saturday?",
-        "type": "USER_MESSAGE",
-        "response": "Absolutely, I can't wait! Thanks for planning this, it means a lot."
-      },
-      {
-        "text": "Anything for you, my love. This is going to be an amazing night.",
-        "type": "USER_MESSAGE",
-        "response": "Me too, babe. Thanks for everything."
-      }
+        "response": "Hey, babe! I'm doing great, especially now that I'm talking to you. How about you?"
+    },
+    {
+        "text": "I'm even better now that I'm talking to you too. You always make my day brighter. I was actually thinking about planning something special for us. How do you feel about going on a romantic date this weekend?",
+        "type": "SYSTEM_MESSAGE",
+        "response": "Oh, that sounds amazing! I would love to go on a romantic date with you. What did you have in mind?"
+    },
+    {
+        "text": "Well, how about we start the evening by going to that Italian restaurant you mentioned wanting to try? We can enjoy a delicious meal and some wine while we share stories and laugh together.",
+        "type": "SYSTEM_MESSAGE",
+        "response": "That sounds perfect! I've been craving some good Italian food lately, and I can't wait to have a lovely time with you."
+    },
+    {
+        "text": "After dinner, we could take a stroll along the beach, hand in hand. We can watch the sunset and build sandcastles like we used to when we first started dating.",
+        "type": "SYSTEM_MESSAGE",
+        "response": "Aww, that's so romantic! I miss those carefree days. It would be wonderful to relive those moments with you."
+    },
+    {
+        "text": "And to top it all off, we can finish the night by cuddling up under the stars. I'll bring a cozy blanket, and we can lay there, just enjoying each other's company.",
+        "type": "SYSTEM_MESSAGE",
+        "response": "That sounds absolutely dreamy. I can't wait to spend such a magical evening with you. Thank you for planning this, my love."
+    },
+    {
+        "text": "You know, I've also been thinking about our journey together. It's been filled with so many beautiful moments, and I'm grateful for every single one of them.",
+        "type": "SYSTEM_MESSAGE",
+        "response": "I feel the same way, darling. Our journey has been incredible, and I cherish every moment we've shared. I can't wait to create more memories with you."
+    },
+    {
+        "text": "Do you remember the first time we met? I was so nervous, but the moment I saw your smile, all my worries disappeared.",
+        "type": "SYSTEM_MESSAGE",
+        "response": "I remember it like it was yesterday. Your smile melted my heart, and I knew there was something special about you. I'm so glad we took that chance and started this beautiful journey together."
+    },
+    {
+        "text": "It's funny how time flies. It feels like just yesterday we were building sandcastles on the beach, and now we're planning a romantic date there.",
+        "type": "SYSTEM_MESSAGE",
+        "response": "Time really does fly when you're in love. But no matter how much time passes, my love for you only grows stronger. I'm looking forward to making new memories with you on our special date."
+    }
     ],
 
     "privacy" : "https://aynakoumprivacy2013.blogspot.com/2023/07/privacy-policy.html"
