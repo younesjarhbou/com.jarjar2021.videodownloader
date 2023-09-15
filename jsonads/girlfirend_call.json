@@ -18,21 +18,21 @@
   "fb_native": ["240551740927611_241790787470373","374902604001729_454527422705913","374902604001729_454527862705869"],
   "fb_reward": ["714799922733036_718078162405212","374902604001729_454528162705839","374902604001729_454528779372444"],
 
-    "apploving_reward_id" : "8322e0ff4e98f619",
-    "apploving_native" : "123bb29aeef98af7",
-    "apploving_banner" : "1e26109cdbd0d0ce",
-    "apploving_inter" : "44dd0fc088b554ea",
+    "apploving_reward_id" : "feaf3771674c27ed",
+    "apploving_native" : "4ccf3e0ee6187413",
+    "apploving_banner" : "225a4305042adeac",
+    "apploving_inter" : "acad45482eacbf6a",
 
     
-    "ads" : [ " ", " ", " "],
+    "ads" : [ "apploving", "apploving", "apploving"],
 
 
     
-    "ads_array_reward" : [  "admob", "admob", "admob"],
-    "banner_ads" : [ "admob", "admob", "admob"],
+    "ads_array_reward" : [  "apploving", "apploving", "apploving"],
+    "banner_ads" : [ "apploving", "apploving", "apploving"],
 
     
-    "native_ads" : [ "admob", "admob"],
+    "native_ads" : [ "apploving", "apploving", "apploving"],
     "test" : "false",
     "unity_app_id" : "5034161",
 
