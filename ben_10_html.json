@@ -304,6 +304,23 @@
         "desc": "You gonna Learn a lot about yacinetv in this app ",
         "type": "picture"
       }
-    ]
+    ],
+    "list_of_game" : [
+      {
+          "imageUrl": "https://assets.goal.com/v3/assets/bltcc7a7ffd2fbf71f5/blt12dbddde5342ce4c/648866ff21a8556da61fa167/GOAL_-_Blank_WEB_-_Facebook_-_2023-06-13T135350.847.png?auto=webp&format=pjpg&width=3840&quality=60",
+          "url": "https://html5.gamedistribution.com/360d204761c74873ad79cb1e6b6b3a88/?gd_sdk_referrer_url=https%3A%2F%2Ffr.y8.com%2Fgames%2Fcycle_sprint&key=y8&value=default",
+          "title": "Item 1"
+      },
+      {
+          "imageUrl": "https://assets.goal.com/v3/assets/bltcc7a7ffd2fbf71f5/blt12dbddde5342ce4c/648866ff21a8556da61fa167/GOAL_-_Blank_WEB_-_Facebook_-_2023-06-13T135350.847.png?auto=webp&format=pjpg&width=3840&quality=60",
+          "url": "https://html5.gamedistribution.com/360d204761c74873ad79cb1e6b6b3a88/?gd_sdk_referrer_url=https%3A%2F%2Ffr.y8.com%2Fgames%2Fcycle_sprint&key=y8&value=default",
+          "title": "Item 2"
+      },
+      {
+          "imageUrl": "https://assets.goal.com/v3/assets/bltcc7a7ffd2fbf71f5/blt12dbddde5342ce4c/648866ff21a8556da61fa167/GOAL_-_Blank_WEB_-_Facebook_-_2023-06-13T135350.847.png?auto=webp&format=pjpg&width=3840&quality=60",
+          "url": "https://html5.gamedistribution.com/360d204761c74873ad79cb1e6b6b3a88/?gd_sdk_referrer_url=https%3A%2F%2Ffr.y8.com%2Fgames%2Fcycle_sprint&key=y8&value=default",
+          "title": "Item 3"
+      }
+  ]
   }
 }
