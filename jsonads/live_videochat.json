@@ -24,15 +24,15 @@
     "apploving_inter" : "44dd0fc088b554ea",
 
     
-    "ads" : [ " ", " ", " "],
+    "ads" : [ "apploving", "apploving", "apploving"],
 
 
     
-    "ads_array_reward" : [  "admob", "admob", "admob"],
-    "banner_ads" : [ "admob", "admob", "admob"],
+    "ads_array_reward" : [  "apploving", "apploving", "apploving"],
+    "banner_ads" : [ "apploving", "apploving", "apploving"],
 
     
-    "native_ads" : [ "admob", "admob"],
+    "native_ads" : [ "apploving", "apploving", "apploving"],
     "test" : "false",
     "unity_app_id" : "5034161",
 
