@@ -53,7 +53,7 @@
       "getactivationlink": "https://bit.ly/2YtBVKi",
       "getactivation": "0",
       "lockertype": "admob",
-      "sharetxt": "قيم التطبيق ب 5 نجوم و شاركه مع اصداقك لتشتغل جميع القنوات",
+      "sharetxt": "Love our billiards game? Rate us 5 stars!",
       "ratetype": "1",
       "showbanner2": "0",
       "precontent_index": "4",
@@ -61,9 +61,9 @@
       "developer": "tikchbilaachmikira",
       "email": "marioschreiner2021@gmail.com",
       "flipper_image": [
-        "https://mydesktopwalls.com/wp-content/uploads/2020/07/PUBG-Background-1024x576.jpg",
-        "https://i.redd.it/xx7jl1ao0fsz.png",
-        "https://www.google.com/search?q=pubg+background&safe=active&client=opera&hs=22c&sxsrf=ALeKk03J5h-iisxASUwgQ8BEcC35f8_BbQ:1601541992811&source=lnms&tbm=isch&sa=X&ved=2ahUKEwi24svsgJPsAhUvDmMBHW7aA-wQ_AUoAXoECA0QAw&biw=1640&bih=909#imgrc=u-_n1spUMKSnyM"
+        "https://i.ibb.co/C26kJwY/background.jpg",
+        "https://i.ibb.co/h806XL5/picture2.jpg",
+        "https://i.ibb.co/HDPZ1pQ/picture1.jpg"
       ],
       "instagram": "https://www.instagram.com/android_pubg/",
   
@@ -106,9 +106,9 @@
         },
         {
           "title": "Stay Focus",
-          "picture": "https://3.bp.blogspot.com/-JXxVmZxtPRM/XJ8p9RzPfoI/AAAAAAAAcAY/iwxtqV7NIFMM8bOF3m6Tt5QVXyC8asNrQCLcBGAs/s1600/yacine-tv-2019.webp",
-          "minpicture": "https://3.bp.blogspot.com/-JXxVmZxtPRM/XJ8p9RzPfoI/AAAAAAAAcAY/iwxtqV7NIFMM8bOF3m6Tt5QVXyC8asNrQCLcBGAs/s1600/yacine-tv-2019.webp",
-          "desc": "You gonna Learn a lot about yacinetv in this app ",
+          "picture": "https://i.ibb.co/HDPZ1pQ/picture1.jpg",
+          "minpicture": "https://i.ibb.co/HDPZ1pQ/picture1.jpg",
+          "desc": "Become a pool shark and rack up the victories!",
           "type": "picture"
         }
       ],
