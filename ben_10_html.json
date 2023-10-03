@@ -14,23 +14,8 @@
     "admob_appid": "ca-app-pub-7796159137377981~8373286567",
     "open_app" : "ca-app-pub-3940256099942544/3419835294",
 
-    "apploving_native" : "57da62090ecaca78",
-    "apploving_banner" : "91a0bbddbfe0759d",
-    "apploving_inter" : "d4127142a57cef49",
- 
-    "admob_bn": ["ca-app-pub-3940256099942544/6300978111"],
-    "admob_n": ["ca-app-pub-3940256099942544/2247696110"],
-    "admob_pub": "pub-3940256099942544",
-    "admob_r": ["ca-app-pub-3940256099942544/5224354917"],
-    "admob_it": ["ca-app-pub-3940256099942544/1033173712"],
-    "ironsrc_APP_KEY": "130c3577d",
 
     "activate_own_ads": "0",
-
-    "fb_banner": ["282394517124145_282394557124141"],
-    "fb_inter_id": ["282394517124145_282394553790808"],
-    "fb_native": ["282394517124145_282394560457474"],
-    "fb_reward": ["714799922733036_718078162405212"],
 
 
     "loti_pre2": ["https://assets6.lottiefiles.com/packages/lf20_DKNaCA.json"],
@@ -39,98 +24,11 @@
     "loti_big_loading": ["https://assets2.lottiefiles.com/packages/lf20_xZXFso.json"],
     "loti_minimal_loading": ["https://lottiefiles.com/77589-pleasewait"],
 
-    "deviceidarray": [
-      "5e44b49d654c14e7",
-      "5e44b49d654c14e7",
-      "5e44b49d654c14e7",
-      "5e44b49d654c14e7"
-    ],
-
-
-    "banner_ads": [
-      "admob",
-      "admob",
-      "admob",
-      "admob"
-    ],
-    "ads": [
-      "admob",
-      "admob",
-      "admob",
-      "admob"
-    ],
-    "native_ads": [
-      "admob",
-      "admob",
-      "admob",
-      "admob"
-    ],
-    "tapdaq_n": "default",
-    "tapdaq_banner": "default",
-    "tapdaq_inter": "default",
-    "tapdaq_clientkey": "bb34ec1f-4f25-431e-8889-8c130938aede",
-    "tapdaq_appid": "617a2e9186c31c4e07c11117",
-    "tapdaq_reward": "default",
-    "tapdaq_autoreload": "1",
+   
     "deviceid": "07caeb93823c8ca6 , 00854c6274d59abb",
-    "owninter_array": [
-      {
-        "own_inter_picture": "https://i.ibb.co/Gnjysp2/own-inter-video-xdownloader.png",
-        "own_inter_link": "https://play.google.com/store/apps/details?id=com.jarjar2021.videoplayer&hl=en-US&gl=us"
-      },
-      {
-        "own_inter_picture": "https://i.ibb.co/Gnjysp2/own-inter-video-xdownloader.png",
-        "own_inter_link": "https://play.google.com/store/apps/details?id=com.jarjar2021.videoplayer&hl=en-US&gl=us"
-      },
-      {
-        "own_inter_picture": "https://i.ibb.co/Gnjysp2/own-inter-video-xdownloader.png",
-        "own_inter_link": "https://play.google.com/store/apps/details?id=com.jarjar2021.videoplayer&hl=en-US&gl=us"
-      }
-    ],
-    "ownbanner_array": [
-      {
-        "own_banner_picture": "https://i.ibb.co/j5C86wx/banner.png",
-        "own_banner_link": "https://play.google.com/store/apps/details?id=com.jarjar2021.videoplayer&hl=en-US&gl=us"
-      },
-      {
-        "own_banner_picture": "https://i.ibb.co/j5C86wx/banner.png",
-        "own_banner_link": "https://play.google.com/store/apps/details?id=com.jarjar2021.videoplayer&hl=en-US&gl=us"
-      },
-      {
-        "own_banner_picture": "https://i.ibb.co/j5C86wx/banner.png",
-        "own_banner_link": "https://play.google.com/store/apps/details?id=com.jarjar2021.videoplayer&hl=en-US&gl=us"
-      }
-    ],
-    "ownnative_array": [
-      {
-        "own_native_picture": "https://i.ibb.co/Gp4y9cH/native-video-xdownloader.png",
-        "own_native_link": "https://play.google.com/store/apps/details?id=com.jarjar2021.videoplayer&hl=en-US&gl=us"
-      },
-      {
-        "own_native_picture": "https://i.ibb.co/Gp4y9cH/native-video-xdownloader.png",
-        "own_native_link": "https://play.google.com/store/apps/details?id=com.jarjar2021.videoplayer&hl=en-US&gl=us"
-      },
-      {
-        "own_native_picture": "https://i.ibb.co/Gp4y9cH/native-video-xdownloader.png",
-        "own_native_link": "https://play.google.com/store/apps/details?id=com.jarjar2021.videoplayer&hl=en-US&gl=us"
-      }
-    ],
-    "activationlist": [
-      "bein.m3u8",
-      "3bdodyalna",
-      "2022YACINE2022",
-        "0000"
-    ],
-    "bannedtv": [
-      "bein",
-      "ssc"
-    ],
-    "ads_array_reward": [
-      "admob",
-      "admob",
-      "admob",
-      "admob"
-    ],
+
+
+
     "banned": 0,
     "link": "https://www.omegle.com/",
     "cpalink" : "https://dgu9g3a2kzqx2.cloudfront.net/public/i_fr?it=1909017&key=2d8b1" ,
@@ -168,106 +66,15 @@
       "https://www.google.com/search?q=pubg+background&safe=active&client=opera&hs=22c&sxsrf=ALeKk03J5h-iisxASUwgQ8BEcC35f8_BbQ:1601541992811&source=lnms&tbm=isch&sa=X&ved=2ahUKEwi24svsgJPsAhUvDmMBHW7aA-wQ_AUoAXoECA0QAw&biw=1640&bih=909#imgrc=u-_n1spUMKSnyM"
     ],
     "instagram": "https://www.instagram.com/android_pubg/",
-    "myownads": [
-      "https://images.wallpapersden.com/image/download/pubg-mobile-season-14_72149_3840x2160.jpg",
-      "https://wallpaperaccess.com/full/188406.jpg",
-      "https://images.wallpapersden.com/image/download/pubg-mobile-season-14_72149_3840x2160.jpg"
-    ],
+
     "package": "com.spin_skin2021.wiyha2021",
     "privacy": "https://privqcyformyapps2021.blogspot.com/2021/01/privacy.html",
     "store": 0,
-    "test": "false",
-    "unity_app_id": "4302597",
-    "unity_bn_id": "AndroidBanner",
-    "unity_it_id": "AndroidInterstitial",
-    "unity_r_id": "AndroidRewarded",
+
     "you": 1,
     "backend": "http://radio.movietvapp.com/",
     "youtube": "https://www.youtube.com/channel/UCnD5SfKyMhJ6Rekhcd6wX9g/featured?view_as=subscriber",
-    "list_of_content": [
-      {
-        "title": " تشكيلة ريال مدريد الرسمية لمواجهة برشلونة بالكلاسيكو",
-        "picture": "https://sc5.hihi2.com/wp-content/uploads/2022/01/hihi2-2022-01-12_20-17-42_336359-640x360.jpg",
-        "minpicture": "https://sc5.hihi2.com/wp-content/uploads/2022/01/hihi2-2022-01-12_20-17-42_336359-640x360.jpg",
-        "desc": "
-        أنشيلوتي مدرب نادي ريال مدريد الإسباني عن تشكيلة الفريق الرسمية لمواجهة برشلونة بكلاسيكو السوبر.
 
-        وجاءت التشكيلة على النحو التالي.
-        
-        
-        وتم استبعاد ألابا بداعي الإصابة قبل المباراة بساعات قليلة في ضربة موجعة للملكي.
-        
-        
-        يجب عليك تفعيل التطبيق و تقييمه ب 5 نجوم في متجر غووغل بلاي",
-        "type": "picture"
-      },
-      {
-        "title": "تشافي مرعوب من مواجهة ريال مدريد لهذا السبب",
-        "picture": "https://sc5.hihi2.com/wp-content/uploads/2022/01/hihi2-2022-01-12_12-09-10_407995-640x360.jpg",
-        "minpicture": "https://sc5.hihi2.com/wp-content/uploads/2022/01/hihi2-2022-01-12_12-09-10_407995-640x360.jpg",
-        "desc": "
-        خرجت تسريبات صحفية كتالونية تؤكد إن تشافي هيرنانديز مدرب برشلونة كان شديد التحذير للاعبين بأنه ممنوع إرسال الكرة نحو الركنية قدر الإمكان في مباراة الكلاسيكو ضد ريال مدريد في السوبر الأسباني .
-
-تشافي أخبرهم بأنه ممنوع ارتكاب اخطاء قريبة من أطراف الملعب كما إنه درب اللاعبين على الكرات الثابتة و شاهدوا مقاطع معا و لكن حذرهم لأنها نقطة ضعف الفريق و مؤخرا صارت أشبه بضربة جزاء وتسبب الكثير من الحرج للنادي الكتالوني .
-        يجب عليك تفعيل التطبيق و تقييمه ب 5 نجوم في متجر غووغل بلاي",
-        "type": "picture"
-      },
-      {
-        "title": "مهاجم أتلتيكو المقبل بعد رحيل لويس سواريز ",
-        "picture": "https://sc1.hihi2.com/wp-content/uploads/2022/01/hihi2-2022-01-12_11-30-58_971849-640x366.jpg",
-        "minpicture": "https://sc1.hihi2.com/wp-content/uploads/2022/01/hihi2-2022-01-12_11-30-58_971849-640x366.jpg",
-        "desc": "كشفت كوبي الأسبانية إن أتلتيكو يخطط للموسم القادم بدون لويس سواريز الذي سينتهي عقده في يونيو المقبل ولن يقوم بالتجديد مع النادي لأنه يرغب في تجربة أقل ضغطا .
-
-        أتلتيكو يفكر في بعض الحلول وهي :
-        
-        فلاهوفيتش فيورنتينا
-        
-        أوسيمين نابولي
-        
-        دوناثان ديفيد ليل
-        
-        نونيز بنفيكا
-        يجب عليك تفعيل التطبيق و تقييمه ب 5 نجوم في متجر غووغل بلاي",
-        "type": "picture"
-      },
-      {
-        "title": "صفقة جديدة تطبخ على نار هادئة داخل برشلونة",
-        "picture": "https://sc4.hihi2.com/wp-content/uploads/2022/01/hihi2-2022-01-12_11-25-47_813581.jpg",
-        "minpicture": "https://sc4.hihi2.com/wp-content/uploads/2022/01/hihi2-2022-01-12_11-25-47_813581.jpg",
-        "desc": "كشفت صحيفة سبورت الكتالونية إن برشلونة بدأ يخطط لرحيل نيتو الحارس البرازيلي للفريق في الشتاء لأنه يريد اللعب بشكل أساسي كي يضمن الذهاب مع البرازيل في كأس العالم المقبلة بقطر.
-
-        السبورت ذكرت إن برشلونة يريد التعاقد مع ديميتريفسكي حارس مرمى رايو فايكانو المتألق هذا الموسم والذي تقدر قيمته ب6 مليون يورو قيمة الشرط الجزائي في عقده ولو تمكن برشلونة من بيع نيتو سيستطيع التعاقد مع حارس رايو .
-        
-        يجب عليك تفعيل التطبيق و تقييمه ب 5 نجوم في متجر غووغل بلاي",
-        "type": "picture"
-      },
-      {
-        "title": " قائمة النجوم التي يفاوضها باريس لخلافة مبابي",
-        "picture": "https://sc2.hihi2.com/wp-content/uploads/2022/01/hihi2-2022-01-12_08-56-42_458266-640x360.jpg",
-        "minpicture": "https://sc2.hihi2.com/wp-content/uploads/2022/01/hihi2-2022-01-12_08-56-42_458266-640x360.jpg",
-        "desc": "كشفت صحيفة تايمز البريطانية إن باريس سان جيرمان قد بدأ في وضع قائمة بدلاء مبابي المُحتملين بعد أن أعلن ريال مدريد إهتمامه باللاعب في الصيف.
-
-        هذه القائمة تضم كل من :
-        
-        اوسيمين نابولي
-        
-        هالاند باريس
-        
-        ديمبلي برشلونة
-        
-        ريتشارلسون إيفرتون
-        
-        لاوتارو إنتر
-        
-        جوناثان ديفيدز ليل
-        
-        
-        
-        يجب عليك تفعيل التطبيق و تقييمه ب 5 نجوم في متجر غووغل بلاي",
-        "type": "picture"
-      }
-           
-    ],
     "precontent": [
       {
         "title": "red1",

@@ -1,0 +1,164 @@
+{
+    "config": {
+      "own_banner_picture": "https://i.ibb.co/j5C86wx/banner.png",
+      "own_banner_link": "https://play.google.com/store/apps/details?id=com.jarjar2021.videoplayer&hl=en-US&gl=us",
+      "own_inter_picture": "https://i.ibb.co/Gnjysp2/own-inter-video-xdownloader.png",
+      "own_inter_link": "https://play.google.com/store/apps/details?id=com.jarjar2021.videoplayer&hl=en-US&gl=us",
+      "notification_picture": "https://i.ibb.co/fCgnyQq/AD-NOITIFICATION.png",
+      "notification_link": "https://i.ibb.co/fCgnyQq/AD-NOITIFICATION.png",
+      "own_native_picture": "https://i.ibb.co/Gp4y9cH/native-video-xdownloader.png",
+      "own_native_link": "https://play.google.com/store/apps/details?id=com.jarjar2021.videoplayer&hl=en-US&gl=us",
+      "mopup_banner": "26bc06f9b7f040789d7025163842e6b9",
+      "mopup_inter": "e1304aeeef7d4ec68158eab69dbc6a0c",
+      "apploving_reward_id": "73696274a7f761c5",
+      "admob_appid": "ca-app-pub-7796159137377981~8373286567",
+      "open_app" : "ca-app-pub-3940256099942544/3419835294",
+  
+  
+      "activate_own_ads": "0",
+  
+  
+      "loti_pre2": ["https://assets6.lottiefiles.com/packages/lf20_DKNaCA.json"],
+      "loti_pre1": ["https://assets6.lottiefiles.com/packages/lf20_DKNaCA.json"],
+      "loti_privacy": ["https://assets6.lottiefiles.com/packages/lf20_DKNaCA.json"],
+      "loti_big_loading": ["https://assets2.lottiefiles.com/packages/lf20_xZXFso.json"],
+      "loti_minimal_loading": ["https://lottiefiles.com/77589-pleasewait"],
+  
+     
+      "deviceid": "07caeb93823c8ca6 , 00854c6274d59abb",
+  
+  
+  
+      "banned": 0,
+      "link": "https://www.omegle.com/",
+      "cpalink" : "https://dgu9g3a2kzqx2.cloudfront.net/public/i_fr?it=1909017&key=2d8b1" ,
+      "locker_delay_in_second" : "86400" ,
+  
+  
+  
+      "lockedbg" : "https://i.ibb.co/2WfNxRd/navigator.png",
+    "step1" : "https://i.ibb.co/v18nLD0/5-stars.png",
+    "step2" : "0",
+    "step3" : "0",
+    "lockedlogo" : "https://i.ibb.co/K9fTkZk/lockicon-unscreen.gif",
+    "lockedtxt" : "share the app and review it with 5 for support",
+    "nothanks" : "https://i.ibb.co/BVRYzb0/NO-THANKS.png",
+    "step1type" : "cpa",
+    "step2type" : "0",
+    "step3type" : "0",
+  
+      "activatelocker": "0",
+  
+        
+      "getactivationlink": "https://bit.ly/2YtBVKi",
+      "getactivation": "0",
+      "lockertype": "admob",
+      "sharetxt": "قيم التطبيق ب 5 نجوم و شاركه مع اصداقك لتشتغل جميع القنوات",
+      "ratetype": "1",
+      "showbanner2": "0",
+      "precontent_index": "4",
+      "delay_native_banner": 15000,
+      "developer": "tikchbilaachmikira",
+      "email": "marioschreiner2021@gmail.com",
+      "flipper_image": [
+        "https://mydesktopwalls.com/wp-content/uploads/2020/07/PUBG-Background-1024x576.jpg",
+        "https://i.redd.it/xx7jl1ao0fsz.png",
+        "https://www.google.com/search?q=pubg+background&safe=active&client=opera&hs=22c&sxsrf=ALeKk03J5h-iisxASUwgQ8BEcC35f8_BbQ:1601541992811&source=lnms&tbm=isch&sa=X&ved=2ahUKEwi24svsgJPsAhUvDmMBHW7aA-wQ_AUoAXoECA0QAw&biw=1640&bih=909#imgrc=u-_n1spUMKSnyM"
+      ],
+      "instagram": "https://www.instagram.com/android_pubg/",
+  
+      "package": "com.spin_skin2021.wiyha2021",
+      "privacy": "https://privqcyformyapps2021.blogspot.com/2021/01/privacy.html",
+      "store": 0,
+  
+      "you": 1,
+      "backend": "http://radio.movietvapp.com/",
+      "youtube": "https://www.youtube.com/channel/UCnD5SfKyMhJ6Rekhcd6wX9g/featured?view_as=subscriber",
+  
+      "precontent": [
+        {
+          "title": "red1",
+          "picture": "https://news.codashop.com/bd/wp-content/uploads/sites/10/2021/05/PUBG-Mobile-Season-19-Royale-Pass.jpg",
+          "minpicture": "https://news.codashop.com/bd/wp-content/uploads/sites/10/2021/05/PUBG-Mobile-Season-19-Royale-Pass.jpg",
+          "desc": "desc1 desc desc desc desc desc",
+          "type": "picture"
+        },
+        {
+          "title": "red2",
+          "picture": "https://news.codashop.com/bd/wp-content/uploads/sites/10/2021/05/PUBG-Mobile-Season-19-Royale-Pass.jpg",
+          "minpicture": "https://news.codashop.com/bd/wp-content/uploads/sites/10/2021/05/PUBG-Mobile-Season-19-Royale-Pass.jpg",
+          "desc": "desc2 desc desc desc desc desc",
+          "type": "picture"
+        },
+        {
+          "title": "red3",
+          "picture": "https://news.codashop.com/bd/wp-content/uploads/sites/10/2021/05/PUBG-Mobile-Season-19-Royale-Pass.jpg",
+          "minpicture": "https://news.codashop.com/bd/wp-content/uploads/sites/10/2021/05/PUBG-Mobile-Season-19-Royale-Pass.jpg",
+          "desc": "desc3 desc desc desc desc desc",
+          "type": "picture"
+        },
+        {
+          "title": "red4",
+          "picture": "https://news.codashop.com/bd/wp-content/uploads/sites/10/2021/05/PUBG-Mobile-Season-19-Royale-Pass.jpg",
+          "minpicture": "https://news.codashop.com/bd/wp-content/uploads/sites/10/2021/05/PUBG-Mobile-Season-19-Royale-Pass.jpg",
+          "desc": "desc4 desc desc desc desc desc",
+          "type": "picture"
+        },
+        {
+          "title": "Stay Focus",
+          "picture": "https://3.bp.blogspot.com/-JXxVmZxtPRM/XJ8p9RzPfoI/AAAAAAAAcAY/iwxtqV7NIFMM8bOF3m6Tt5QVXyC8asNrQCLcBGAs/s1600/yacine-tv-2019.webp",
+          "minpicture": "https://3.bp.blogspot.com/-JXxVmZxtPRM/XJ8p9RzPfoI/AAAAAAAAcAY/iwxtqV7NIFMM8bOF3m6Tt5QVXyC8asNrQCLcBGAs/s1600/yacine-tv-2019.webp",
+          "desc": "You gonna Learn a lot about yacinetv in this app ",
+          "type": "picture"
+        }
+      ],
+      "list_of_game" : [
+        {
+            "imageUrl": "https://img.y8.com/cloud/y8-thumbs/49868/small.png",
+            "url": "https://html5.gamedistribution.com/rvvASMiM/327b17b4dc814c0c9d8320e69c1a1907/index.html",
+            "title": "Billiard Neon"
+        },
+        {
+            "imageUrl": "https://i.ibb.co/dbzycHp/Screenshot-2023-09-29-001613.png",
+            "url": "https://cdn.htmlgames.com/PoolBilliard/index.html?key=9452266&value=177286",
+            "title": "Pool Billiard"
+        },
+        {
+            "imageUrl": "https://i.ibb.co/N3vmK3L/Screenshot-2023-09-29-002227.png",
+            "url": "https://html5.gamedistribution.com/0a22f186468c4ecdb062b96297b0ce91/?gd_sdk_referrer_url=https%3A%2F%2Ffr.y8.com%2Fgames%2Fspeed_billiard&key=y8&value=default",
+            "title": "Speed Billiard"
+        },
+        {
+          "imageUrl": "https://i.ibb.co/nQndnGX/Screenshot-2023-09-29-002756.png",
+          "url": "https://play.gamepix.com/mafia-billiard-tricks/embed?key=y8&sid=110879&value=default",
+          "title": "Mafia Billiard Tricks"
+      },
+      {
+          "imageUrl": "https://i.ibb.co/Rjt1vyd/Screenshot-2023-09-29-003250.png",
+          "url": "https://play.famobi.com/billiard-blitz-challenge/A-5U0J1?key=y8&value=default",
+          "title": "Billiard Blitz Challenge"
+      },
+      {
+          "imageUrl": "https://i.ibb.co/9WwJdDm/Screenshot-2023-09-29-003719.png",
+          "url": "https://html5.gamemonetize.com/6wuegi7z7tr73msj6vmwz6y43vm7cefj/?key=y8&value=default",
+          "title": "Pool Shooter: Billiard Ball"
+      },
+      {
+        "imageUrl": "https://i.ibb.co/zFMjTvG/Screenshot-2023-09-29-004319.png",
+        "url": "https://html5.gamemonetize.co/y2jmbj3jynsmrizjm66q2xd978wahj9f/",
+        "title": "Black Hole Billiard"
+    },
+    {
+        "imageUrl": "https://i.ibb.co/r5crPbj/Screenshot-2023-09-29-004725.png",
+        "url": "https://storage.y8.com/y8-studio/html5/akeemywka/billiards/?key=y8&value=default",
+        "title": "Billiards"
+    },
+    {
+        "imageUrl": "https://i.ibb.co/XWhCzGz/Screenshot-2023-09-29-005029.png",
+        "url": "https://html5.gamedistribution.com/5599daed64d9456992f9029945544e1d/?gd_sdk_referrer_url=https%3A%2F%2Ffr.y8.com%2Fgames%2F3d_billiard_8_ball_pool&key=y8&value=default",
+        "title": "3D Billiard 8 Ball Pool"
+    }
+    ]
+    }
+  }
+  
